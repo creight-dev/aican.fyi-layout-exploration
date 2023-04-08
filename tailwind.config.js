@@ -1,14 +1,16 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 const { radixToTailwind } = require('./lib/radixToTailwind')
-const { mauve, mauveDark, pink, pinkDark } = require('@radix-ui/colors')
+const { sand, sandDark, blackA, gray, grayDark, mauve, mauveDark, pink, pinkDark } = require('@radix-ui/colors')
 /** @type {import('tailwindcss').Config} */
 module.exports = {
+  darkMode: 'class',
   content: ['./pages/**/*.{js,ts,jsx,tsx}', './components/**/*.{js,ts,jsx,tsx}', './app/**/*.{js,ts,jsx,tsx}'],
   theme: {
     extend: {
       colors: {
-        neutral: radixToTailwind(mauve),
-        neutralDark: radixToTailwind(mauveDark),
+        overlay: radixToTailwind(blackA),
+        neutral: radixToTailwind(gray),
+        neutralDark: radixToTailwind(grayDark),
         primary: radixToTailwind(pink),
         primaryDark: radixToTailwind(pinkDark),
       },
