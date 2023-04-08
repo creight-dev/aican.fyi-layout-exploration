@@ -1,10 +1,8 @@
 import './globals.css'
-import { Inter } from 'next/font/google'
 import clsx from 'clsx'
 
 import { ThemeProvider } from '@/components/theme-provider'
-
-const inter = Inter({ subsets: ['latin'], variable: '--font-sans' })
+import { bluuNextFont, geliatFont } from '@/styles/fonts'
 
 export const metadata = {
   title: 'Create Next App',
@@ -13,7 +11,11 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en" className={clsx(inter.variable, 'h-full  font-sans antialiased ')} suppressHydrationWarning>
+    <html
+      lang="en"
+      className={clsx(geliatFont.variable, bluuNextFont.variable, 'h-full  font-sans antialiased ')}
+      suppressHydrationWarning
+    >
       <body className="flex h-full flex-col bg-neutral-2 text-neutral-12 dark:bg-neutralDark-1 dark:text-neutralDark-12">
         <ThemeProvider attribute="class" defaultTheme="light" disableTransitionOnChange>
           {children}

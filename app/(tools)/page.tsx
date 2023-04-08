@@ -16,7 +16,7 @@ const Home = () => (
       <SidePanel />
       <div>
         <section className="space-y-4">
-          <h2 className="text-xl font-medium">Art</h2>
+          <h2 className="font-heading text-xl tracking-wide">Art</h2>
           <div className="grid grid-cols-3 gap-4 lg:gap-6">
             {tools.slice(0, 6).map(tool => (
               <ToolCard {...tool} />
@@ -25,7 +25,7 @@ const Home = () => (
         </section>
         <section className="mt-10 space-y-4">
           <div className="flex w-full items-center justify-between">
-            <h2 className="text-xl font-medium">Text to Speech</h2>
+            <h2 className="font-heading text-xl tracking-wide">Text to Speech</h2>
             <span className="cursor-pointer text-sm text-primary-10">View more</span>
           </div>
           <div className="grid grid-cols-3 gap-4 lg:gap-6">

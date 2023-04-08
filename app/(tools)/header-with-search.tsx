@@ -7,9 +7,9 @@ export type HeaderWithSearchProps = {
 }
 const HeaderWithSearch = ({ heading, subheading, onSearch }: HeaderWithSearchProps) => (
   <div className="">
-    <div className="lg:flex lg:justify-between">
+    <div className="lg:flex lg:items-end lg:justify-between">
       <div className="max-w-xl">
-        <h2 className="text-3xl font-bold leading-tight tracking-tight">{heading}</h2>
+        <h2 className="font-heading text-3xl font-bold leading-tight tracking-tight">{heading}</h2>
         {subheading && <p className="mt-5 text-xl text-neutral-11 dark:text-neutralDark-11">{subheading}</p>}
       </div>
       <div className="mt-10 w-full max-w-xs">
