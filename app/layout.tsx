@@ -1,4 +1,8 @@
 import './globals.css'
+import { Inter } from 'next/font/google'
+import clsx from "clsx";
+
+const inter = Inter({ subsets: ['latin'],variable: '--font-sans' })
 
 export const metadata = {
   title: 'Create Next App',
@@ -11,7 +15,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="en">
+    <html lang="en" className={clsx(inter.variable,'font-sans')}>
       <body>{children}</body>
     </html>
   )
