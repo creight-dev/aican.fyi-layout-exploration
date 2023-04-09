@@ -18,7 +18,6 @@ const CATEGORIES = [
   'Text to Voice Over and Video',
   'Transcriber',
   'Email Assistant',
-  'mage Editing',
   'Photo',
   'Education Assistant',
   'Video Editing',

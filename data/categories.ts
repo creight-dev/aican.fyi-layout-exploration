@@ -2487,7 +2487,7 @@ export const categories = [
   },
   {
     name: "Let's Enhance",
-    category: 'mage Editing',
+    category: 'Image Editing',
     url: 'https://letsenhance.io',
     description:
       'Image enhancer & upscaler. Automatic AI editor to increase\n image resolution without losing quality. Make your photos look their best in one click',
