@@ -1,11 +1,11 @@
 import React from 'react'
 
-export type ToolCardProps = {
+export type ResourceProps = {
   name: string
   description: string
 }
 
-const ToolCard = ({ name, description }: ToolCardProps) => {
+const Resource = ({ name, description }: ResourceProps) => {
   return (
     <div className="rounded-md bg-white p-5 shadow-1 ring-1 ring-transparent dark:bg-neutralDark-2 dark:shadow-none dark:ring-neutralDark-6">
       <div className="flex h-full flex-col gap-y-4">
@@ -19,4 +19,4 @@ const ToolCard = ({ name, description }: ToolCardProps) => {
   )
 }
 
-export default ToolCard
+export default Resource
