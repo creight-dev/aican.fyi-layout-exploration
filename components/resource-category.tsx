@@ -1,5 +1,4 @@
 import React from 'react'
-import { categories } from '@/data/categories'
 import clsx from 'clsx'
 
 import Resource, { ResourceProps } from '@/components/resource'
@@ -30,8 +29,8 @@ const ShowMoreButton = () => (
   </button>
 )
 const ResourceCategory = ({ category, resources }: ResourceCategoryProps) => {
-  const showMore = resources.length > DEFAULT_MAX_ITEMS
   const count = resources.length
+  const showMore = count > DEFAULT_MAX_ITEMS
   if (showMore) resources = resources.slice(0, DEFAULT_MAX_ITEMS)
   return (
     <section className="space-y-4">
