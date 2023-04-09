@@ -9,8 +9,8 @@ export type HeaderProps = {}
 const navigation = [
   { name: 'Tools', href: '#', current: true },
   { name: 'Guides', href: '#', current: false },
-  { name: 'Community', href: '#', current: false },
-  { name: 'Projects', href: '#', current: false },
+  // { name: 'Community', href: '#', current: false },
+  // { name: 'Projects', href: '#', current: false },
 ]
 const ProfileDropdown = () => (
   <div className="relative ml-3">
