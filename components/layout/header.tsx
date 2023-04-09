@@ -172,7 +172,7 @@ const MobileMenu = () => (
 
 const Header = ({}: HeaderProps) => {
   return (
-    <nav className="border-b border-neutral-6 bg-white dark:border-neutralDark-6 dark:bg-neutralDark-2">
+    <nav className="border-b border-neutral-6 bg-neutral-2 dark:border-neutralDark-6 dark:bg-neutralDark-2">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="flex h-16 justify-between">
           <div className="flex">

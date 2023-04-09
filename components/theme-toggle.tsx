@@ -15,8 +15,8 @@ const ThemeToggle = ({}: ThemeToggleProps) => {
           setTheme(theme === 'light' ? 'dark' : 'light')
         }}
         type="button"
-        className="rounded-full bg-white p-1 text-neutral-10 hover:text-neutral-12 focus:outline-none
-                dark:bg-neutralDark-5 dark:text-neutralDark-10 dark:ring-1 dark:ring-neutralDark-7 dark:hover:text-neutralDark-12 dark:hover:ring-neutralDark-8"
+        className="rounded-full bg-neutral-5 p-1 text-neutral-10 ring-1 ring-neutral-7
+                hover:text-neutral-12 hover:ring-neutral-8 focus:outline-none dark:bg-neutralDark-5 dark:text-neutralDark-10 dark:ring-neutralDark-7 dark:hover:text-neutralDark-12 dark:hover:ring-neutralDark-8"
       >
         <span className="sr-only">View notifications</span>
         <SunIcon className="hidden h-5 w-5 dark:block" aria-hidden="true" />
