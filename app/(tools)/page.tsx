@@ -65,7 +65,7 @@ const CATEGORIES = [
   'Social Media Assistant',
   'Personalized Videos',
 ]
-const DEFAULT_CATEGORIES_TO_SHOW = 5
+const DEFAULT_CATEGORIES_TO_SHOW = CATEGORIES.length
 const Home = () => {
   let categories: Array<{ name: string; resources: Array<typeof rawData> }> = []
   CATEGORIES.slice(0, DEFAULT_CATEGORIES_TO_SHOW).forEach(category => {

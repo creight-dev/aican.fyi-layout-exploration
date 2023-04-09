@@ -18,6 +18,15 @@ const Count = ({ count }: { count: number }) => {
     </span>
   )
 }
+
+const ShowMoreButton = () => (
+  <button
+    type="button"
+    className="rounded-full bg-transparent px-2.5 py-1 text-xs font-semibold text-primary-9 ring-1 ring-primary-7  hover:ring-primary-8 dark:text-primaryDark-9 dark:ring-primaryDark-7 dark:hover:ring-primaryDark-8"
+  >
+    Show all
+  </button>
+)
 const ResourceCategory = ({ category, resources }: ResourceCategoryProps) => {
   const showMore = resources.length > DEFAULT_MAX_ITEMS
   const count = resources.length
@@ -29,7 +38,7 @@ const ResourceCategory = ({ category, resources }: ResourceCategoryProps) => {
           <h2 className="font-heading text-xl tracking-wide">{category}</h2>
           {showMore && <Count count={count} />}
         </div>
-        <span className={clsx('cursor-pointer text-sm text-primary-10', { hidden: !showMore })}>View more</span>
+        {showMore && <ShowMoreButton />}
       </div>
       <div className="grid grid-cols-3 gap-4 lg:gap-6">
         {resources.map(resource => (
