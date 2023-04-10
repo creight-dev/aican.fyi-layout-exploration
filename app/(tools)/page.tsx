@@ -77,7 +77,7 @@ const Home = () => {
   return (
     <AppShell>
       <HeaderWithSearch
-        heading="AI Tools"
+        heading="AI Tools & Apps"
         subheading="Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet."
       />
       <div className="grid grid-cols-[auto_1fr] gap-x-12 pt-16">
