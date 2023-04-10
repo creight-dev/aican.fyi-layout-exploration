@@ -1,79 +1,19 @@
-import HeaderWithSearch from '@/app/(tools)/header-with-search'
-import { categories as rawData } from '@/prisma/categories'
-
+import { db } from '@/lib/db'
 import AppShell from '@/components/app-shell'
 import SidePanel from '@/components/layout/side-panel'
 import ResourceCategory from '@/components/resource-category'
+import HeaderWithSearch from './header-with-search'
 
-const CATEGORIES = [
-  'Search Engine',
-  'Real Estate',
-  'Life Assistant',
-  'Music',
-  'Healthcare',
-  'Text to Animated Video',
-  'Research',
-  'Fun Tools',
-  'Avatars',
-  'Text to Voice Over and Video',
-  'Transcriber',
-  'Email Assistant',
-  'Photo',
-  'Education Assistant',
-  'Video Editing',
-  'Code Assistant',
-  'Image Editing',
-  'Story Teller',
-  'Spreadsheets',
-  'Gift Ideas',
-  'Experiments',
-  'Voiceover + avatar',
-  'Low-code/no-code',
-  'Design Assistant',
-  'Prompts',
-  'Paraphraser',
-  'Video Generator',
-  'Cloned voiceover',
-  'Copywriting',
-  'SQL',
-  'Resources',
-  'Startup',
-  'Logo Generator',
-  'General Writing',
-  'Gaming',
-  'Text',
-  'Human Resources',
-  'Audio Editing',
-  'Memory',
-  'Customer Support',
-  'Animated Video Generator',
-  'Legal Assistant',
-  'Sales',
-  'Developer Tools',
-  'Art',
-  'Fashion',
-  '3D',
-  'Text To Speech',
-  'Summarizer',
-  'Video Creation and Editing',
-  'Social Media Assistant',
-  'Image Generator',
-  'SEO',
-  'Video Planner',
-  'Productivity',
-  'Social Media Assistant',
-  'Personalized Videos',
-]
-const DEFAULT_CATEGORIES_TO_SHOW = CATEGORIES.length
-const Home = () => {
-  let categories: Array<{ name: string; resources: Array<typeof rawData> }> = []
-  CATEGORIES.slice(0, DEFAULT_CATEGORIES_TO_SHOW).forEach(category => {
-    categories.push({
-      name: category,
-      resources: rawData.filter(resource => resource.category === category),
-    })
+// TODO: get all categories from prisma
+const getCategories = async () => {
+  return await db.category.findMany({
+    include: {
+      resources: true,
+    },
   })
-
+}
+const Home = async () => {
+  const categories = await getCategories()
   return (
     <AppShell>
       <HeaderWithSearch
