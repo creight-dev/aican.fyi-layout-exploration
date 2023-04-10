@@ -1,5 +1,5 @@
 import HeaderWithSearch from '@/app/(tools)/header-with-search'
-import { categories as rawData } from '@/data/categories'
+import { categories as rawData } from '@/prisma/categories'
 
 import AppShell from '@/components/app-shell'
 import SidePanel from '@/components/layout/side-panel'

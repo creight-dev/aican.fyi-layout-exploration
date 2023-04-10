@@ -22,7 +22,7 @@ export const resources = [
     category: 'Art',
     url: 'https://www.midjourney.com/ho me/',
     description:
-      'AI art generator based on Stable Diffusion. Their website describes them as "an independent research lab exploring new mediums of thought and expanding the imaginative\n powers of the human species.',
+      'AI art generator based on Stable Diffusion. Their website describes them as "an independent research lab exploring new mediums of thought and expanding the imaginative powers of the human species.',
   },
   {
     name: 'Chat GPT',
@@ -55,14 +55,14 @@ export const resources = [
     category: '3D',
     url: 'https://www.prometheanai.com',
     description:
-      "Promethean AI is world's first Artificial Intelligence that works together with Artists, assists them in the process of building virtual worlds and helps creative problem solving by\n suggesting ideas.",
+      "Promethean AI is world's first Artificial Intelligence that works together with Artists, assists them in the process of building virtual worlds and helps creative problem solving by suggesting ideas.",
   },
   {
     name: 'Leonardo.Ai',
     category: '3D',
     url: 'https://leonardo.ai',
     description:
-      'Creativity, Revolutionized Generate production-quality assets\n for your creative projects with AI-driven speed and style- consistency.',
+      'Creativity, Revolutionized Generate production-quality assets for your creative projects with AI-driven speed and style- consistency.',
   },
   {
     name: 'Mirageml',
@@ -76,27 +76,27 @@ export const resources = [
     category: '3D',
     url: 'https://pixela.ai',
     description:
-      'AI Generated Game Textures. All of these images were\n generated with a Stable Diffusion Algorithm. Upload your\n generated texture to share with the community!',
+      'AI Generated Game Textures. All of these images were generated with a Stable Diffusion Algorithm. Upload your generated texture to share with the community!',
   },
   {
     name: 'Kaedim',
     category: '3D',
     url: 'https://www.kaedim3d.com',
-    description: '2D image to 3D model. Automatically convert 2D to 3D online\n with AI.',
+    description: '2D image to 3D model. Automatically convert 2D to 3D online with AI.',
   },
   {
     name: 'Kinetix',
     category: '3D',
     url: 'https://www.kinetix.tech',
     description:
-      'The no-code platform for creating 3D animations for free.\n Take yourself to the metaverse. No skills required.',
+      'The no-code platform for creating 3D animations for free. Take yourself to the metaverse. No skills required.',
   },
   {
     name: 'Poly',
     category: '3D',
     url: 'https://withpoly.com',
     description:
-      'Generate Textures in Seconds with AI. Create unlimited high-\n resolution, fully-custom, commercially-licensed textures with\n just a text prompt.',
+      'Generate Textures in Seconds with AI. Create unlimited high- resolution, fully-custom, commercially-licensed textures with just a text prompt.',
   },
   {
     name: 'DeepMotion',
@@ -109,8 +109,7 @@ export const resources = [
     name: 'Scenario',
     category: '3D',
     url: 'https://www.scenario.gg',
-    description:
-      'AI-generated game assets. Create high-quality, style-\n consistent, proprietary assets for your games.',
+    description: 'AI-generated game assets. Create high-quality, style- consistent, proprietary assets for your games.',
   },
   {
     name: 'Luma AI',
@@ -129,14 +128,14 @@ export const resources = [
     name: 'GET3D (Nvidia)',
     category: '3D',
     url: 'https://nv-tlabs.github.io/GET3D',
-    description: 'A Generative Model of High Quality 3D Textured Shapes\n Learned from Images.',
+    description: 'A Generative Model of High Quality 3D Textured Shapes Learned from Images.',
   },
   {
     name: 'Imagine 3D',
     category: '3D',
     url: 'https://captures.lumalabs.ai',
     description:
-      'Imagine 3D is an early experiment to prototype 3D with text.\n We will expand access to generation as the quality and usability improves',
+      'Imagine 3D is an early experiment to prototype 3D with text. We will expand access to generation as the quality and usability improves',
   },
   {
     name: 'Dream Up (Deviant Art)',
@@ -146,7 +145,7 @@ export const resources = [
       'DeviantArt DreamUp™ lets you create AI art knowing that creators and their work are treated fairly. Create any image you can imagine with the power of artificial intelligence! Try DreamUp with 5 free prompts.',
   },
   {
-    name: 'NightCafe\n Studio',
+    name: 'NightCafe Studio',
     category: 'Art',
     url: 'https://creator.nightcafe.studio',
     description: 'AI Art Generator. Create amazing artworks using the power of Artificial Intelligence.',
@@ -162,14 +161,14 @@ export const resources = [
     category: 'Art',
     url: 'https://www.wombo.art',
     description:
-      'Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn\n your idea into an AI-powered painting in seconds.',
+      'Create beautiful artwork using the power of AI. Enter a prompt, pick an art style and watch WOMBO Dream turn your idea into an AI-powered painting in seconds.',
   },
   {
     name: 'Neural.love Art Generator',
     category: 'Art',
     url: 'https://neural.love',
     description:
-      "Free AI Art Generator that's generated over 5 million images.\n Imagine: you create a stunning masterpiece by throwing 2-3 words to AI. It's not SciFi anymore.",
+      "Free AI Art Generator that's generated over 5 million images. Imagine: you create a stunning masterpiece by throwing 2-3 words to AI. It's not SciFi anymore.",
   },
   {
     name: 'Playground AI',
@@ -183,7 +182,7 @@ export const resources = [
     category: 'Art',
     url: 'https://libraire.ai',
     description:
-      'The largest library of AI-generated images. Search through\n 10M images and prompts generated with Stable Diffusion.',
+      'The largest library of AI-generated images. Search through 10M images and prompts generated with Stable Diffusion.',
   },
   {
     name: 'Mage',
@@ -202,19 +201,19 @@ export const resources = [
     name: 'Dreamlike.art',
     category: 'Art',
     url: 'https://dreamlike.art',
-    description: 'Magical AI tools. Create endless original images, modify\n existing ones, and more.',
+    description: 'Magical AI tools. Create endless original images, modify existing ones, and more.',
   },
   {
     name: 'DiffusionBee',
     category: 'Art',
     url: 'https://diffusionbee.com',
-    description: 'The easiest way to generate AI art on your computer with\n Stable Diffusion.',
+    description: 'The easiest way to generate AI art on your computer with Stable Diffusion.',
   },
   {
     name: 'Civitai',
     category: 'Art',
     url: 'https://civitai.com',
-    description: 'community! Free to use, open source, and continually\n improving.',
+    description: 'community! Free to use, open source, and continually improving.',
   },
   {
     name: 'Lexica',
@@ -227,7 +226,7 @@ export const resources = [
     category: 'Art',
     url: 'https://aipicasso.studio.site',
     description:
-      'Create Art with Powerful AI. It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. AI completes the filled area. You can edit filled\n areas with prompts.',
+      'Create Art with Powerful AI. It generates an image from the text you enter, just as you expect using an AI called Stable Diffusion. AI completes the filled area. You can edit filled areas with prompts.',
   },
   {
     name: 'Fy! Studio',
@@ -240,7 +239,7 @@ export const resources = [
     name: 'DaVinciFace',
     category: 'Art',
     url: 'https://www.davinciface.com',
-    description: 'The only AI that creates a DaVinci-styled portrait from your\n photo.',
+    description: 'The only AI that creates a DaVinci-styled portrait from your photo.',
   },
   {
     name: 'ArtHub',
@@ -253,19 +252,19 @@ export const resources = [
     name: 'Super Prompt',
     category: 'Art',
     url: 'https://superprompts.com',
-    description: 'Create a beautiful gallery for your AI art without leaving\n Twitter.',
+    description: 'Create a beautiful gallery for your AI art without leaving Twitter.',
   },
   {
     name: 'PicSo',
     category: 'Art',
     url: 'https://picso.ai',
-    description: 'Text to AI art maker. Turn your words into incredible and\n high-quality artwork.',
+    description: 'Text to AI art maker. Turn your words into incredible and high-quality artwork.',
   },
   {
     name: 'Daft Art',
     category: 'Art',
     url: 'https://daftart.ai',
-    description: "AI album art generator. Create the album cover you've always\n dreamed of!",
+    description: "AI album art generator. Create the album cover you've always dreamed of!",
   },
   {
     name: 'Clipdrop',
@@ -285,7 +284,7 @@ export const resources = [
     category: 'Audio Editing',
     url: 'https://www.altered.ai',
     description:
-      'Augment Your Voice. Our unique technology allows you to\n change your voice to any of our carefully curated portfolio or custom voices and create compelling professional voice\n performances.',
+      'Augment Your Voice. Our unique technology allows you to change your voice to any of our carefully curated portfolio or custom voices and create compelling professional voice performances.',
   },
   {
     name: 'Adobe Podcast',
@@ -299,7 +298,7 @@ export const resources = [
     category: 'Audio Editing',
     url: 'https://podcastle.ai',
     description:
-      'The One-Stop Shop for Broadcast Storytelling. Great AI tool for podcasters or anyone who deals with long-form video creation. Studio-quality recording, AI-powered editing, and\n seamless exporting – all in a single web-based platform.',
+      'The One-Stop Shop for Broadcast Storytelling. Great AI tool for podcasters or anyone who deals with long-form video creation. Studio-quality recording, AI-powered editing, and seamless exporting – all in a single web-based platform.',
   },
   {
     name: 'Cleanvoice AI',
@@ -326,7 +325,7 @@ export const resources = [
     category: 'Avatars',
     url: 'https://dreampic.ai/',
     description:
-      'AI-Generated Pictures Starring You Create AI-generated\n avatars, user pics, and profile pictures for you and your friends. Upload your photos and let AI do the job. Powered\n by Stable Diffusion and DreamBooth.',
+      'AI-Generated Pictures Starring You Create AI-generated avatars, user pics, and profile pictures for you and your friends. Upload your photos and let AI do the job. Powered by Stable Diffusion and DreamBooth.',
   },
   {
     name: 'Vana Portrait',
@@ -340,14 +339,14 @@ export const resources = [
     category: 'Avatars',
     url: 'https://www.hairgen.ai',
     description:
-      'Ever wonder how you would look with a hair transplant? Get a preview of how you would look before you spend thousands on a FUE/FUT procedure. See your hairline\n lowered with AI right now.',
+      'Ever wonder how you would look with a hair transplant? Get a preview of how you would look before you spend thousands on a FUE/FUT procedure. See your hairline lowered with AI right now.',
   },
   {
     name: 'Avatarify',
     category: 'Avatars',
     url: 'https://avatarify.art/',
     description:
-      "Create personalized avatars using artificial intelligence. Their technology allows you to generate lifelike representations of people, animals, and even fictional characters. Just pay for the GPUs you rent. If you don't like it, they re-render the\n avatars.",
+      "Create personalized avatars using artificial intelligence. Their technology allows you to generate lifelike representations of people, animals, and even fictional characters. Just pay for the GPUs you rent. If you don't like it, they re-render the avatars.",
   },
   {
     name: 'AI Time Machine',
@@ -361,17 +360,17 @@ export const resources = [
     category: 'Avatars',
     url: 'https://beb.ai',
     description:
-      'Beb.ai allows you to generate avatars of yourself, animals, or\n famous characters. Receive endless creative content for your\n brand.',
+      'Beb.ai allows you to generate avatars of yourself, animals, or famous characters. Receive endless creative content for your brand.',
   },
   {
     name: 'PictoDream',
     category: 'Avatars',
     url: 'https://pictodream.com/',
     description:
-      'Generate images of yourself with AI. Put anyone in any style\n or setting using a simple text description.',
+      'Generate images of yourself with AI. Put anyone in any style or setting using a simple text description.',
   },
   {
-    name: 'Ready Player\n Me',
+    name: 'Ready Player Me',
     category: 'Avatars',
     url: 'https://readyplayer.me/',
     description: 'Cross-game Avatar Platform for the Metaverse. One avatar, many worlds to explore.',
@@ -381,34 +380,34 @@ export const resources = [
     category: 'Avatars',
     url: 'https://www.mygemsouls.com/',
     description:
-      'Meet, befriend, and create virtual characters. On a mission to\n bring gem-like virtual humans to life.',
+      'Meet, befriend, and create virtual characters. On a mission to bring gem-like virtual humans to life.',
   },
   {
     name: 'Theoasis',
     category: 'Avatars',
     url: 'https://theoasis.com/',
-    description: 'Create a photorealistic avatar that you can use on every\n video platform.',
+    description: 'Create a photorealistic avatar that you can use on every video platform.',
   },
   {
     name: 'Arti.pics',
     category: 'Avatars',
     url: 'https://www.arti.pics/',
     description:
-      'Arti.pics is AI-powered avatar maker. It allows you to upload\n a few photos of yourself and generates more than 200 cool-\n looking avatars in different styles.',
+      'Arti.pics is AI-powered avatar maker. It allows you to upload a few photos of yourself and generates more than 200 cool- looking avatars in different styles.',
   },
   {
     name: 'Profile Picture AI',
     category: 'Avatars',
     url: 'https://www.profilepicture.ai',
     description:
-      'Create your perfect profile picture with AI. Your profile\n picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be\n anything, anywhere, or anyone!',
+      'Create your perfect profile picture with AI. Your profile picture is the first thing people see when they look at your profile. We use artificial intelligence to generate an image of you that looks perfect and captures who you are. You can be anything, anywhere, or anyone!',
   },
   {
     name: 'NeuralStudio',
     category: 'Avatars',
     url: 'https://neural.cam/studio',
     description:
-      'Neural Studio is an all in one Photo & Art Studio, powered by\n the latest AI technologies, that empowers creators to reach\n their creative goals easily.',
+      'Neural Studio is an all in one Photo & Art Studio, powered by the latest AI technologies, that empowers creators to reach their creative goals easily.',
   },
   {
     name: 'Character AI',
@@ -420,7 +419,7 @@ export const resources = [
     name: 'PhotoAI',
     category: 'Avatars',
     url: 'https://photoai.me/',
-    description: 'Create AI photos of yourself. Generate 30 photos of yourself\n in our best artistic styles.',
+    description: 'Create AI photos of yourself. Generate 30 photos of yourself in our best artistic styles.',
   },
   {
     name: 'Avatar AI',
@@ -431,7 +430,7 @@ export const resources = [
   {
     name: 'Digirama',
     category: 'Avatars',
-    url: 'https://apps.apple.com/us/app/c\n haracter-creator- digirama/id6444673721',
+    url: 'https://apps.apple.com/us/app/c haracter-creator- digirama/id6444673721',
     description: 'Digirama is an AI character creator available as a mobile app.',
   },
   {
@@ -439,7 +438,7 @@ export const resources = [
     category: 'Avatars',
     url: 'https://www.inworld.ai',
     description:
-      'Lifelike AI characters that can carry on open-ended\n conversations. Ask them anything. Built for gaming,\n entertainment, and virtual worlds.',
+      'Lifelike AI characters that can carry on open-ended conversations. Ask them anything. Built for gaming, entertainment, and virtual worlds.',
   },
   {
     name: 'HairstyleAI',
@@ -453,14 +452,14 @@ export const resources = [
     category: 'Avatars',
     url: 'https://in3d.io/',
     description:
-      'Turn people into realistic avatars! Realistic and customizable\n avatars created with a phone camera within a minute for\n your metaverse, game, or app.',
+      'Turn people into realistic avatars! Realistic and customizable avatars created with a phone camera within a minute for your metaverse, game, or app.',
   },
   {
     name: 'Reface AI',
     category: 'Avatars',
     url: 'https://hey.reface.ai',
     description:
-      'An AI app to face-swap in GIFs and videos. Their AI Avatar feature allows the creation of high-quality artwork-like portraits (available on iOS & Android). Upload 10 photos, and wait for an hour. Get 48 unique artworks with yourself as the main character in various art styles — from superheroes to\n cyberpunk.',
+      'An AI app to face-swap in GIFs and videos. Their AI Avatar feature allows the creation of high-quality artwork-like portraits (available on iOS & Android). Upload 10 photos, and wait for an hour. Get 48 unique artworks with yourself as the main character in various art styles — from superheroes to cyberpunk.',
   },
   {
     name: 'Unrealme',
@@ -473,7 +472,7 @@ export const resources = [
     category: 'Avatars',
     url: 'https://prisma-ai.com/lensa',
     description:
-      "Lensa is a picture editor for selfies and photo retouching. The app has many filters for pictures to get a sweet selfie, remove any blur background or do any other necessary editing. With its simple features and photo-effects, you can make every photo perfect 365 days a year. Capture memorable moments and do the necessary photo editing to freeze each moment in time. You don't need a photo lab or dark room because\n within seconds your peachy selfie is ready.",
+      "Lensa is a picture editor for selfies and photo retouching. The app has many filters for pictures to get a sweet selfie, remove any blur background or do any other necessary editing. With its simple features and photo-effects, you can make every photo perfect 365 days a year. Capture memorable moments and do the necessary photo editing to freeze each moment in time. You don't need a photo lab or dark room because within seconds your peachy selfie is ready.",
   },
   {
     name: 'CodeSquire',
@@ -487,42 +486,42 @@ export const resources = [
     category: 'Code Assistant',
     url: 'https://www.buildt.ai',
     description:
-      'AI-powered search to find code by searching for what it does,\n not just what it is. Once you find the part of the codebase their AI allows you to make changes simply by describing what you want',
+      'AI-powered search to find code by searching for what it does, not just what it is. Once you find the part of the codebase their AI allows you to make changes simply by describing what you want',
   },
   {
     name: 'Hey, GitHub!',
     category: 'Code Assistant',
     url: 'https://githubnext.com/projects/ hey-github',
     description:
-      'This tool hleps you write code without touching the\n keyboard. It uses your voice to code without typing by talking\n with GitHub copilot.',
+      'This tool hleps you write code without touching the keyboard. It uses your voice to code without typing by talking with GitHub copilot.',
   },
   {
     name: 'WhatTheDiff',
     category: 'Code Assistant',
     url: 'https://whatthediff.ai',
     description:
-      'Your AI-powered code review assistant. Save costly developer time by automating pull request summaries. Open a pull request and get a summary of the changes in seconds.\n Instantly understand the implications of small pull requests\n and get a huge headstart on big ones.',
+      'Your AI-powered code review assistant. Save costly developer time by automating pull request summaries. Open a pull request and get a summary of the changes in seconds. Instantly understand the implications of small pull requests and get a huge headstart on big ones.',
   },
   {
     name: 'Maverick',
     category: 'Code Assistant',
     url: 'https://www.trymaverick.com',
     description:
-      'Maverick is a code completion tool powered by AI. Built at\n Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to\n any APIs or knowledge bases.',
+      'Maverick is a code completion tool powered by AI. Built at Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.',
   },
   {
     name: 'Continual',
     category: 'Code Assistant',
     url: 'https://continual.ai/',
     description:
-      'Operational AI for the Modern Data Stack. Continual is the\n leading operational AI platform for the modern data stack.\n Build predictive models that never stop improving without complex engineering. Try it for free.',
+      'Operational AI for the Modern Data Stack. Continual is the leading operational AI platform for the modern data stack. Build predictive models that never stop improving without complex engineering. Try it for free.',
   },
   {
     name: 'Lookup',
     category: 'Code Assistant',
     url: 'https://app.uselookup.com',
     description:
-      'Get answers from your data in seconds. Lookup is the AI-\n powered analytics platform that helps you get from data to insight 10X faster. Import your data, ask questions, get\n results instantly.',
+      'Get answers from your data in seconds. Lookup is the AI- powered analytics platform that helps you get from data to insight 10X faster. Import your data, ask questions, get results instantly.',
   },
   {
     name: 'Clippy AI',
@@ -549,14 +548,14 @@ export const resources = [
     category: 'Code Assistant',
     url: 'https://www.useblackbox.io/',
     description:
-      'BlackBox AI is a AI powered coding assistant so you can code\n 10x faster. It enables you to turn any question into code and features like extract code from any video and code\n autocompletion.',
+      'BlackBox AI is a AI powered coding assistant so you can code 10x faster. It enables you to turn any question into code and features like extract code from any video and code autocompletion.',
   },
   {
     name: 'CodeAssist',
     category: 'Code Assistant',
     url: 'https://plugins.jetbrains.com/plu gin/20085-codeassist',
     description:
-      'CodeAssist (for Intellij) is an AI assistant / chatbot / copilot for programming. It generates or changes the code, given a description of the changes that you want to make. After installing, you can open it by clicking "CodeAssist" tab in the bottom-left corner. CodeAssist works with all popular\n programming languages.',
+      'CodeAssist (for Intellij) is an AI assistant / chatbot / copilot for programming. It generates or changes the code, given a description of the changes that you want to make. After installing, you can open it by clicking "CodeAssist" tab in the bottom-left corner. CodeAssist works with all popular programming languages.',
   },
   {
     name: 'Programminghel per',
@@ -570,56 +569,56 @@ export const resources = [
     category: 'Code Assistant',
     url: 'https://github.com/features/copi lot',
     description:
-      'Your AI pair programmer. GitHub Copilot uses the OpenAI\n Codex to suggest code and entire functions in real-time, right\n from your editor.',
+      'Your AI pair programmer. GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.',
   },
   {
     name: 'AskCodi',
     category: 'Code Assistant',
     url: 'https://www.askcodi.com',
     description:
-      'Write Syntax, Comments, and Tests. Faster. Easier. Better. AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent\n on development and more time to execute.',
+      'Write Syntax, Comments, and Tests. Faster. Easier. Better. AskCodi is made keeping in mind the needs of developers to avoid redundant tasks, therefore resulting in less time spent on development and more time to execute.',
   },
   {
     name: 'Amazon CodeWhisperer',
     category: 'Code Assistant',
     url: 'https://aws.amazon.com/codew hisperer/',
     description:
-      'Amazon CodeWhisperer is a machine learning (ML)–powered\n service that helps improve developer productivity by generating code recommendations based on their comments in natural language and code in the integrated development\n environment (IDE).',
+      'Amazon CodeWhisperer is a machine learning (ML)–powered service that helps improve developer productivity by generating code recommendations based on their comments in natural language and code in the integrated development environment (IDE).',
   },
   {
     name: 'Cheat Layer',
     category: 'Code Assistant',
     url: 'https://cheatlayer.com/',
     description:
-      'No-Code Business Automation. Cheat layer solves impossible\n business automation problems using a combination of no- code tools and machine learning to function as your personal\n software engineer.',
+      'No-Code Business Automation. Cheat layer solves impossible business automation problems using a combination of no- code tools and machine learning to function as your personal software engineer.',
   },
   {
     name: 'AI CLI',
     category: 'Code Assistant',
     url: 'https://github.com/abhagsain',
     description:
-      "Open Source GPT -3 Powered CLI The current prompt length\n is ~840 tokens and the pricing for text-davinci-002 is $0.02 for 1K tokens which is ~$0.017/command. We'll see if we can improve the response as well as reduce the per-command-\n cost with fine-tuning.",
+      "Open Source GPT -3 Powered CLI The current prompt length is ~840 tokens and the pricing for text-davinci-002 is $0.02 for 1K tokens which is ~$0.017/command. We'll see if we can improve the response as well as reduce the per-command- cost with fine-tuning.",
   },
   {
     name: 'CodeGeeX',
     category: 'Code Assistant',
     url: 'https://huggingface.co/spaces/T HUDM/CodeGeeX',
     description:
-      'CodeGeeX is a large-scale multilingual code generation model\n with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation',
+      'CodeGeeX is a large-scale multilingual code generation model with 13 billion parameters, pre-trained on a large code corpus of more than 20 programming languages. CodeGeeX supports 15+ programming languages for both code generation and translation',
   },
   {
     name: 'Maverick',
     category: 'Code Assistant',
     url: 'https://marketplace.visualstudio. com/items?itemName=YurtsAI.m averick&',
     description:
-      'Maverick is a code completion tool powered by AI. Built at\n Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.',
+      'Maverick is a code completion tool powered by AI. Built at Yurts, Maverick focuses on delivering the best code completion on your local machine without reaching out to any APIs or knowledge bases.',
   },
   {
     name: 'Tabnine',
     category: 'Code Assistant',
     url: 'https://www.tabnine.com',
     description:
-      'Whether you’re part of a team, or a developer working on\n your own, Tabnine will help you write code faster – all in your\n favorite IDE.',
+      'Whether you’re part of a team, or a developer working on your own, Tabnine will help you write code faster – all in your favorite IDE.',
   },
   {
     name: 'Spellbox',
@@ -639,35 +638,35 @@ export const resources = [
     category: 'Code Assistant',
     url: 'https://replit.com',
     description:
-      'Replit recently added a feature called Ghostwriter that uses\n AI to complete code. Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, &\n interpreter.',
+      'Replit recently added a feature called Ghostwriter that uses AI to complete code. Write and run code in 50+ languages in your browser with Replit, a powerful IDE, compiler, & interpreter.',
   },
   {
     name: 'Codeium',
     category: 'Code Assistant',
     url: 'https://www.codeium.com/',
     description:
-      'Codeium is the modern coding superpower, a code acceleration toolkit built on cutting edge AI technology. With easy integration into editors, you can focus on being the best\n software developer, not the best code monkey.',
+      'Codeium is the modern coding superpower, a code acceleration toolkit built on cutting edge AI technology. With easy integration into editors, you can focus on being the best software developer, not the best code monkey.',
   },
   {
     name: 'Hypotenuse ai',
     category: 'Copywriting',
     url: 'https://hypotenuse.ai/',
     description:
-      'Turn a few keywords into original, insightful articles, product\n descriptions and social media copy with AI copywriting—all in just minutes. Try it free today.',
+      'Turn a few keywords into original, insightful articles, product descriptions and social media copy with AI copywriting—all in just minutes. Try it free today.',
   },
   {
     name: 'Bertha.ai',
     category: 'Copywriting',
     url: 'https://bertha.ai',
     description:
-      'The best value AI Copywriting assistant there is - Fact! Get\n 5,000 Words free forever. Bertha AI - the copywriting assistant for WordPress and beyond.',
+      'The best value AI Copywriting assistant there is - Fact! Get 5,000 Words free forever. Bertha AI - the copywriting assistant for WordPress and beyond.',
   },
   {
     name: 'Digital First AI',
     category: 'Copywriting',
     url: 'https://digitalfirst.ai',
     description:
-      'Create marketing plans in seconds using AI. Find the best\n growth-hacking tactics for your business with AI. Switch\n marketing to autopilot and grow.',
+      'Create marketing plans in seconds using AI. Find the best growth-hacking tactics for your business with AI. Switch marketing to autopilot and grow.',
   },
   {
     name: 'Botowski',
@@ -679,34 +678,34 @@ export const resources = [
     name: 'VEG3',
     category: 'Copywriting',
     url: 'https://veg3.ai',
-    description: "Join the beta test for the world's first vegan artificial\n intelligence marketing assistant.",
+    description: "Join the beta test for the world's first vegan artificial intelligence marketing assistant.",
   },
   {
     name: 'Daydrm.ai',
     category: 'Copywriting',
     url: 'https://www.daydrm.ai',
     description:
-      'AI tool for creative advertising ideas. Concepts-on-demand for creatives and agencies. A large language model trained on\n human-written creative advertising campaigns.',
+      'AI tool for creative advertising ideas. Concepts-on-demand for creatives and agencies. A large language model trained on human-written creative advertising campaigns.',
   },
   {
     name: 'Jasper AI',
     category: 'Copywriting',
     url: 'https://jasper.ai',
     description:
-      'Create content 10x faster with artificial intelligence. Jasper is\n the highest quality AI copywriting tool with over 3,000 5-star reviews. Best for writing blog posts, social media content, and\n marketing copy.',
+      'Create content 10x faster with artificial intelligence. Jasper is the highest quality AI copywriting tool with over 3,000 5-star reviews. Best for writing blog posts, social media content, and marketing copy.',
   },
   {
     name: 'Peppertype.ai',
     category: 'Copywriting',
     url: 'https://www.peppertype.ai',
-    description: 'Your virtual content assistant that helps you generate quality\n content within seconds.',
+    description: 'Your virtual content assistant that helps you generate quality content within seconds.',
   },
   {
     name: 'unbounce',
     category: 'Copywriting',
     url: 'https://unbounce.com',
     description:
-      'Ideate, iterate, and write custom, high-quality, engaging\n professional copy. Between the web app, handy desktop app and Chrome extension, bring Smart Copy with you across\n your favorite tools.',
+      'Ideate, iterate, and write custom, high-quality, engaging professional copy. Between the web app, handy desktop app and Chrome extension, bring Smart Copy with you across your favorite tools.',
   },
   {
     name: 'Easy-Peasy.AI',
@@ -720,7 +719,7 @@ export const resources = [
     category: 'Copywriting',
     url: 'https://simplified.com/ai-writer',
     description:
-      'Simplified AI Writer is a free ai copywriting assistant that\n generates high-quality content for blogs, articles, product descriptions, websites & social media.',
+      'Simplified AI Writer is a free ai copywriting assistant that generates high-quality content for blogs, articles, product descriptions, websites & social media.',
   },
   {
     name: 'CopyMonkey',
@@ -734,7 +733,7 @@ export const resources = [
     category: 'Copywriting',
     url: 'https://anyword.com',
     description:
-      'Anyword’s AI writing assistant generates effective copy for\n anyone. Take the guesswork out of your marketing text with\n an AI copywriting tool that converts.',
+      'Anyword’s AI writing assistant generates effective copy for anyone. Take the guesswork out of your marketing text with an AI copywriting tool that converts.',
   },
   {
     name: 'Lek',
@@ -748,7 +747,7 @@ export const resources = [
     category: 'Copywriting',
     url: 'https://copysmith.ai/',
     description:
-      'The chosen AI Copywriting Software for eCommerce teams &\n agencies. Generate more revenue than ever before. Sign up\n for your free trial today.',
+      'The chosen AI Copywriting Software for eCommerce teams & agencies. Generate more revenue than ever before. Sign up for your free trial today.',
   },
   {
     name: 'Copy.ai',
@@ -762,7 +761,7 @@ export const resources = [
     category: 'Copywriting',
     url: 'https://cowriter.org/',
     description:
-      'Tired of staring at a blank screen? Meet your AI copywriter\n that can create inspiring creative content.',
+      'Tired of staring at a blank screen? Meet your AI copywriter that can create inspiring creative content.',
   },
   {
     name: 'Contents',
@@ -775,48 +774,48 @@ export const resources = [
     name: 'Creator AI',
     category: 'Copywriting',
     url: 'https://www.creaitor.ai/',
-    description: 'Creaitor helps you write content in a more powerful,\n emotionally expressive way.',
+    description: 'Creaitor helps you write content in a more powerful, emotionally expressive way.',
   },
   {
     name: 'Adcreative.ai',
     category: 'Copywriting',
     url: 'https://adcreative.ai',
     description:
-      'Generate conversion focused ad and social media post\n creatives in a matter of seconds. Get better results while\n saving time.',
+      'Generate conversion focused ad and social media post creatives in a matter of seconds. Get better results while saving time.',
   },
   {
     name: 'WiziShop',
     category: 'Copywriting',
     url: 'https://wizishop.com/ai',
     description:
-      "Use WiziShop's Artificial Intelligence to write your e-\n commerce product descriptions, find inspiration for your future articles, easily go international, and generate more\n traffic to your store!",
+      "Use WiziShop's Artificial Intelligence to write your e- commerce product descriptions, find inspiration for your future articles, easily go international, and generate more traffic to your store!",
   },
   {
     name: 'Rytr',
     category: 'Copywriting',
     url: 'https://rytr.me/',
     description:
-      'Rytr is an AI writing assistant that helps you create high-\n quality content, in just a few seconds, at a fraction of the\n cost!',
+      'Rytr is an AI writing assistant that helps you create high- quality content, in just a few seconds, at a fraction of the cost!',
   },
   {
     name: 'Unbound',
     category: 'Copywriting',
     url: 'https://www.unboundcontent.ai',
     description:
-      'Automate content creation for your small business. Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops\n and creators.',
+      'Automate content creation for your small business. Leverage all the best AI generation tools in one place designed to automate content creation for small business, online shops and creators.',
   },
   {
     name: 'texti',
     category: 'Copywriting',
     url: 'https://texti.app',
-    description: 'AI that lives in your browser! It will cooperate with you to\n boost your content quality!',
+    description: 'AI that lives in your browser! It will cooperate with you to boost your content quality!',
   },
   {
     name: 'Ocoya',
     category: 'Copywriting',
     url: 'https://www.ocoya.net',
     description:
-      'A platform to create, auto-generate and schedule content\n quicker. Content marketing, copywriting and social media in\n minutes!',
+      'A platform to create, auto-generate and schedule content quicker. Content marketing, copywriting and social media in minutes!',
   },
   {
     name: 'BotDistrikt',
@@ -828,33 +827,33 @@ export const resources = [
     name: 'Poly ai',
     category: 'Customer Support',
     url: 'https://poly.ai/',
-    description: 'Superhuman Voice Assistants. Answer every call immediately,\n 24/7. No agents needed.',
+    description: 'Superhuman Voice Assistants. Answer every call immediately, 24/7. No agents needed.',
   },
   {
     name: 'Kore.ai',
     category: 'Customer Support',
     url: 'https://kore.ai/',
     description:
-      'Driving AI-Optimized Customer and Employee Experiences.\n We are the world leader in Conversational AI technology, helping companies deliver extraordinary experiences for their customers, agents, and employees on voice and digital\n channels.',
+      'Driving AI-Optimized Customer and Employee Experiences. We are the world leader in Conversational AI technology, helping companies deliver extraordinary experiences for their customers, agents, and employees on voice and digital channels.',
   },
   {
     name: 'viable',
     category: 'Customer Support',
     url: 'https://www.askviable.com/',
-    description: 'Automate your qualitative data analysis without\n compromising quality.',
+    description: 'Automate your qualitative data analysis without compromising quality.',
   },
   {
     name: 'Vee',
     category: 'Customer Support',
     url: 'https://vee.ai/en/',
     description:
-      'An intelligent consultant people enjoy talking to. Vee has already spoken with 5 million Poles, effectively implementing business processes for dozens of companies from various\n industries.',
+      'An intelligent consultant people enjoy talking to. Vee has already spoken with 5 million Poles, effectively implementing business processes for dozens of companies from various industries.',
   },
   {
     name: 'Quickchat',
     category: 'Customer Support',
     url: 'https://www.quickchat.ai',
-    description: 'Quickchat automates processes such as sales, customer\n support, onboarding or online booking.',
+    description: 'Quickchat automates processes such as sales, customer support, onboarding or online booking.',
   },
   {
     name: 'Forethought',
@@ -868,18 +867,18 @@ export const resources = [
     category: 'Customer Support',
     url: 'https://typewise.app',
     description:
-      'Boosting customer service and sales productivity. Our\n powerful AI solutions save time & improve communication for both users and companies. Book a demo today!',
+      'Boosting customer service and sales productivity. Our powerful AI solutions save time & improve communication for both users and companies. Book a demo today!',
   },
   {
     name: 'Ebi.Ai',
     category: 'Customer Support',
     url: 'https://ebi.ai',
-    description: 'Reduce call volumes and improve customer experiences with\n an AI assistant.',
+    description: 'Reduce call volumes and improve customer experiences with an AI assistant.',
   },
   {
     name: 'Harvey',
     category: 'Customer Support',
-    url: 'https://hiverhq.com/harvey-ai-\n customer-support',
+    url: 'https://hiverhq.com/harvey-ai- customer-support',
     description: 'The AI Sidekick that makes teams more productive',
   },
   {
@@ -887,67 +886,67 @@ export const resources = [
     category: 'Customer Support',
     url: 'https://cohere.io/',
     description:
-      'See and control your users’ screens, with zero setup. Resolve issues faster than ever before, protect and grow revenue,\n and make customers fall in love with your product',
+      'See and control your users’ screens, with zero setup. Resolve issues faster than ever before, protect and grow revenue, and make customers fall in love with your product',
   },
   {
     name: 'Maya',
     category: 'Customer Support',
     url: 'https://maya.ai',
-    description: 'Everyone wins with AI-driven personalization: customers,\n banks, and merchants.',
+    description: 'Everyone wins with AI-driven personalization: customers, banks, and merchants.',
   },
   {
     name: 'Tiledesk',
     category: 'Customer Support',
     url: 'https://tiledesk.com/',
     description:
-      'Combine Free Live Chat with Open-Source Chatbots to boost\n ROI. Integrate Chatbots with WhatsApp or other channels to\n have one inbox for all communications.',
+      'Combine Free Live Chat with Open-Source Chatbots to boost ROI. Integrate Chatbots with WhatsApp or other channels to have one inbox for all communications.',
   },
   {
     name: 'Xokind',
     category: 'Customer Support',
     url: 'https://www.xokind.com/',
     description:
-      'Powerful AI agents for Customer Support, Travel, & Sales.\n XOKind offers an AI platform for product & data teams to leverage Machine Learning and large AI models via a simple\n API endpoint.',
+      'Powerful AI agents for Customer Support, Travel, & Sales. XOKind offers an AI platform for product & data teams to leverage Machine Learning and large AI models via a simple API endpoint.',
   },
   {
     name: 'Delve',
     category: 'Customer Support',
     url: 'https://www.delve.ai/',
-    description: 'Create personas automatically for your business and for your\n competitor businesses',
+    description: 'Create personas automatically for your business and for your competitor businesses',
   },
   {
     name: 'Kaizan',
     category: 'Customer Support',
     url: 'https://kaizan.ai/',
-    description: 'Kaizan is a Client Intelligence Platform for Client Success\n teams to retain and grow revenue',
+    description: 'Kaizan is a Client Intelligence Platform for Client Success teams to retain and grow revenue',
   },
   {
     name: 'Echowin',
     category: 'Customer Support',
     url: 'https://echo.win/',
     description:
-      'Automate Incoming Calls With AI. Get a new phone number or bring your existing one. Your customers will call our AI- powered system that will help them get the answers they need, perform business tasks or connect them to the right person if needed. You can focus on running your business\n while we handle the calls!',
+      'Automate Incoming Calls With AI. Get a new phone number or bring your existing one. Your customers will call our AI- powered system that will help them get the answers they need, perform business tasks or connect them to the right person if needed. You can focus on running your business while we handle the calls!',
   },
   {
     name: 'Puzzle',
     category: 'Customer Support',
     url: 'https://www.puzzlelabs.ai/',
     description:
-      'The AI-powered glossary for your community and customers.\n Bring clarity to your product, service, and community with a\n superpowered glossary.',
+      'The AI-powered glossary for your community and customers. Bring clarity to your product, service, and community with a superpowered glossary.',
   },
   {
     name: 'Magician (Figma)',
     category: 'Design Assistant',
     url: 'https://magician.design/',
     description:
-      'A magical design tool for Figma powered by AI. Magician is a Figma plugin that lets you design with the power of AI to do everything from copywriting to generating unique icons from text. Each magic spell works alongside you to expand your\n creativity and imagination as you design.',
+      'A magical design tool for Figma powered by AI. Magician is a Figma plugin that lets you design with the power of AI to do everything from copywriting to generating unique icons from text. Each magic spell works alongside you to expand your creativity and imagination as you design.',
   },
   {
     name: 'Uizard',
     category: 'Design Assistant',
     url: 'https://uizard.io/',
     description:
-      "Design digital products, mobile apps, website mockups, and\n wireframes in minutes with Uizard, the world's first AI-\n powered design tool! Sign up today.",
+      "Design digital products, mobile apps, website mockups, and wireframes in minutes with Uizard, the world's first AI- powered design tool! Sign up today.",
   },
   {
     name: 'Clickable',
@@ -967,7 +966,7 @@ export const resources = [
     category: 'Design Assistant',
     url: 'https://designer.microsoft.com',
     description:
-      'Stunning designs in a flash with Microsoft Designer. Start\n with a simple text description and create images for your design!',
+      'Stunning designs in a flash with Microsoft Designer. Start with a simple text description and create images for your design!',
   },
   {
     name: 'Designs AI',
@@ -980,35 +979,34 @@ export const resources = [
     category: 'Design Assistant',
     url: 'https://pinegraph.com/',
     description:
-      'Become an artist with Pinegraph. Bring your imaginations to life with the power of the Pinecasso AI. Just describe what\n you want, and Pinecasso will do the rest.',
+      'Become an artist with Pinegraph. Bring your imaginations to life with the power of the Pinecasso AI. Just describe what you want, and Pinecasso will do the rest.',
   },
   {
     name: 'Pattern Maker AI',
     category: 'Design Assistant',
     url: 'https://patternmakerai.com/',
     description:
-      'Generate seamless vector patterns using artificial\n intelligence. You can also browse other generated patterns\n that have been made public.',
+      'Generate seamless vector patterns using artificial intelligence. You can also browse other generated patterns that have been made public.',
   },
   {
     name: 'Illustroke',
     category: 'Design Assistant',
     url: 'https://illustroke.com/',
-    description:
-      'Stunning SVG illustrations from text prompts Create\n something unique with ours text to SVG AI tool.',
+    description: 'Stunning SVG illustrations from text prompts Create something unique with ours text to SVG AI tool.',
   },
   {
     name: 'Pictorial',
     category: 'Design Assistant',
     url: 'https://pictorial.ai/',
     description:
-      "The first application of Generative AI that's actually useful for\n your business. Struggling with your site's visuals? Let the AI\n take care of it.",
+      "The first application of Generative AI that's actually useful for your business. Struggling with your site's visuals? Let the AI take care of it.",
   },
   {
     name: 'Hotpot.ai',
     category: 'Design Assistant',
     url: 'https://hotpot.ai',
     description:
-      'Hotpot helps you create professional graphics and pictures. AI tools allow experts and consumers to spark creativity and automate drudgery. Easy-to-edit templates empower anyone to create device mockups, social media posts, marketing\n images, app icons, and other work graphics.',
+      'Hotpot helps you create professional graphics and pictures. AI tools allow experts and consumers to spark creativity and automate drudgery. Easy-to-edit templates empower anyone to create device mockups, social media posts, marketing images, app icons, and other work graphics.',
   },
   {
     name: 'Autodraw',
@@ -1028,35 +1026,35 @@ export const resources = [
     category: 'Design Assistant',
     url: 'https://www.dimensions.ink',
     description:
-      'Dimensions helps you turn rough sketches, photos, or even\n plain text into high-detailed concepts in a few clicks. Focus on creativity, not on endless routine.',
+      'Dimensions helps you turn rough sketches, photos, or even plain text into high-detailed concepts in a few clicks. Focus on creativity, not on endless routine.',
   },
   {
     name: 'StockImg AI',
     category: 'Design Assistant',
     url: 'https://stockimg.ai/',
     description:
-      'Text to design service with AI. Generate logos, stock images,\n posters, book covers, and more designs using AI.',
+      'Text to design service with AI. Generate logos, stock images, posters, book covers, and more designs using AI.',
   },
   {
     name: 'AI2image',
     category: 'Design Assistant',
     url: 'https://www.ai2image.com/',
     description:
-      'AI generates your custom image in just a few seconds. You\n can generate images for your website, blogs or social media\n from a simple description in English.',
+      'AI generates your custom image in just a few seconds. You can generate images for your website, blogs or social media from a simple description in English.',
   },
   {
     name: 'AIGraphics',
     category: 'Design Assistant',
     url: 'https://aigraphics.io/',
     description:
-      'Create Beautiful, Bespoke Graphics in Seconds with AI. You\n can use it to create social images, youtube thumbnails, logo\n ideas, photographs and illustrations.',
+      'Create Beautiful, Bespoke Graphics in Seconds with AI. You can use it to create social images, youtube thumbnails, logo ideas, photographs and illustrations.',
   },
   {
     name: 'CandyIcons',
     category: 'Design Assistant',
     url: 'https://www.candyicons.com/',
     description:
-      'Find beautiful app icons for your product. Access our massive collection of stunning app icons and choose the ones you like best. You get full copyright ownership and unique high- quality icons that support iOS, macOS, and Android projects.\n There is also a customized favicon generator.',
+      'Find beautiful app icons for your product. Access our massive collection of stunning app icons and choose the ones you like best. You get full copyright ownership and unique high- quality icons that support iOS, macOS, and Android projects. There is also a customized favicon generator.',
   },
   {
     name: 'IllostrationAI',
@@ -1070,28 +1068,28 @@ export const resources = [
     category: 'Design Assistant',
     url: 'http://patterned.ai/',
     description:
-      'AI-generated seamless patterns. Generate customised designs for your product or service using our AI model. You can also search thousands of royalty-free stock images to use\n immediately for your own designs.',
+      'AI-generated seamless patterns. Generate customised designs for your product or service using our AI model. You can also search thousands of royalty-free stock images to use immediately for your own designs.',
   },
   {
     name: 'Designify',
     category: 'Design Assistant',
     url: 'https://www.designify.com/',
     description:
-      'Create automatic designs using your favorite photos. Pick any\n image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more. Save, download, or share your\n designs right away.',
+      'Create automatic designs using your favorite photos. Pick any image to create AI-powered designs by automatically removing backgrounds, enhancing colors, adjusting smart shadows, and so much more. Save, download, or share your designs right away.',
   },
   {
     name: 'CSM',
     category: 'Developer Tools',
     url: 'https://csm.ai/',
     description:
-      'Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. We believe that learning generative world models is a systematic path towards achieving AGI, similar to\n how a child learns about its world from experience.',
+      'Common Sense Machines provides APIs, interfaces, and open source software to translate multi-modal inputs and experiences into a digital simulator for AI training and content creation. We believe that learning generative world models is a systematic path towards achieving AGI, similar to how a child learns about its world from experience.',
   },
   {
     name: 'RunPod',
     category: 'Developer Tools',
     url: 'https://runpod.io',
     description:
-      'Rent Cloud GPUs from $0.2/hour. Save over 80% on GPUs.\n GPU rental made easy with Jupyter for PyTorch, Tensorflow\n or any other AI framework.',
+      'Rent Cloud GPUs from $0.2/hour. Save over 80% on GPUs. GPU rental made easy with Jupyter for PyTorch, Tensorflow or any other AI framework.',
   },
   {
     name: 'Moonbeam Exchange',
@@ -1105,27 +1103,27 @@ export const resources = [
     category: 'Developer Tools',
     url: 'https://github.com',
     description:
-      'Shumai is an open-source, fast, network-connected,\n differentiable tensor library for TypeScript (and JavaScript).\n Built with bun + flashlight for software engineers and researchers alike.',
+      'Shumai is an open-source, fast, network-connected, differentiable tensor library for TypeScript (and JavaScript). Built with bun + flashlight for software engineers and researchers alike.',
   },
   {
     name: 'SyntheticAIdata',
     category: 'Developer Tools',
     url: 'https://syntheticaidata.com',
     description:
-      'Accelerate Your Vision AI Model Creation. Synthetic data is an inexpensive alternative to real world data that is used to train and improve AI models. In order to train accurate AI models, a large amount of data is needed. With use of realistic 3D models you can easily create synthetic data for AI\n classification and object detection.',
+      'Accelerate Your Vision AI Model Creation. Synthetic data is an inexpensive alternative to real world data that is used to train and improve AI models. In order to train accurate AI models, a large amount of data is needed. With use of realistic 3D models you can easily create synthetic data for AI classification and object detection.',
   },
   {
     name: 'Chatbotkit',
     category: 'Developer Tools',
     url: 'https://chatbotkit.com',
     description:
-      'The simplest way to build advanced AI chat bots. Our\n platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in\n natural language.',
+      'The simplest way to build advanced AI chat bots. Our platform makes it easy for developers and non-developers alike to build chatbots that can communicate with users in natural language.',
   },
   {
     name: 'Pipeline AI',
     category: 'Developer Tools',
     url: 'https://pipeline.ai',
-    description: 'Serverless GPU inference for ML models Pay-per-millisecond\n API to run ML in production.',
+    description: 'Serverless GPU inference for ML models Pay-per-millisecond API to run ML in production.',
   },
   {
     name: 'Nuclia',
@@ -1139,7 +1137,7 @@ export const resources = [
     category: 'Developer Tools',
     url: 'https://tinq.ai',
     description:
-      "A set of easy-to-use & cutting-edge NLP APIs. Popular APIs: Text Generation - Rewriter/Paraphraser Summarizer Integrate text analysis that is quick and strong into your apps. From topic categorization to sentiment analysis and entity extraction, we've got you covered. Make it happen in a matter of days, not months! Text analysis: Plagiarism Checker; Custom classifiers; Sentiment Analysis; Named-\n entity Recognition",
+      "A set of easy-to-use & cutting-edge NLP APIs. Popular APIs: Text Generation - Rewriter/Paraphraser Summarizer Integrate text analysis that is quick and strong into your apps. From topic categorization to sentiment analysis and entity extraction, we've got you covered. Make it happen in a matter of days, not months! Text analysis: Plagiarism Checker; Custom classifiers; Sentiment Analysis; Named- entity Recognition",
   },
   {
     name: 'Valyr',
@@ -1152,103 +1150,103 @@ export const resources = [
     name: 'GPUX.AI',
     category: 'Developer Tools',
     url: 'https://gpux.ai',
-    description: 'GPU Everything. Run anything Dockerized. Run autoscale\n Inference. Save costs 50-90%.',
+    description: 'GPU Everything. Run anything Dockerized. Run autoscale Inference. Save costs 50-90%.',
   },
   {
     name: 'RTutor',
     category: 'Developer Tools',
     url: 'https://tutor.ai',
     description:
-      "RTutor is an AI-based app that can quickly generate and test R code. Powered by API calls to OpenAI's Davinci (ChatGPT's sibling), RTutor translates natural languages into R scripts, which are then executed within the Shiny platform. An R Markdown source file and HTML report can be generated.\n Check out the github repo here:\n https://github.com/gexijin/RTutor",
+      "RTutor is an AI-based app that can quickly generate and test R code. Powered by API calls to OpenAI's Davinci (ChatGPT's sibling), RTutor translates natural languages into R scripts, which are then executed within the Shiny platform. An R Markdown source file and HTML report can be generated. Check out the github repo here: https://github.com/gexijin/RTutor",
   },
   {
     name: 'Mintlify',
     category: 'Developer Tools',
     url: 'https://mintlify.com',
     description:
-      "Build the documentation you've always wanted. Beautiful out\n of the box, easy to maintain, and optimized for user\n engagement.",
+      "Build the documentation you've always wanted. Beautiful out of the box, easy to maintain, and optimized for user engagement.",
   },
   {
     name: 'GptDuck',
     category: 'Developer Tools',
     url: 'https://gptduck.com',
     description:
-      'Question answering against any Github repository. Input a\n Github repository, we will download it to the server and create embeddings against the code. Repos need to be public, <200 files, and <100MB.',
+      'Question answering against any Github repository. Input a Github repository, we will download it to the server and create embeddings against the code. Repos need to be public, <200 files, and <100MB.',
   },
   {
     name: 'Textomap',
     category: 'Developer Tools',
     url: 'https://textomap.com',
     description:
-      'Textomap is a web app and browser extension that enables users to generate interactive maps from any text containing locations in seconds. No code, spreadsheets, or complex tools\n - your words are enough.',
+      'Textomap is a web app and browser extension that enables users to generate interactive maps from any text containing locations in seconds. No code, spreadsheets, or complex tools - your words are enough.',
   },
   {
     name: 'HTTPie AI',
     category: 'Developer Tools',
     url: 'https://httpie.io',
     description:
-      'Generate API requests using plain language. HTTPie is making\n APIs simple and intuitive for those building the tools of our\n time.',
+      'Generate API requests using plain language. HTTPie is making APIs simple and intuitive for those building the tools of our time.',
   },
   {
     name: 'Quizgecko',
     category: 'Education Assistant',
     url: 'https://quizgecko.com',
     description:
-      'AI-Powered Quiz Question Generator. Make your own quiz\n using artificial intelligence. Perfect for teachers, e-learning and HR professionals. Or just generate unique trivia questions and answers for fun! Simple paste text, enter a URL, or upload a file and hit generate. Pick from multiple choice,\n short answer, or true/false questions.',
+      'AI-Powered Quiz Question Generator. Make your own quiz using artificial intelligence. Perfect for teachers, e-learning and HR professionals. Or just generate unique trivia questions and answers for fun! Simple paste text, enter a URL, or upload a file and hit generate. Pick from multiple choice, short answer, or true/false questions.',
   },
   {
     name: 'WolframAlpha',
     category: 'Education Assistant',
     url: 'https://wolframalpha.com',
     description:
-      'Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase, and AI technology. Geared towards the subjects of Mathematics, Science & Technology,\n Society & Culture, and Everyday Life.',
+      'Compute expert-level answers using Wolfram’s breakthrough algorithms, knowledgebase, and AI technology. Geared towards the subjects of Mathematics, Science & Technology, Society & Culture, and Everyday Life.',
   },
   {
     name: 'TutorAI',
     category: 'Education Assistant',
     url: 'https://tutorai.me',
     description:
-      'Tutor AI is an AI-powered learning platform. You can enter\n any topic and it will provide you with various options you can\n use to learn about that topic.',
+      'Tutor AI is an AI-powered learning platform. You can enter any topic and it will provide you with various options you can use to learn about that topic.',
   },
   {
     name: 'MindSmith',
     category: 'Education Assistant',
     url: 'https://mindsmith.ai',
     description:
-      'Mindsmith is your laboratory for creating and sharing micro- courses. The world’s changing too quickly to rely on clunky, outdated design software. Whether you’re training teams, teaching classes, or just need a clear way to share your knowledge, use a suite of AI-assisted, intuitive design tools to make your learners successful in industries and disciplines\n that never stand still.',
+      'Mindsmith is your laboratory for creating and sharing micro- courses. The world’s changing too quickly to rely on clunky, outdated design software. Whether you’re training teams, teaching classes, or just need a clear way to share your knowledge, use a suite of AI-assisted, intuitive design tools to make your learners successful in industries and disciplines that never stand still.',
   },
   {
     name: 'Yip',
     category: 'Education Assistant',
     url: 'https://yippity.io',
-    description: 'Enter your Notes and Yip will generate questions\n automatically from them.',
+    description: 'Enter your Notes and Yip will generate questions automatically from them.',
   },
   {
     name: 'MateAI',
     category: 'Email Assistant',
     url: 'https://mateai.io',
     description:
-      'Generate Copy and Design for your email campaigns, faster.\n 🇬🇧 🇮🇹 Available in English, Italian and 5 other languages.',
+      'Generate Copy and Design for your email campaigns, faster. 🇬🇧 🇮🇹 Available in English, Italian and 5 other languages.',
   },
   {
     name: 'Ellie',
     category: 'Email Assistant',
     url: 'https://ellieai.com',
-    description: 'Ellie learns from your writing style and crafts replies as if they\n were written by you.',
+    description: 'Ellie learns from your writing style and crafts replies as if they were written by you.',
   },
   {
     name: 'Ipso AI',
     category: 'Email Assistant',
     url: 'https://ipso.ai',
     description:
-      'An AI assistant that uses your calendar to draft email\n responses for scheduling meetings, powered by GPT3.',
+      'An AI assistant that uses your calendar to draft email responses for scheduling meetings, powered by GPT3.',
   },
   {
     name: 'Luna',
     category: 'Email Assistant',
     url: 'https://getluna.dev',
     description:
-      "Personalize Cold Emails Instantly with Luna. Automated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them\n the personal emails they deserve.",
+      "Personalize Cold Emails Instantly with Luna. Automated messages are dead these days. Get more replies on your cold emails with Luna - World's first software application that uses AI to suggest new high-quality leads every day and send them the personal emails they deserve.",
   },
   {
     name: 'PolitePost',
@@ -1262,7 +1260,7 @@ export const resources = [
     category: 'Email Assistant',
     url: 'https://pipl.ai',
     description:
-      'It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI-\n powered sequence & template writer and much more…',
+      'It is hard to send cold emails at scale. We make it a breeze. Connect unlimited inboxes, enjoy free warm-up for ALL your accounts, built-in email validation and data cleansing, AI- powered sequence & template writer and much more…',
   },
   {
     name: 'Postaga',
@@ -1289,7 +1287,7 @@ export const resources = [
     category: 'Email Assistant',
     url: 'https://quicklines.ai',
     description:
-      'Quicklines automatically creates personalized ice breakers to\n inject inside cold emails. Upload a CSV, wait 3 minutes, and receive the sheet with lines written. Put those lines into the first sentence of cold emails, and watch your responses\n increase 3x-7x.',
+      'Quicklines automatically creates personalized ice breakers to inject inside cold emails. Upload a CSV, wait 3 minutes, and receive the sheet with lines written. Put those lines into the first sentence of cold emails, and watch your responses increase 3x-7x.',
   },
   {
     name: 'Instantly',
@@ -1310,82 +1308,82 @@ export const resources = [
     category: 'Email Assistant',
     url: 'https://chatgptwriter.ai',
     description:
-      'Free Chrome extension that uses ChatGPT AI to generate emails or replies based on a few keywords you input.\n Currently supported for Gmail. Supports all popular\n languages, simply mention it in the text prompt.',
+      'Free Chrome extension that uses ChatGPT AI to generate emails or replies based on a few keywords you input. Currently supported for Gmail. Supports all popular languages, simply mention it in the text prompt.',
   },
   {
     name: 'Ortto',
     category: 'Email Assistant',
     url: 'https://ortto.com',
     description:
-      'Ortto AI helps you write high performing email subject lines,\n engaging SMS and email content from just an outline. It’s intelligence that drives results.',
+      'Ortto AI helps you write high performing email subject lines, engaging SMS and email content from just an outline. It’s intelligence that drives results.',
   },
   {
     name: 'Warmer.ai',
     category: 'Email Assistant',
     url: 'https://warmer.ai',
-    description: 'Sky rocket your cold emails with unique personalizations\n generated by AI.',
+    description: 'Sky rocket your cold emails with unique personalizations generated by AI.',
   },
   {
     name: 'Robin',
     category: 'Email Assistant',
     url: 'https://hellorobin.ai',
     description:
-      'Automated cold email outreach, written by GPT. With Robin\n AI, you can easily and effectively reach out to leads, conduct research, and handle initial outreach - all without the need\n for a human sales associate.',
+      'Automated cold email outreach, written by GPT. With Robin AI, you can easily and effectively reach out to leads, conduct research, and handle initial outreach - all without the need for a human sales associate.',
   },
   {
     name: 'Magicreach',
     category: 'Email Assistant',
     url: 'https://magicreach.ai',
     description:
-      'Reach is an outreach personalization and sales enablement tool that generates hyper personalized icebreakers for cold\n outreach. Faster email personalization that gets replies.',
+      'Reach is an outreach personalization and sales enablement tool that generates hyper personalized icebreakers for cold outreach. Faster email personalization that gets replies.',
   },
   {
     name: 'Alethea',
     category: 'Experiments',
     url: 'https://alethea.ai',
-    description: 'Alethea AI is working towards enabling the creation of\n interactive and intelligent NFTs (iNFTs).',
+    description: 'Alethea AI is working towards enabling the creation of interactive and intelligent NFTs (iNFTs).',
   },
   {
     name: 'Ask My Book',
     category: 'Experiments',
     url: 'https://askmybook.com',
     description:
-      'Ask My Book is an AI experiment by Sahil Lavingia, the\n founder of Gumroad to make his book more accessible. You can use Ask My Book to ask a question and get an answer in\n his voice.',
+      'Ask My Book is an AI experiment by Sahil Lavingia, the founder of Gumroad to make his book more accessible. You can use Ask My Book to ask a question and get an answer in his voice.',
   },
   {
     name: 'Talk To Books',
     category: 'Experiments',
     url: 'https://books.google.com',
     description:
-      'A new way to explore ideas and discover books. Make a\n statement or ask a question to browse passages from books\n using experimental AI.',
+      'A new way to explore ideas and discover books. Make a statement or ask a question to browse passages from books using experimental AI.',
   },
   {
     name: 'VisualHound',
     category: 'Fashion',
     url: 'https://visualhound.com',
     description:
-      'Prototype your fashion design ideas with AI. Create an infinity of realistic-looking product images to feed your moodboards and boost your design process. Easily visualize your product\n designs before going to production.',
+      'Prototype your fashion design ideas with AI. Create an infinity of realistic-looking product images to feed your moodboards and boost your design process. Easily visualize your product designs before going to production.',
   },
   {
     name: 'FashionAdvisor AI',
     category: 'Fashion',
     url: 'https://fashionadvisorai.com',
     description:
-      'Ask Questions & Get Answers from FashionAdvisorAI. It uses\n artificial intelligence to help you find answers to your fashion\n queries. Use it to always dress your best.',
+      'Ask Questions & Get Answers from FashionAdvisorAI. It uses artificial intelligence to help you find answers to your fashion queries. Use it to always dress your best.',
   },
   {
     name: 'Cala',
     category: 'Fashion',
     url: 'https://ca.la',
     description:
-      'CALA makes it easy to design, produce, and deliver your own fully-custom fashion products. CALA provides everything you could need. Design assistance. Material sourcing. Sampling. With powerful features like in-app notifications, task management, and real-time commenting — so you can\n maximize productivity in the studio or on the go.',
+      'CALA makes it easy to design, produce, and deliver your own fully-custom fashion products. CALA provides everything you could need. Design assistance. Material sourcing. Sampling. With powerful features like in-app notifications, task management, and real-time commenting — so you can maximize productivity in the studio or on the go.',
   },
   {
     name: 'Botika',
     category: 'Fashion',
     url: 'https://botika.io',
     description:
-      'Botika harnesses the power of generative AI to help online apparel retailers and small businesses reduce the hassle, the cost and the time it takes to create fashion photos, while\n getting 10x more outputs on a large variety of models.',
+      'Botika harnesses the power of generative AI to help online apparel retailers and small businesses reduce the hassle, the cost and the time it takes to create fashion photos, while getting 10x more outputs on a large variety of models.',
   },
   {
     name: 'AskThee',
@@ -1399,54 +1397,54 @@ export const resources = [
     category: 'Fun Tools',
     url: 'https://unrealmeal.ai',
     description:
-      "A collection of AI-generated images of meals that don't exist.\n You can use these images for a variety of purposes, such as in the development of new recipes or as part of a creative\n project.",
+      "A collection of AI-generated images of meals that don't exist. You can use these images for a variety of purposes, such as in the development of new recipes or as part of a creative project.",
   },
   {
     name: 'Tattoos AI',
     category: 'Fun Tools',
     url: 'https://tattoosai.com',
     description:
-      "Create the perfect tattoo design with your personal AI- powered tattoo artist If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's\n something for everyone.",
+      "Create the perfect tattoo design with your personal AI- powered tattoo artist If you have an idea for a tattoo but can't find the right design, let our AI generate one within seconds. It lets you create the perfect design based on what you like, and it will give you unlimited options so that there's something for everyone.",
   },
   {
     name: 'ELI5',
     category: 'Fun Tools',
     url: 'https://explainlikeimfive.io',
     description:
-      'Explain Like I\'m Five (ELI5) is a website that simplifies complex topics using AI so that even a child can understand them. Users can select a specific topic and choose how dumbed-down they want the explanation to be, ranging from "really dumb" to "really smart". Some examples are - "How\n do computers work?" and "What is the meaning of life?',
+      'Explain Like I\'m Five (ELI5) is a website that simplifies complex topics using AI so that even a child can understand them. Users can select a specific topic and choose how dumbed-down they want the explanation to be, ranging from "really dumb" to "really smart". Some examples are - "How do computers work?" and "What is the meaning of life?',
   },
   {
     name: 'MovieToEmoji',
     category: 'Fun Tools',
     url: 'https://movietoemoji.netlify.app',
-    description: 'A fun app that converts movie names to their corresponding\n emojis!',
+    description: 'A fun app that converts movie names to their corresponding emojis!',
   },
   {
     name: 'Santa AI',
     category: 'Fun Tools',
     url: 'https://santa.artflow.ai',
     description:
-      "Wanna add some extra magic to the holiday season? Check out the world's first customizable talking Santa - For the first time you can create your own unique Santa video greeting\n and sharing it with your loved ones!",
+      "Wanna add some extra magic to the holiday season? Check out the world's first customizable talking Santa - For the first time you can create your own unique Santa video greeting and sharing it with your loved ones!",
   },
   {
     name: 'Supermeme.ai',
     category: 'Fun Tools',
     url: 'https://supermeme.ai',
     description:
-      'Generate original memes powered by AI in 110+ languages. Step up your meme marketing game with our AI meme\n generator.',
+      'Generate original memes powered by AI in 110+ languages. Step up your meme marketing game with our AI meme generator.',
   },
   {
     name: 'Jokelub',
     category: 'Fun Tools',
     url: 'https://jokelub.com',
-    description: 'Turn your writing into a joke at the click of your hand. Make\n people smile.',
+    description: 'Turn your writing into a joke at the click of your hand. Make people smile.',
   },
   {
     name: 'Hello History',
     category: 'Fun Tools',
     url: 'https://hellohistory.ai',
     description:
-      "You'll be able to have in-depth conversations with some influential and fascinating figures from history. The conversations are generated by AI, so don't take them too seriously. Each conversation is unique and you never know\n where it will go.",
+      "You'll be able to have in-depth conversations with some influential and fascinating figures from history. The conversations are generated by AI, so don't take them too seriously. Each conversation is unique and you never know where it will go.",
   },
   {
     name: 'AskNow',
@@ -1459,22 +1457,22 @@ export const resources = [
     name: 'Chai',
     category: 'Gaming',
     url: 'https://chai.ml',
-    description: 'Mobile app that allows you to build and deploy an AI chatbot\n to thousands of users. Chat with AI.',
+    description: 'Mobile app that allows you to build and deploy an AI chatbot to thousands of users. Chat with AI.',
   },
   {
     name: 'AIDungeon',
     category: 'Gaming',
     url: 'https://play.aidungeon.io',
-    description: 'Play and create AI-generated adventures with infinite\n possibilities.',
+    description: 'Play and create AI-generated adventures with infinite possibilities.',
   },
   {
     name: 'AI Careers',
     category: 'Gaming',
     url: 'https://aicareers.io',
-    description: 'AI Job Search Made Easy. Unlocking the potential of data to\n drive innovation.',
+    description: 'AI Job Search Made Easy. Unlocking the potential of data to drive innovation.',
   },
   {
-    name: 'PICLY : AI\n generated spot the difference',
+    name: 'PICLY : AI generated spot the difference',
     category: 'Gaming',
     url: 'https://picly.ai',
     description: 'Easy and Simple. AI-generated Spot the Difference Tap the area you want, AI makes it for you.',
@@ -1484,49 +1482,49 @@ export const resources = [
     category: 'Gaming',
     url: 'https://endlessvn.io',
     description:
-      'All stories come to an end. Except this one. Endless Visual Novel is an AI storytelling game where all assets — graphics,\n music, story and characters — are generated by AI as you play. No two playthroughs will ever be the same.',
+      'All stories come to an end. Except this one. Endless Visual Novel is an AI storytelling game where all assets — graphics, music, story and characters — are generated by AI as you play. No two playthroughs will ever be the same.',
   },
   {
     name: 'The Simulation',
     category: 'Gaming',
     url: 'https://fablesimulation.com',
     description:
-      'The Simulation is an artificial intelligence-focused metaverse.\n Powered by sophisticated machine learning, game design, NFTs, and the ERC20 token, $SIM',
+      'The Simulation is an artificial intelligence-focused metaverse. Powered by sophisticated machine learning, game design, NFTs, and the ERC20 token, $SIM',
   },
   {
     name: 'Playstrict',
     category: 'Gaming',
     url: 'https://playstrict.com',
     description:
-      "Let's make your game more successful! You have a great\n game but don't have the marketing power to scale it up? Take your promotion strategy to the next level with the\n Playstrict Gaming Growth platform. Are you ready?",
+      "Let's make your game more successful! You have a great game but don't have the marketing power to scale it up? Take your promotion strategy to the next level with the Playstrict Gaming Growth platform. Are you ready?",
   },
   {
     name: 'LitRPG Adventures',
     category: 'Gaming',
     url: 'https://litrpgadventures.com',
     description:
-      "Advanced Tabletop RPG Generators + Content Library D&D\n Backstory Generator? That's not all. Get instant access to over 2 dozen fantasy RPG generators powered by GPT-3 from OpenAI. Members also get access to our growing RPG library\n full of tabletop RPG content",
+      "Advanced Tabletop RPG Generators + Content Library D&D Backstory Generator? That's not all. Get instant access to over 2 dozen fantasy RPG generators powered by GPT-3 from OpenAI. Members also get access to our growing RPG library full of tabletop RPG content",
   },
   {
     name: 'Hexagram',
     category: 'Gaming',
     url: 'https://hexagram.io',
     description:
-      'We Make Ambient Experiences using Artificial Intelligence.\n Games that use chat, story, and data to blend fiction and\n reality.',
+      'We Make Ambient Experiences using Artificial Intelligence. Games that use chat, story, and data to blend fiction and reality.',
   },
   {
     name: 'GGPredict',
     category: 'Gaming',
     url: 'https://ggpredict.io',
     description:
-      'Raise your CS:GO skills with the power of AI-generated\n training with less than 30 minutes daily.Train smarter. Rank up faster.',
+      'Raise your CS:GO skills with the power of AI-generated training with less than 30 minutes daily.Train smarter. Rank up faster.',
   },
   {
     name: 'AI Roguelite',
     category: 'Gaming',
     url: 'https://store.steampowered.com',
     description:
-      "World's first RPG in which all entities are AI-generated and all\n game mechanics are AI-detected. It has AI-generated entities, crafting recipes, combat and illustrations.",
+      "World's first RPG in which all entities are AI-generated and all game mechanics are AI-detected. It has AI-generated entities, crafting recipes, combat and illustrations.",
   },
   {
     name: 'Quasi',
@@ -1545,35 +1543,35 @@ export const resources = [
     category: 'General Writing',
     url: 'https://smartscribe.app',
     description:
-      'Writing Just Got Easier... SmartScribe helps solve the\n complexities of reading and writing through the use of Artificial Intelligence.',
+      'Writing Just Got Easier... SmartScribe helps solve the complexities of reading and writing through the use of Artificial Intelligence.',
   },
   {
     name: 'nichess',
     category: 'General Writing',
     url: 'https://nichesss.com',
     description:
-      'Forget writers block. Get blog posts, ads, social media\n content, poems, business ideas and more by just clicking a\n button. Our bots will write everything for you.',
+      'Forget writers block. Get blog posts, ads, social media content, poems, business ideas and more by just clicking a button. Our bots will write everything for you.',
   },
   {
     name: 'Compose',
     category: 'General Writing',
     url: 'https://compose.ai',
     description:
-      "Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn't be spending 40% of our\n time typing every day: it's time to change the game.",
+      "Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn't be spending 40% of our time typing every day: it's time to change the game.",
   },
   {
     name: 'Text Generator Plugin',
     category: 'General Writing',
     url: 'https://text-gen.com',
     description:
-      'Text Generator is an open-source AI Assistant Tool that brings the power of Generative Artificial Intelligence to the power of knowledge creation and organization in Obsidian. For example, use Text Generator to generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on\n your knowledge database. The possibilities are endless!',
+      'Text Generator is an open-source AI Assistant Tool that brings the power of Generative Artificial Intelligence to the power of knowledge creation and organization in Obsidian. For example, use Text Generator to generate ideas, attractive titles, summaries, outlines, and whole paragraphs based on your knowledge database. The possibilities are endless!',
   },
   {
     name: 'WebCopilot',
     category: 'General Writing',
     url: 'https://webcopilot.co',
     description:
-      'Write your Notion pages with AI. Just start and let the AI\n write for you. Speed up your writing process and focus on\n what matters.',
+      'Write your Notion pages with AI. Just start and let the AI write for you. Speed up your writing process and focus on what matters.',
   },
   {
     name: 'Frase',
@@ -1594,27 +1592,27 @@ export const resources = [
     category: 'General Writing',
     url: 'https://languagetool.org',
     description:
-      'LanguageTool corrects spelling mistakes, but it also offers a full writing analysis of all possible texts. In addition to spelling, grammar, and word choice, language style is also corrected. It masters more than 30 languages and dialects, and its main languages are English, Spanish, German, French, Dutch, and Portuguese. In its English version, you can choose between six standard varieties. LanguageTool also offers an A.I.-based rephrasing function in addition to correction. This can help you to rewrite entire sentences to make them\n simpler, shorter, or more formal.',
+      'LanguageTool corrects spelling mistakes, but it also offers a full writing analysis of all possible texts. In addition to spelling, grammar, and word choice, language style is also corrected. It masters more than 30 languages and dialects, and its main languages are English, Spanish, German, French, Dutch, and Portuguese. In its English version, you can choose between six standard varieties. LanguageTool also offers an A.I.-based rephrasing function in addition to correction. This can help you to rewrite entire sentences to make them simpler, shorter, or more formal.',
   },
   {
     name: 'AIDuh',
     category: 'General Writing',
     url: 'https://aiduh.com',
-    description: 'Chrome extension that cuts your writing time by 98% with AI-\n powered responses.',
+    description: 'Chrome extension that cuts your writing time by 98% with AI- powered responses.',
   },
   {
     name: 'Writely',
     category: 'General Writing',
     url: 'https://writelyai.com',
     description:
-      'Making the art of writing accessible to all. Whether you need\n to cut down on your words, elaborate further or simply\n rephrase a sentence, Writely can help!',
+      'Making the art of writing accessible to all. Whether you need to cut down on your words, elaborate further or simply rephrase a sentence, Writely can help!',
   },
   {
     name: 'Grammarly',
     category: 'General Writing',
     url: 'https://app.grammarly.com',
     description:
-      "Write confidently with Grammarly's new AI-powered application. Go beyond grammer and spelling to style and tone with auto suggestions. Works with emails, documents,\n social media and almost everything.",
+      "Write confidently with Grammarly's new AI-powered application. Go beyond grammer and spelling to style and tone with auto suggestions. Works with emails, documents, social media and almost everything.",
   },
   {
     name: 'Proposal Genie',
@@ -1628,28 +1626,28 @@ export const resources = [
     category: 'General Writing',
     url: 'https://chrome.google.com',
     description:
-      'Find out if the pages you browse contain AI-generated content. Detect GPT scans the content of the webpage you are viewing and analyzes it to identify if any of the content\n has been generated using the GPT language model.',
+      'Find out if the pages you browse contain AI-generated content. Detect GPT scans the content of the webpage you are viewing and analyzes it to identify if any of the content has been generated using the GPT language model.',
   },
   {
     name: 'LuciaAI',
     category: 'General Writing',
     url: 'https://luciaai.com',
     description:
-      'An advanced AI writing assistant. Lucia uses the latest and most advanced artificial intelligence technology. With Lucia,\n you can write faster and better than ever before.',
+      'An advanced AI writing assistant. Lucia uses the latest and most advanced artificial intelligence technology. With Lucia, you can write faster and better than ever before.',
   },
   {
     name: 'CaliberAI',
     category: 'General Writing',
     url: 'https://caliberai.net',
     description:
-      "CaliberAI helps minimise your risk of defamation with AI. It flags high-risk content in near real-time and is designed specifically to assist editors and augment human oversight. An API with custom thresholds tailored to your organisation's\n risk tolerance.",
+      "CaliberAI helps minimise your risk of defamation with AI. It flags high-risk content in near real-time and is designed specifically to assist editors and augment human oversight. An API with custom thresholds tailored to your organisation's risk tolerance.",
   },
   {
     name: 'HelloScribe',
     category: 'General Writing',
     url: 'https://helloscribe.ai',
     description:
-      "BETTER WRITING. BIG IDEAS. MADE EASY. Say Hello to 10x\n faster writing and brainstorming without creative blocks or\n wasted time. HelloScribe's easy-to-use AI tools help PR and Marketing Professionals work smarter.",
+      "BETTER WRITING. BIG IDEAS. MADE EASY. Say Hello to 10x faster writing and brainstorming without creative blocks or wasted time. HelloScribe's easy-to-use AI tools help PR and Marketing Professionals work smarter.",
   },
   {
     name: 'WordAI',
@@ -1670,27 +1668,27 @@ export const resources = [
     category: 'General Writing',
     url: 'https://redacta.me',
     description:
-      'Your virtual Community Manager. Create original Spanish\n text with Artificial Intelligence quickly, easily, and\n economically. We have trained the artificial intelligence specifically to write good texts in Spanish.',
+      'Your virtual Community Manager. Create original Spanish text with Artificial Intelligence quickly, easily, and economically. We have trained the artificial intelligence specifically to write good texts in Spanish.',
   },
   {
     name: 'Othersideai',
     category: 'General Writing',
     url: 'https://othersideai.com',
     description:
-      'Your Personal Writing Assistant. HyperWrite/OthersideAI\n provides suggestions and sentence completions to improve your writing, wherever you write.',
+      'Your Personal Writing Assistant. HyperWrite/OthersideAI provides suggestions and sentence completions to improve your writing, wherever you write.',
   },
   {
     name: 'Glasp',
     category: 'General Writing',
     url: 'https://glasp.co',
     description:
-      'Glasp is a social web highlighter that people can use to highlight and organize quotes and ideas from the web without switching back and forth between screens, and access other like-minded people’s learning at the same time. Leave your digital legacy for humanity, while working for yourself. They also provide a tool that summarizes Youtube\n videos.',
+      'Glasp is a social web highlighter that people can use to highlight and organize quotes and ideas from the web without switching back and forth between screens, and access other like-minded people’s learning at the same time. Leave your digital legacy for humanity, while working for yourself. They also provide a tool that summarizes Youtube videos.',
   },
   {
     name: 'ParagraphAI',
     category: 'General Writing',
     url: 'https://paragraphai.com',
-    description: 'ParagraphAI is an AI Writing App that writes clear, concise,\n and error-free content.',
+    description: 'ParagraphAI is an AI Writing App that writes clear, concise, and error-free content.',
   },
   {
     name: 'DREAM.page',
@@ -1703,20 +1701,20 @@ export const resources = [
     category: 'General Writing',
     url: 'https://maester.app',
     description:
-      'Unlock the full potential of GPT-3 with our intuitive Template\n Engine. Quickly generate custom output tailored to your repeated needs and share them with the world. It can help you out in content management, university & work, and\n software development.',
+      'Unlock the full potential of GPT-3 with our intuitive Template Engine. Quickly generate custom output tailored to your repeated needs and share them with the world. It can help you out in content management, university & work, and software development.',
   },
   {
     name: 'Elephas',
     category: 'General Writing',
     url: 'https://elephas.app',
-    description: 'The only AI writer that integrates with your Mac. Works\n across applications.',
+    description: 'The only AI writer that integrates with your Mac. Works across applications.',
   },
   {
     name: 'Sudowrite',
     category: 'General Writing',
     url: 'https://sudowrite.com',
     description:
-      'Bust writer’s block with our magical writing AI. Your always-\n available brainstorm buddy. Beta feedback without having to find beta readers. “Show, not tell”? We’ve got a button for\n that.',
+      'Bust writer’s block with our magical writing AI. Your always- available brainstorm buddy. Beta feedback without having to find beta readers. “Show, not tell”? We’ve got a button for that.',
   },
   {
     name: 'Lex',
@@ -1736,34 +1734,34 @@ export const resources = [
     category: 'General Writing',
     url: 'https://penelope-ai.vercel.app',
     description:
-      'A sophisticated AI writing assistant. Speed up your writing\n effortlessly - Paraphrase, Summarize, Generate a story or AI\n autocomplete.',
+      'A sophisticated AI writing assistant. Speed up your writing effortlessly - Paraphrase, Summarize, Generate a story or AI autocomplete.',
   },
   {
     name: 'Giftastic.ai',
     category: 'Gift Ideas',
     url: 'https://giftastic.ai',
     description:
-      'Giftastic.ai is a personalized gift recommendation engine that\n uses the personal characteristics of the persons you are shopping for and recommends unique and thoughtful gifts they will love and appreciate.',
+      'Giftastic.ai is a personalized gift recommendation engine that uses the personal characteristics of the persons you are shopping for and recommends unique and thoughtful gifts they will love and appreciate.',
   },
   {
     name: 'Gifts Genie',
     category: 'Gift Ideas',
     url: 'https://gen.gifts',
     description:
-      "Genie is an AI-powered birthday gift ideas generator. No more struggling to come up with the perfect gift - just tell the generator a few things about the person and it's generate gift\n ideas for you. It aims to take the stress out of gift-giving.",
+      "Genie is an AI-powered birthday gift ideas generator. No more struggling to come up with the perfect gift - just tell the generator a few things about the person and it's generate gift ideas for you. It aims to take the stress out of gift-giving.",
   },
   {
     name: 'Suggest Gift',
     category: 'Gift Ideas',
     url: 'https://suggest.gift',
     description:
-      'Are you struggling to find the perfect gift for a loved one?\n Look no further! Our tool uses the latest AI technology to help you discover the perfect present. Say goodbye to the stress of gift-giving and let our technology do the work for\n you.',
+      'Are you struggling to find the perfect gift for a loved one? Look no further! Our tool uses the latest AI technology to help you discover the perfect present. Say goodbye to the stress of gift-giving and let our technology do the work for you.',
   },
   {
     name: 'Cool Gift Ideas',
     category: 'Gift Ideas',
     url: 'https://coolgiftideas.io',
-    description: 'Give the perfect gift! Discover creative gift ideas for anyone\n based on who they are.',
+    description: 'Give the perfect gift! Discover creative gift ideas for anyone based on who they are.',
   },
   {
     name: 'Elf Help',
@@ -1777,28 +1775,28 @@ export const resources = [
     category: 'Healthcare',
     url: 'https://whisper.ai',
     description:
-      "It's an AI-powered hearing aid. With AI, it learns and adjusts to different hearing situations, like a noisy shopping market\n or family gathering. It provides regular software upgrades from new features to sound processing.",
+      "It's an AI-powered hearing aid. With AI, it learns and adjusts to different hearing situations, like a noisy shopping market or family gathering. It provides regular software upgrades from new features to sound processing.",
   },
   {
     name: 'Cradle',
     category: 'Healthcare',
     url: 'https://cradle.bio',
     description:
-      'Cradle helps biologists design improved proteins in record\n time using powerful prediction algorithms and AI design suggestions.',
+      'Cradle helps biologists design improved proteins in record time using powerful prediction algorithms and AI design suggestions.',
   },
   {
     name: 'SwagAI',
     category: 'Human Resources',
     url: 'https://useslingshot.com',
     description:
-      'SwagAI is an AI tool that helps you come up with ridiculous\n company swag. Just tell us what you’re looking for, and our\n algorithms will recommend crazy (but sometimes practical) options.',
+      'SwagAI is an AI tool that helps you come up with ridiculous company swag. Just tell us what you’re looking for, and our algorithms will recommend crazy (but sometimes practical) options.',
   },
   {
     name: 'Autumn AI',
     category: 'Human Resources',
     url: 'https://getautumn.com',
     description:
-      "Measure burnout and prevent it, without surveys. Autumn connects with the tools you already use, leveraging AI to help you identify early signs of burnout and pick up on patterns like increasing meetings, less frequent 1:1s, or more messages on weekends, across your team. And it's not just data – Autumn helps you take action too! Get 1:1 question prompts delivered before every 1:1, tailored to your team so you don't have to wonder if you're asking the right questions. Team insights are delivered to you weekly and help your team feel connected with no extra effort (or another Zoom\n social) through fun and interactive weekly summaries in Slack.",
+      "Measure burnout and prevent it, without surveys. Autumn connects with the tools you already use, leveraging AI to help you identify early signs of burnout and pick up on patterns like increasing meetings, less frequent 1:1s, or more messages on weekends, across your team. And it's not just data – Autumn helps you take action too! Get 1:1 question prompts delivered before every 1:1, tailored to your team so you don't have to wonder if you're asking the right questions. Team insights are delivered to you weekly and help your team feel connected with no extra effort (or another Zoom social) through fun and interactive weekly summaries in Slack.",
   },
   {
     name: 'Dost',
@@ -1812,14 +1810,14 @@ export const resources = [
     category: 'Human Resources',
     url: 'https://geniusreview.xyz',
     description:
-      '360° AI Performance Reviews. Save tons of hours by using\n GeniusReview to get tailored answers to your performance\n review questions.',
+      '360° AI Performance Reviews. Save tons of hours by using GeniusReview to get tailored answers to your performance review questions.',
   },
   {
     name: 'Moveworks',
     category: 'Human Resources',
     url: 'https://moveworks.com',
     description:
-      'Moveworks is the first employee experience platform that uses AI to solve issues and prevent problems at work. It automatically resolves requests, communicates changes, and shows your team what to fix next — letting you turn moments of frustration into moments of magic. And because our conversational AI (chatbot) is fluent in more than 100 languages, Moveworks delivers instant help around the\n world, from HQ to the home office.',
+      'Moveworks is the first employee experience platform that uses AI to solve issues and prevent problems at work. It automatically resolves requests, communicates changes, and shows your team what to fix next — letting you turn moments of frustration into moments of magic. And because our conversational AI (chatbot) is fluent in more than 100 languages, Moveworks delivers instant help around the world, from HQ to the home office.',
   },
   {
     name: 'HireYaY',
@@ -1833,56 +1831,56 @@ export const resources = [
     category: 'Human Resources',
     url: 'https://jobtitlesai.com',
     description:
-      "Accurately qualify *any* job title. Our machine-learning API sorts job titles into two categories: field (sales, finance, I.T...) and position (executive, management, assistant...) so you can\n prioritize the ones you're interested in.",
+      "Accurately qualify *any* job title. Our machine-learning API sorts job titles into two categories: field (sales, finance, I.T...) and position (executive, management, assistant...) so you can prioritize the ones you're interested in.",
   },
   {
     name: 'Magic Eraser',
     category: 'Image Editing',
     url: 'https://magiceraser.io',
     description:
-      'Remove unwanted things from images in seconds. Upload an\n image, mark the bit you need removed, download the fixed up image.',
+      'Remove unwanted things from images in seconds. Upload an image, mark the bit you need removed, download the fixed up image.',
   },
   {
     name: 'Photoroom',
     category: 'Image Editing',
     url: 'https://photoroom.com',
     description:
-      'Create product and portrait pictures using only your phone.\n Remove background, change background and showcase\n products.',
+      'Create product and portrait pictures using only your phone. Remove background, change background and showcase products.',
   },
   {
     name: 'Green Screen AI',
     category: 'Image Editing',
     url: 'https://greenscreenai.com',
     description:
-      'Green Screen AI lets you change the background of your\n pictures to whatever you can think of! Using generative AI, you can place your dog in an alien jungle or turn your cat into a space-cowboy.',
+      'Green Screen AI lets you change the background of your pictures to whatever you can think of! Using generative AI, you can place your dog in an alien jungle or turn your cat into a space-cowboy.',
   },
   {
     name: 'Nostalgia Photo',
     category: 'Image Editing',
     url: 'https://nostalgia.photo',
     description:
-      'Nostalgia Photo brings old photos back to life with the latest\n cutting-edge Artificial Intelligence. Get maximum resolution\n in a few clicks and a few cents.',
+      'Nostalgia Photo brings old photos back to life with the latest cutting-edge Artificial Intelligence. Get maximum resolution in a few clicks and a few cents.',
   },
   {
     name: 'RestorePhotos',
     category: 'Image Editing',
     url: 'https://restorephotos.io',
     description:
-      'Restoring old photos using AI for everyone. Have old and blurry face photos? Let our AI restore them so those\n memories can live on. 100% free – restore your photos today.',
+      'Restoring old photos using AI for everyone. Have old and blurry face photos? Let our AI restore them so those memories can live on. 100% free – restore your photos today.',
   },
   {
     name: 'Remove.bg',
     category: 'Image Editing',
     url: 'https://remove.bg',
     description:
-      "Remove backgrounds 100% automatically in 5 seconds with one click. Thanks to remove.bg's clever AI, you can slash\n editing time - and have more fun!",
+      "Remove backgrounds 100% automatically in 5 seconds with one click. Thanks to remove.bg's clever AI, you can slash editing time - and have more fun!",
   },
   {
     name: 'Perfectly Clear Video',
     category: 'Image Editing',
     url: 'https://eyeq.photos',
     description:
-      'Perfectly Clear Video offers instant, automatic photo\n corrections & video enhancement. It is the world’s leading provider of automatic image correction and AI video\n enhancement.',
+      'Perfectly Clear Video offers instant, automatic photo corrections & video enhancement. It is the world’s leading provider of automatic image correction and AI video enhancement.',
   },
   {
     name: 'AI. Image Enlarger',
@@ -1896,10 +1894,10 @@ export const resources = [
     category: 'Image Editing',
     url: 'https://bgeraser.com',
     description:
-      'Powerful AI Inpainting and Picture Clean Up technology.\n Remove unwanted objects and watermark in seconds.',
+      'Powerful AI Inpainting and Picture Clean Up technology. Remove unwanted objects and watermark in seconds.',
   },
   {
-    name: 'Hama - Image\n Editing',
+    name: 'Hama - Image Editing',
     category: 'Image Editing',
     url: 'https://hama.app',
     description: 'Erase people or objects from an image in just a second.',
@@ -1909,13 +1907,13 @@ export const resources = [
     category: 'Image Editing',
     url: 'https://topazlabs.com',
     description:
-      "Maximize your image quality, on autopilot. Sharpen, remove noise, and increase the resolution of your photos with tomorrow's technology. Topaz Photo Al supercharges your image quality so you can focus on the creative part of\n photography.",
+      "Maximize your image quality, on autopilot. Sharpen, remove noise, and increase the resolution of your photos with tomorrow's technology. Topaz Photo Al supercharges your image quality so you can focus on the creative part of photography.",
   },
   {
     name: 'Palette.fm',
     category: 'Image Editing',
     url: 'https://palette.fm',
-    description: 'Colorize Black and White Pictures Automatic, no sign-up, and\n Free!',
+    description: 'Colorize Black and White Pictures Automatic, no sign-up, and Free!',
   },
   {
     name: 'Visio Studio',
@@ -1929,54 +1927,54 @@ export const resources = [
     category: 'Image Editing',
     url: 'https://evoto.ai',
     description:
-      'Evoto, a next-generation photo editor that releases you from\n tedious work, sets you up to get thousands of photos processed at a 10x speed with remarkable quality, and helps\n you make your imaginations real.',
+      'Evoto, a next-generation photo editor that releases you from tedious work, sets you up to get thousands of photos processed at a 10x speed with remarkable quality, and helps you make your imaginations real.',
   },
   {
     name: 'Erase.bg',
     category: 'Image Editing',
     url: 'https://erase.bg',
     description:
-      'Remove Background From Images For Free. Remove\n background from images of humans, animals, or objects, and\n download high-resolution images for free.',
+      'Remove Background From Images For Free. Remove background from images of humans, animals, or objects, and download high-resolution images for free.',
   },
   {
     name: 'Bria',
     category: 'Image Editing',
     url: 'https://bria.ai',
-    description: 'Integrate Bria’s AI-powered API to automate and scale the\n creation of video and images.',
+    description: 'Integrate Bria’s AI-powered API to automate and scale the creation of video and images.',
   },
   {
     name: 'QuickTools by Picsart',
     category: 'Image Editing',
     url: 'https://tools.picsart.com',
     description:
-      'With Picsart Quicktools, you have access to a wide range of\n tools that make it easy to convert file types, create custom\n calendars, enhance images, and more. All of these tools are conveniently located in one place.',
+      'With Picsart Quicktools, you have access to a wide range of tools that make it easy to convert file types, create custom calendars, enhance images, and more. All of these tools are conveniently located in one place.',
   },
   {
     name: 'Radiant Photo',
     category: 'Image Editing',
     url: 'https://radiantimaginglabs.com',
     description:
-      'Your photos deserve to be radiant. Get superior quality\n finished photos with perfect color rendition, delivered to you in record time. Your photos — simply RADIANT. The way they are meant to be.',
+      'Your photos deserve to be radiant. Get superior quality finished photos with perfect color rendition, delivered to you in record time. Your photos — simply RADIANT. The way they are meant to be.',
   },
   {
     name: 'Stable Horde',
     category: 'Image Generator',
     url: 'https://stablehorde.net',
     description:
-      'A crowdsourced distributed cluster of Stable Diffusion\n workers. Also provides a client interface requiring no installation and no technical expertise',
+      'A crowdsourced distributed cluster of Stable Diffusion workers. Also provides a client interface requiring no installation and no technical expertise',
   },
   {
     name: 'Go Charlie',
     category: 'Image Generator',
     url: 'https://gocharlie.ai',
-    description: 'Create Images, Blogs, Ads, Website Headlines all with the\n click of a button.',
+    description: 'Create Images, Blogs, Ads, Website Headlines all with the click of a button.',
   },
   {
     name: 'Stable Diffusion',
     category: 'Image Generator',
     url: 'https://stability.ai',
     description:
-      'Stable Diffusion is a deep learning, text-to-image model\n released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text\n prompt.',
+      'Stable Diffusion is a deep learning, text-to-image model released in 2022. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as inpainting, outpainting, and generating image-to-image translations guided by a text prompt.',
   },
   {
     name: 'Getimg.ai',
@@ -1986,7 +1984,7 @@ export const resources = [
       'Everything you need to create images with AI. Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more.',
   },
   {
-    name: 'Aragon - Image\n Generation',
+    name: 'Aragon - Image Generation',
     category: 'Image Generator',
     url: 'https://aragon.ai',
     description: 'Create stunning art & images 10X faster with AI.',
@@ -1996,14 +1994,14 @@ export const resources = [
     category: 'Image Generator',
     url: 'https://rocketai.io',
     description:
-      'The future of design is programmable. Rocket AI is a SaaS platform to create and edit product images and improve e- commerce sales and advertising performances using AI. We empower e-commerce businesses with AI solutions to improve their product images as well as to generate new\n ideas and design concepts from a simple text prompt.',
+      'The future of design is programmable. Rocket AI is a SaaS platform to create and edit product images and improve e- commerce sales and advertising performances using AI. We empower e-commerce businesses with AI solutions to improve their product images as well as to generate new ideas and design concepts from a simple text prompt.',
   },
   {
     name: 'Pollinations',
     category: 'Image Generator',
     url: 'https://pollinations.ai',
     description:
-      'Pollinations wants to diversify creativity and spread it through digital ecosystems. Whether in image, video or audio, we invite people to imagine new worlds with the help of AI. For companies, our developers write code on top of the latest AI models, providing customized outcomes and specific aesthetics. With the API , AI creation can be integrated directly within websites and social media platforms. Creating\n gets easy, fast, and fun.',
+      'Pollinations wants to diversify creativity and spread it through digital ecosystems. Whether in image, video or audio, we invite people to imagine new worlds with the help of AI. For companies, our developers write code on top of the latest AI models, providing customized outcomes and specific aesthetics. With the API , AI creation can be integrated directly within websites and social media platforms. Creating gets easy, fast, and fun.',
   },
   {
     name: 'Diffusion Land',
@@ -2017,13 +2015,13 @@ export const resources = [
     category: 'Image Generator',
     url: 'https://openai.com',
     description:
-      'DALL·E 2 can create original, realistic images and art from a\n text description. It can combine concepts, attributes, and styles.',
+      'DALL·E 2 can create original, realistic images and art from a text description. It can combine concepts, attributes, and styles.',
   },
   {
     name: 'Getalpaca',
     category: 'Image Generator',
     url: 'https://getalpaca.io',
-    description: 'alpaca is a Photoshop Plugin for to combine AI image\n generation power with human skill.',
+    description: 'alpaca is a Photoshop Plugin for to combine AI image generation power with human skill.',
   },
   {
     name: 'Canva Text to Image',
@@ -2054,14 +2052,14 @@ export const resources = [
     name: 'Imgcreator',
     category: 'Image Generator',
     url: 'https://imgcreator.zmo.ai',
-    description: 'Creating images with text. Generate text-based images to\n help you think and create.',
+    description: 'Creating images with text. Generate text-based images to help you think and create.',
   },
   {
     name: 'Stylized',
     category: 'Image Generator',
     url: 'https://stylized.ai',
     description:
-      'Professional product photos in seconds. Stylized uses artificial\n intelligence to create stunning product photos and editorials -\n no studio required',
+      'Professional product photos in seconds. Stylized uses artificial intelligence to create stunning product photos and editorials - no studio required',
   },
   {
     name: 'Artssy',
@@ -2075,20 +2073,20 @@ export const resources = [
     category: 'Image Generator',
     url: 'https://nijijourney.com',
     description:
-      "NijiJourney AI for the anime fans. The new niji model is tuned with a fine eye to produce anime and illustrative styles. It has vastly more knowledge of anime, anime styles, and anime aesthetics. It's great at dynamic and action shots, and\n character-focused compositions in general.",
+      "NijiJourney AI for the anime fans. The new niji model is tuned with a fine eye to produce anime and illustrative styles. It has vastly more knowledge of anime, anime styles, and anime aesthetics. It's great at dynamic and action shots, and character-focused compositions in general.",
   },
   {
     name: 'Roll Art Die',
     category: 'Image Generator',
     url: 'https://roll-art-die.com',
     description:
-      'StableDiffusion on your Apple Silicon Devices. Generate AI\n Artworks using only text. Make your dream artworks into\n reality. No cloud subscription required.',
+      'StableDiffusion on your Apple Silicon Devices. Generate AI Artworks using only text. Make your dream artworks into reality. No cloud subscription required.',
   },
   {
     name: 'Dreamer',
     category: 'Image Generator',
     url: 'https://slashdreamer.com',
-    description: 'Integration Stable Diffusion in Notion to AI generate images\n with a new slash command.',
+    description: 'Integration Stable Diffusion in Notion to AI generate images with a new slash command.',
   },
   {
     name: 'Enterpix',
@@ -2107,20 +2105,20 @@ export const resources = [
     category: 'Legal Assistant',
     url: 'https://spellbook.legal',
     description:
-      'Draft contracts 3x faster with AI. Spellbook uses GPT-3 to\n review and suggest language for your contracts in Microsoft Word. Trained on billions of lines of legalese, Spellbook\n suggests language for your contracts instantly.',
+      'Draft contracts 3x faster with AI. Spellbook uses GPT-3 to review and suggest language for your contracts in Microsoft Word. Trained on billions of lines of legalese, Spellbook suggests language for your contracts instantly.',
   },
   {
     name: 'Casetext',
     category: 'Legal Assistant',
     url: 'https://casetext.com',
     description:
-      'Modern search technology that finds cases Lexis and Westlaw miss. Don’t run the risk of missing precedent. Get faster,\n more accurate legal research at an affordable price.',
+      'Modern search technology that finds cases Lexis and Westlaw miss. Don’t run the risk of missing precedent. Get faster, more accurate legal research at an affordable price.',
   },
   {
     name: 'Detangle.ai',
     category: 'Legal Assistant',
     url: 'https://detangle.ai',
-    description: 'Detangle gives you AI-generated summaries of your legal\n docs so you can actually understand them.',
+    description: 'Detangle gives you AI-generated summaries of your legal docs so you can actually understand them.',
   },
   {
     name: 'Activazon',
@@ -2134,14 +2132,14 @@ export const resources = [
     category: 'Legal Assistant',
     url: 'https://legalrobot.com',
     description:
-      'Legal advice requires careful analysis of the law and how it applies to a specific situation. Legal Robot provides information generated by automated analysis of your legal documents in relation to other legal documents and case law. We also provide linguistic and statistical analyses that help\n you understand potential issues in your legal documents.',
+      'Legal advice requires careful analysis of the law and how it applies to a specific situation. Legal Robot provides information generated by automated analysis of your legal documents in relation to other legal documents and case law. We also provide linguistic and statistical analyses that help you understand potential issues in your legal documents.',
   },
   {
     name: 'Ferret',
     category: 'Legal Assistant',
     url: 'https://ferret.ai',
     description:
-      'Ferret’s unparalleled AI app, combined with world class\n information, provides you with exclusive relationship intelligence that can help you avoid high-risk individuals and\n spot promising opportunities.',
+      'Ferret’s unparalleled AI app, combined with world class information, provides you with exclusive relationship intelligence that can help you avoid high-risk individuals and spot promising opportunities.',
   },
   {
     name: 'DoNotPay',
@@ -2154,14 +2152,14 @@ export const resources = [
     name: 'Replika',
     category: 'Life Assistant',
     url: 'https://replika.com',
-    description: 'The AI companion who cares. Always here to listen and talk.\n Always on your side.',
+    description: 'The AI companion who cares. Always here to listen and talk. Always on your side.',
   },
   {
     name: 'Find Your Next Book',
     category: 'Life Assistant',
     url: 'https://findyournextbook.ai',
     description:
-      "Find Your Next Book is a book recommendation service for\n people struggling to decide what to read. Simply describe your desired read in terms of character, setting and/or plot and we'll recommend the best option from our database of\n thousands of books.",
+      "Find Your Next Book is a book recommendation service for people struggling to decide what to read. Simply describe your desired read in terms of character, setting and/or plot and we'll recommend the best option from our database of thousands of books.",
   },
   {
     name: 'Thekeys',
@@ -2175,7 +2173,7 @@ export const resources = [
     category: 'Life Assistant',
     url: 'https://buildai.space',
     description:
-      "AI Trip Planner is a global travel planning app that\n automatically creates a detailed, day-by-day itinerary for users' trips to any destination in the world. All users need to do is specify the length of their trip and their desired destination, and the app will handle the rest",
+      "AI Trip Planner is a global travel planning app that automatically creates a detailed, day-by-day itinerary for users' trips to any destination in the world. All users need to do is specify the length of their trip and their desired destination, and the app will handle the rest",
   },
   {
     name: 'Caktus',
@@ -2209,7 +2207,7 @@ export const resources = [
     category: 'Life Assistant',
     url: 'https://tinywow.com',
     description:
-      'AI powered utility tools to make your life easier. Most\n common tools include, PDF, video, image, AI write and\n converter tools.',
+      'AI powered utility tools to make your life easier. Most common tools include, PDF, video, image, AI write and converter tools.',
   },
   {
     name: 'Prodigy AI',
@@ -2221,54 +2219,54 @@ export const resources = [
   {
     name: 'Circle Labs',
     category: 'Life Assistant',
-    url: 'https://circle.isyourshadowyou.c\n om',
+    url: 'https://circle.isyourshadowyou.c om',
     description:
-      'We make AI that you would actually want to spend time\n talking to. AI with personality, edges, and corners.',
+      'We make AI that you would actually want to spend time talking to. AI with personality, edges, and corners.',
   },
   {
     name: 'Elektrif AI',
     category: 'Life Assistant',
     url: 'https://elektrif.ai',
     description:
-      'Be your best self, never run out of things to talk about, and spend more time actually getting to know someone.\n Elektrif.ai uses GPT3 to generate personalized conversation\n starters, rephrase your messages to be more engaging, etc.',
+      'Be your best self, never run out of things to talk about, and spend more time actually getting to know someone. Elektrif.ai uses GPT3 to generate personalized conversation starters, rephrase your messages to be more engaging, etc.',
   },
   {
     name: 'Resume Worded',
     category: 'Life Assistant',
     url: 'https://resumeworded.com',
     description:
-      'Improve your resume and LinkedIn profile. Designed by top\n recruiters, our AI-powered platform instantly gives tailored feedback on your resume and LinkedIn profile. Land 5x more\n interviews, opportunities, and job offers.',
+      'Improve your resume and LinkedIn profile. Designed by top recruiters, our AI-powered platform instantly gives tailored feedback on your resume and LinkedIn profile. Land 5x more interviews, opportunities, and job offers.',
   },
   {
     name: 'Reggi',
     category: 'Life Assistant',
     url: 'https://yfj.social',
     description:
-      'Reggi helps you keep track of your purchases and budget in\n real-time store, applying the correct taxes and fees to your\n subtotal as you shop. An overally stress free shopping experience.',
+      'Reggi helps you keep track of your purchases and budget in real-time store, applying the correct taxes and fees to your subtotal as you shop. An overally stress free shopping experience.',
   },
   {
     name: 'Brandmark',
     category: 'Logo Generator',
     url: 'https://brandmark.io',
     description:
-      'Create a unique, professional logo for your business. Use our\n free AI-powered design tools to get color and font ideas for\n your next logo project.',
+      'Create a unique, professional logo for your business. Use our free AI-powered design tools to get color and font ideas for your next logo project.',
   },
   {
     name: 'Looka',
     category: 'Logo Generator',
     url: 'https://looka.grsm.io',
     description:
-      "Looka Logo Maker combines your logo design preferences\n with Artificial Intelligence to help you create a custom logo\n you'll love.",
+      "Looka Logo Maker combines your logo design preferences with Artificial Intelligence to help you create a custom logo you'll love.",
   },
   {
     name: 'Make Logo AI',
     category: 'Logo Generator',
     url: 'https://makelogoai.com',
     description:
-      'Designer-quality logos for less than a coffee. HD +\n transparent background. Delivered in less than 24 hours.\n Commercial ri',
+      'Designer-quality logos for less than a coffee. HD + transparent background. Delivered in less than 24 hours. Commercial ri',
   },
   {
-    name: 'Namecheap\n Logo Maker',
+    name: 'Namecheap Logo Maker',
     category: 'Logo Generator',
     url: 'https://namecheap.com',
     description: 'Simply answer a handful of questions and get hundreds of logos to download for free.',
@@ -2278,48 +2276,48 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://sitekick.ai',
     description:
-      'Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design\n or copywriting skills.',
+      'Sitekick is an AI landing page builder. It allows you to create beautiful landing pages without the need for coding, design or copywriting skills.',
   },
   {
     name: 'Robovision.ai',
     category: 'Low-code/no-code',
     url: 'https://robovision.ai',
     description:
-      'Make dynamic vision AI that works. Robovision offers a vision AI platform that covers the full AI life cycle. Streamline the entire process of developing, implementing and adapting AI\n in today’s ever-changing business environment.',
+      'Make dynamic vision AI that works. Robovision offers a vision AI platform that covers the full AI life cycle. Streamline the entire process of developing, implementing and adapting AI in today’s ever-changing business environment.',
   },
   {
     name: 'Dust',
     category: 'Low-code/no-code',
     url: 'https://dust.tt',
     description:
-      'Design and Deploy Large Language Model Apps. Prompt\n engineering, re-imagined🔥 Built on years of experience working with large language models. With one goal, help accelerate their deployment.',
+      'Design and Deploy Large Language Model Apps. Prompt engineering, re-imagined🔥 Built on years of experience working with large language models. With one goal, help accelerate their deployment.',
   },
   {
     name: 'Neon AI',
     category: 'Low-code/no-code',
     url: 'https://neon.ai',
     description:
-      "Create state-of-the-art voice applications with Neon AI's enabling technologies. The Neon AI SDK integrates advanced AI and Natural Language Understanding into a cohesive software engineering platform. Think Amazon Alexa, Google Home, Apple Siri and Microsoft Cortana - with free open source software. They also have an AI OS for Mycroft Mark II\n listed on their website.",
+      "Create state-of-the-art voice applications with Neon AI's enabling technologies. The Neon AI SDK integrates advanced AI and Natural Language Understanding into a cohesive software engineering platform. Think Amazon Alexa, Google Home, Apple Siri and Microsoft Cortana - with free open source software. They also have an AI OS for Mycroft Mark II listed on their website.",
   },
   {
     name: 'VWO',
     category: 'Low-code/no-code',
     url: 'https://vwo.com',
-    description: 'Turn your visitors into paying customers. Set up your first\n experiment right away.',
+    description: 'Turn your visitors into paying customers. Set up your first experiment right away.',
   },
   {
     name: 'Durable AI',
     category: 'Low-code/no-code',
     url: 'https://durable.ai',
     description:
-      'We’re on a mission to transform access to custom software using explainable AI capable of human-level reasoning and dialogue. We envision a future where custom, flexible, and\n durable software is democratized and accessible to everyone.',
+      'We’re on a mission to transform access to custom software using explainable AI capable of human-level reasoning and dialogue. We envision a future where custom, flexible, and durable software is democratized and accessible to everyone.',
   },
   {
     name: 'Teleporthq',
     category: 'Low-code/no-code',
     url: 'https://teleporthq.io',
     description:
-      'TeleportHQ is the collaborative front-end platform with\n integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless\n static websites instantly.',
+      'TeleportHQ is the collaborative front-end platform with integrated UI development and content modelling tools. A powerful visual builder to create and publish your headless static websites instantly.',
   },
   {
     name: 'Debuild',
@@ -2339,27 +2337,21 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://teachablemachine.withgo',
     description:
-      "Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. It's meant to be used by educators, artists, students, innovators, makers of all kinds – really, anyone who has an idea they want to explore. No prerequisite machine\n learning knowledge required.",
-  },
-  {
-    name: '',
-    category: '',
-    url: 'ogle.com',
-    description: '',
+      "Teachable Machine is a web-based tool that makes creating machine learning models fast, easy, and accessible to everyone. It's meant to be used by educators, artists, students, innovators, makers of all kinds – really, anyone who has an idea they want to explore. No prerequisite machine learning knowledge required.",
   },
   {
     name: 'Brancher AI',
     category: 'Low-code/no-code',
     url: 'https://brancher.ai',
     description:
-      'Making AI accessible to all by giving users the ability connect AI models together and produce unique AI-powered app.\n Monetize & share your creations with the world.',
+      'Making AI accessible to all by giving users the ability connect AI models together and produce unique AI-powered app. Monetize & share your creations with the world.',
   },
   {
     name: 'Axiom',
     category: 'Low-code/no-code',
     url: 'https://axiom.ai',
     description:
-      'Axiom is a browser extension that helps you save time by\n automating website actions and repetitive tasks on any website or web app.',
+      'Axiom is a browser extension that helps you save time by automating website actions and repetitive tasks on any website or web app.',
   },
   {
     name: 'Roboflow',
@@ -2373,7 +2365,7 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://nanonets.com',
     description:
-      'Automate Manual Data Entry Using AI! Capture data from documents, text, images, and emails instantly. Reduce turnaround times and the manual effort required. OCR\n (Optical Character Recognition)-based AI platform.',
+      'Automate Manual Data Entry Using AI! Capture data from documents, text, images, and emails instantly. Reduce turnaround times and the manual effort required. OCR (Optical Character Recognition)-based AI platform.',
   },
   {
     name: 'Lobe',
@@ -2387,61 +2379,61 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://liner.ai',
     description:
-      'Liner is a free tool that lets you train your ML models easily. It\n takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.',
+      'Liner is a free tool that lets you train your ML models easily. It takes your training data and gives you an easy-to-integrate ML model. No coding or expertise in machine learning required.',
   },
   {
     name: 'Cogniflow',
     category: 'Low-code/no-code',
     url: 'https://cogniflow.ai',
-    description: 'The easiest way to build AI from text, image, or audio. In\n minutes. No code required.',
+    description: 'The easiest way to build AI from text, image, or audio. In minutes. No code required.',
   },
   {
     name: 'Build AI',
     category: 'Low-code/no-code',
     url: 'https://buildai.space',
     description:
-      'Build AI helps you build AI apps in minutes. You will be able to build an app and publish it completely by yourself. You will be able to update it as you see fit, including improving and\n refining your prompts to make your app the best it can be',
+      'Build AI helps you build AI apps in minutes. You will be able to build an app and publish it completely by yourself. You will be able to update it as you see fit, including improving and refining your prompts to make your app the best it can be',
   },
   {
     name: 'Felvin',
     category: 'Low-code/no-code',
     url: 'https://felvin.com',
     description:
-      'Felvin enables non-devs to create, discover and monetize AI\n apps. Our no-code tool makes it easy for you to create AI apps and put them on an SEO-optimized gallery for discovery.',
+      'Felvin enables non-devs to create, discover and monetize AI apps. Our no-code tool makes it easy for you to create AI apps and put them on an SEO-optimized gallery for discovery.',
   },
   {
     name: 'Seek',
     category: 'Low-code/no-code',
     url: 'https://seek.ai',
-    description: 'The intelligent data layer. Ask your data anything and get\n answers, instantly',
+    description: 'The intelligent data layer. Ask your data anything and get answers, instantly',
   },
   {
     name: 'Lightning AI',
     category: 'Low-code/no-code',
     url: 'https://lightning.ai',
     description:
-      'Build models and full-stack AI apps, lightning fast. Build\n models and AI-powered cloud applications using Lightning App templates without DIY infrastructure, cost management,\n scaling, and other headaches.',
+      'Build models and full-stack AI apps, lightning fast. Build models and AI-powered cloud applications using Lightning App templates without DIY infrastructure, cost management, scaling, and other headaches.',
   },
   {
     name: 'Browse AI',
     category: 'Low-code/no-code',
     url: 'https://browse.ai',
     description:
-      'The easiest way to extract and monitor data from any\n website. Train a robot in 2 minutes. No coding required.',
+      'The easiest way to extract and monitor data from any website. Train a robot in 2 minutes. No coding required.',
   },
   {
     name: 'Softr Studio',
     category: 'Low-code/no-code',
     url: 'https://softr.io',
     description:
-      'Build custom apps for your business, as easy as lego.\n Generate images and copy within Softr with just one click using their AI. Turn your Airtable or Google Sheets into client portals, partner apps or internal tools.',
+      'Build custom apps for your business, as easy as lego. Generate images and copy within Softr with just one click using their AI. Turn your Airtable or Google Sheets into client portals, partner apps or internal tools.',
   },
   {
     name: 'Symanto Text Insights',
     category: 'Low-code/no-code',
     url: 'https://symanto.com',
     description:
-      'Market Leading NLP API. Leverage text data for better\n business insights with real-time analysis and simple system integration.',
+      'Market Leading NLP API. Leverage text data for better business insights with real-time analysis and simple system integration.',
   },
   {
     name: 'Mutiny',
@@ -2455,21 +2447,21 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://zevi.ai',
     description:
-      'Improve business outcomes with an AI-driven search and discovery solution Guide your prospects from discovery to conversions with an intent-focused, easy-to-integrate\n website search engine that helps boost engagement and sales',
+      'Improve business outcomes with an AI-driven search and discovery solution Guide your prospects from discovery to conversions with an intent-focused, easy-to-integrate website search engine that helps boost engagement and sales',
   },
   {
     name: 'Riku.ai',
     category: 'Low-code/no-code',
     url: 'https://riku.ai',
     description:
-      'Empowering you to build AI models without code. Use AI\n through integrations, API, or public share links. Accessible AI\n for everyone.',
+      'Empowering you to build AI models without code. Use AI through integrations, API, or public share links. Accessible AI for everyone.',
   },
   {
     name: 'AI Surge Cloud',
     category: 'Low-code/no-code',
     url: 'https://ai-surge.cloud',
     description:
-      "AI Surge is a no-code Decision Intelligence platform that helps businesses to build production-first ModelOps pipelines that bring data science to life without writing a single line of code. It's like Data science without data scientists. We are helping businesses to deliver data 10x faster and cutting\n down costs by 90%.",
+      "AI Surge is a no-code Decision Intelligence platform that helps businesses to build production-first ModelOps pipelines that bring data science to life without writing a single line of code. It's like Data science without data scientists. We are helping businesses to deliver data 10x faster and cutting down costs by 90%.",
   },
   {
     name: '10Web',
@@ -2483,40 +2475,40 @@ export const resources = [
     category: 'Low-code/no-code',
     url: 'https://retune.so',
     description:
-      'The ultimate tool for creating and monetizing fine-tuned language models using GPT-3. With re:tune, you can easily train and customize your own AI assistant for any industry or use case, and generate an API to integrate it into your own\n applications.',
+      'The ultimate tool for creating and monetizing fine-tuned language models using GPT-3. With re:tune, you can easily train and customize your own AI assistant for any industry or use case, and generate an API to integrate it into your own applications.',
   },
   {
     name: "Let's Enhance",
     category: 'Image Editing',
     url: 'https://letsenhance.io',
     description:
-      'Image enhancer & upscaler. Automatic AI editor to increase\n image resolution without losing quality. Make your photos look their best in one click',
+      'Image enhancer & upscaler. Automatic AI editor to increase image resolution without losing quality. Make your photos look their best in one click',
   },
   {
     name: 'Heyday',
     category: 'Memory',
     url: 'https://heyday.xyz',
     description:
-      'Heyday is an AI-powered memory assistant that resurfaces content you forgot about while you browse the web.\n Remember more of what you learn. Automatically.',
+      'Heyday is an AI-powered memory assistant that resurfaces content you forgot about while you browse the web. Remember more of what you learn. Automatically.',
   },
   {
     name: 'Personal.ai',
     category: 'Memory',
     url: 'https://personal.ai',
     description:
-      'PersonalAI is a AI tool to generate new ideas, recall key\n concepts and write original content at the speed of thought. Automatic cataloging of new ideas and centralized knowledge\n hub of everything you store.',
+      'PersonalAI is a AI tool to generate new ideas, recall key concepts and write original content at the speed of thought. Automatic cataloging of new ideas and centralized knowledge hub of everything you store.',
   },
   {
     name: 'Rewind AI',
     category: 'Memory',
     url: 'https://rewind.ai',
     description:
-      'Rewind is the search engine for your life. It’s a macOS app\n that’s private by design and allows you to find anything\n you’ve seen, said, or heard.',
+      'Rewind is the search engine for your life. It’s a macOS app that’s private by design and allows you to find anything you’ve seen, said, or heard.',
   },
   {
-    name: 'Natural\n Language Playlist',
+    name: 'Natural Language Playlist',
     category: 'Music',
-    url: 'https://naturallanguageplaylist.c om',
+    url: 'https://naturallanguageplaylist.com',
     description:
       'AI generated mixtapes and playlists. Enter a sentence as a prompt and get back a list of songs curated by AI!',
   },
@@ -2524,70 +2516,70 @@ export const resources = [
     name: 'Endel',
     category: 'Music',
     url: 'https://endel.io',
-    description: 'Personalized soundscapes to help you focus, relax, and sleep.\n Backed by neuroscience.',
+    description: 'Personalized soundscapes to help you focus, relax, and sleep. Backed by neuroscience.',
   },
   {
     name: 'Harmonai',
     category: 'Music',
     url: 'https://harmonai.org',
     description:
-      'We are a community-driven organization releasing open-\n source generative audio tools to make music production\n more accessible and fun for everyone',
+      'We are a community-driven organization releasing open- source generative audio tools to make music production more accessible and fun for everyone',
   },
   {
     name: 'Riffusion',
     category: 'Music',
     url: 'https://riffusion.com',
     description:
-      'Riffusion generates music from text prompts. Try your favorite styles, instruments like saxophone or violin, modifiers like arabic or jamaican, genres like jazz or gospel,\n sounds like church bells or rain, or any combination',
+      'Riffusion generates music from text prompts. Try your favorite styles, instruments like saxophone or violin, modifiers like arabic or jamaican, genres like jazz or gospel, sounds like church bells or rain, or any combination',
   },
   {
     name: 'Sonify',
     category: 'Music',
     url: 'https://sonify.io',
     description:
-      'Sonify innovates at the intersection of audio, data and\n emerging technologies. We design and develop audio-first products and data-driven solutions.',
+      'Sonify innovates at the intersection of audio, data and emerging technologies. We design and develop audio-first products and data-driven solutions.',
   },
   {
     name: 'Beatoven.ai',
     category: 'Music',
     url: 'https://beatoven.ai',
     description:
-      'Beatoven.ai uses advanced AI music generation techniques to\n compose unique mood-based music to suit every part of your\n video or podcast.',
+      'Beatoven.ai uses advanced AI music generation techniques to compose unique mood-based music to suit every part of your video or podcast.',
   },
   {
     name: 'Amper',
     category: 'Music',
     url: 'https://ampermusic.com',
     description:
-      'Amper’s mission is to enable anyone to express themselves\n creatively through music regardless of their background, expertise, or access to resources. Amper builds tools powered by our Creative AI to help people create and customize original music. They also provide an API that you\n can use to create your own products.',
+      'Amper’s mission is to enable anyone to express themselves creatively through music regardless of their background, expertise, or access to resources. Amper builds tools powered by our Creative AI to help people create and customize original music. They also provide an API that you can use to create your own products.',
   },
   {
     name: 'Soundful',
     category: 'Music',
     url: 'https://soundful.com',
     description:
-      'Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so\n rich, you won’t believe it was made with AI.',
+      'Soundful empowers creators to generate royalty free tracks at the click of a button. The quality of Soundful music is so rich, you won’t believe it was made with AI.',
   },
   {
     name: 'Songtell',
     category: 'Music',
     url: 'https://songtell.com',
     description:
-      "Songtell is the first ever AI-generated song meanings\n repository with over 20000 song meanings generated. You can also order a poster with your favourite song's meaning printed on it. Check out their subreddit r/songtell for more\n details!",
+      "Songtell is the first ever AI-generated song meanings repository with over 20000 song meanings generated. You can also order a poster with your favourite song's meaning printed on it. Check out their subreddit r/songtell for more details!",
   },
   {
     name: 'Pop2Piano',
     category: 'Music',
     url: 'https://sweetcocoa.github.io',
     description:
-      'Plays pop audio based piano cover from any song you want.\n Change the song and style of piano cover by selecting items\n from list.',
+      'Plays pop audio based piano cover from any song you want. Change the song and style of piano cover by selecting items from list.',
   },
   {
     name: 'Boomy',
     category: 'Music',
     url: 'https://boomy.com',
     description:
-      "Make instant music and share it with the world. Create original songs in seconds, even if you've never made music before. Get paid for every listen on platforms like Spotify,\n TikTok, YouTube, and 40+ others worldwide.",
+      "Make instant music and share it with the world. Create original songs in seconds, even if you've never made music before. Get paid for every listen on platforms like Spotify, TikTok, YouTube, and 40+ others worldwide.",
   },
   {
     name: 'Open Voice OS',
@@ -2601,14 +2593,14 @@ export const resources = [
     category: 'Music',
     url: 'https://audialab.com',
     description:
-      'Generate unique drum samples using artificial intelligence.\n Use our breakthrough plugin to generate endless drum\n samples, all royalty-free.',
+      'Generate unique drum samples using artificial intelligence. Use our breakthrough plugin to generate endless drum samples, all royalty-free.',
   },
   {
     name: 'Mubert',
     category: 'Music',
     url: 'https://mubert.com',
     description:
-      'Mubert - The new royalty-free music ecosystem for content\n creators, brands and developers 🔥. Come See How Our High- Quality Music Can Elevate Your Content 🤖!',
+      'Mubert - The new royalty-free music ecosystem for content creators, brands and developers 🔥. Come See How Our High- Quality Music Can Elevate Your Content 🤖!',
   },
   {
     name: 'Splashmusic',
@@ -2621,23 +2613,23 @@ export const resources = [
     category: 'Music',
     url: 'https://aiva.ai',
     description:
-      'AIVA, the Artificial Intelligence music composer that creates\n original & personalized music for your projects.',
+      'AIVA, the Artificial Intelligence music composer that creates original & personalized music for your projects.',
   },
   {
     name: 'Rephrasely',
     category: 'Paraphraser',
     url: 'https://rephrasely.com',
     description:
-      'Paraphrasing is a natural part of the writing process as it helps you clarify your thinking and suit your words to your audience. Using a Rephrasely helps structure and streamline this work, and our paraphrase tool offers 20 modes, many of them free, for accomplishing just this. The 20 modes we offer are diverse, including a summarize tool, a free grammar\n checker, a mode to simplify text, and a sentence shortener.',
+      'Paraphrasing is a natural part of the writing process as it helps you clarify your thinking and suit your words to your audience. Using a Rephrasely helps structure and streamline this work, and our paraphrase tool offers 20 modes, many of them free, for accomplishing just this. The 20 modes we offer are diverse, including a summarize tool, a free grammar checker, a mode to simplify text, and a sentence shortener.',
   },
   {
     name: 'Paraphraser',
     category: 'Paraphraser',
     url: 'https://paraphrasetool.com',
-    description: 'Paraphrase Tool uses AI to produce variations of your text in\n more than 100+ languages.',
+    description: 'Paraphrase Tool uses AI to produce variations of your text in more than 100+ languages.',
   },
   {
-    name: 'Quillbot\n Paraphraser',
+    name: 'Quillbot Paraphraser',
     category: 'Paraphraser',
     url: 'https://quillbot.com/',
     description:
@@ -2655,42 +2647,42 @@ export const resources = [
     category: 'Personalized Videos',
     url: 'https://rephrase.ai',
     description:
-      "Rephrase's technology enables hyper-personalized video\n creation at scale that drive engagement and business\n efficiencies.",
+      "Rephrase's technology enables hyper-personalized video creation at scale that drive engagement and business efficiencies.",
   },
   {
     name: 'Windsor',
     category: 'Personalized Videos',
     url: 'https://windsor.io',
     description:
-      "Send a personal video to every single customer so they never\n forget your brand Record one video, and Windsor's AI sends out millions of personalized copies to your customers.",
+      "Send a personal video to every single customer so they never forget your brand Record one video, and Windsor's AI sends out millions of personalized copies to your customers.",
   },
   {
     name: 'BHuman',
     category: 'Personalized Videos',
     url: 'https://bhuman.ai',
     description:
-      'Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly. You can do this by recording your template, connecting your data and then generating personalized\n videos.',
+      'Produce a single video and personalize it for thousands of recipients. Deliver over any channel and measure results instantly. You can do this by recording your template, connecting your data and then generating personalized videos.',
   },
   {
     name: 'Vidyo',
     category: 'Personalized Videos',
     url: 'https://vidyo.ai',
     description:
-      'Make short videos from long ones instantly. Use powerful AI\n to create short clips from your existing videos ✨ Save 90%\n time and effort.',
+      'Make short videos from long ones instantly. Use powerful AI to create short clips from your existing videos ✨ Save 90% time and effort.',
   },
   {
     name: 'DeepL',
     category: 'Productivity',
     url: 'https://deepl.com',
     description:
-      "DeepL is the world's most accurate and nuanced machine\n translation. It is over 3x more accurate than its closest competitors by combining Advanced AI technology and\n unbeatable translation accuracy.",
+      "DeepL is the world's most accurate and nuanced machine translation. It is over 3x more accurate than its closest competitors by combining Advanced AI technology and unbeatable translation accuracy.",
   },
   {
     name: 'Scale',
     category: 'Productivity',
     url: 'https://scale.com',
     description:
-      'Deliver value from your AI investments faster with better\n data. Better data leads to more performant models.\n Performant models lead to faster deployment.',
+      'Deliver value from your AI investments faster with better data. Better data leads to more performant models. Performant models lead to faster deployment.',
   },
   {
     name: 'Oracle',
@@ -2704,70 +2696,70 @@ export const resources = [
     category: 'Productivity',
     url: 'https://merlin.foyer.work',
     description:
-      'Merlin gives you the power of OpenAI’s ChatGPT on all your\n favourite websites. Ex: Gmail, g-sheets, Twitter, Linkedin, etc. Anywhere you search or write online. With Merlin you can quickly edit your emails, write twitter replies or create excel formulas.',
+      'Merlin gives you the power of OpenAI’s ChatGPT on all your favourite websites. Ex: Gmail, g-sheets, Twitter, Linkedin, etc. Anywhere you search or write online. With Merlin you can quickly edit your emails, write twitter replies or create excel formulas.',
   },
   {
     name: 'Enzyme',
     category: 'Productivity',
     url: 'https://enzyme.com',
     description:
-      'Enzyme QMS software includes modules for all stages of the product development life cycle from Design Control to CAPA. Our in-house experts are here to back you up! We can guide you through the quality challenges and regulatory submission\n process. Sign up for a Demo today.',
+      'Enzyme QMS software includes modules for all stages of the product development life cycle from Design Control to CAPA. Our in-house experts are here to back you up! We can guide you through the quality challenges and regulatory submission process. Sign up for a Demo today.',
   },
   {
     name: 'Albus',
     category: 'Productivity',
     url: 'https://springworks.in',
     description:
-      'Albus is an AI assistant inside Slack. You can ask Albus questions directly by messaging the application. Some examples include marketeers using Albus to create personalized and engaging content for their target audience, or designers could use Albus to generate ideas for new\n designs and to create unique and engaging visual content.',
+      'Albus is an AI assistant inside Slack. You can ask Albus questions directly by messaging the application. Some examples include marketeers using Albus to create personalized and engaging content for their target audience, or designers could use Albus to generate ideas for new designs and to create unique and engaging visual content.',
   },
   {
     name: 'Glean',
     category: 'Productivity',
     url: 'https://glean.com',
     description:
-      "Know what your company knows, instantly. Glean searches across all your company's apps to help you find exactly what\n you need and discover the things you should know.",
+      "Know what your company knows, instantly. Glean searches across all your company's apps to help you find exactly what you need and discover the things you should know.",
   },
   {
     name: 'Marketplan',
     category: 'Productivity',
     url: 'https://marketplan.io',
     description:
-      'The All-In-One Marketing Platform. Plan, execute, project,\n and optimize your entire marketing strategy all from one\n powerful place.',
+      'The All-In-One Marketing Platform. Plan, execute, project, and optimize your entire marketing strategy all from one powerful place.',
   },
   {
     name: 'Alfred',
     category: 'Productivity',
     url: 'https://alfredsearch.com',
     description:
-      "Alfred is a GPT Chat Assistant for iOS. It is a new AI-powered search and content creation engine, combining ads-free search and content creation into one easy-to-use app experience. Powered by OpenAI's groundbreaking GPT-3, Alfred understands your natural language and provides accurate and relevant answers. With Alfred, searching and finding information has never been easier or more convenient. Try it now and experience the future of search\n and content creation.",
+      "Alfred is a GPT Chat Assistant for iOS. It is a new AI-powered search and content creation engine, combining ads-free search and content creation into one easy-to-use app experience. Powered by OpenAI's groundbreaking GPT-3, Alfred understands your natural language and provides accurate and relevant answers. With Alfred, searching and finding information has never been easier or more convenient. Try it now and experience the future of search and content creation.",
   },
   {
     name: 'Qatalog',
     category: 'Productivity',
     url: 'https://qatalog.com',
     description:
-      'A Bespoke Operating System for Work. Qatalog is a project\n management/collaboration AI tool allowing seamless management of people, operations, and knowledge.',
+      'A Bespoke Operating System for Work. Qatalog is a project management/collaboration AI tool allowing seamless management of people, operations, and knowledge.',
   },
   {
     name: 'Krisp',
     category: 'Productivity',
     url: 'https://krisp.ai',
     description:
-      'Krisp’s AI-powered solution removes background noise and\n echo from meetings, leaving only human voice. Has features like noise & echo cancellation, widget, insights and call\n summary.',
+      'Krisp’s AI-powered solution removes background noise and echo from meetings, leaving only human voice. Has features like noise & echo cancellation, widget, insights and call summary.',
   },
   {
     name: 'Mem.ai',
     category: 'Productivity',
     url: 'https://mem.ai',
     description:
-      'Let AI organize your team’s work—from meeting notes,\n projects, to knowledge bases. All instantly searchable and\n readily discoverable.',
+      'Let AI organize your team’s work—from meeting notes, projects, to knowledge bases. All instantly searchable and readily discoverable.',
   },
   {
     name: 'Reclaim AI',
     category: 'Productivity',
     url: 'https://reclaim.ai',
     description:
-      "AI for task management and scheduling for Google calendar. Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with\n intelligent, flexible and adaptive time orchestration.",
+      "AI for task management and scheduling for Google calendar. Reclaim creates the perfect schedule for your team's priorities, and saves up to 40% of the workweek with intelligent, flexible and adaptive time orchestration.",
   },
   {
     name: 'Xembly',
@@ -2781,42 +2773,42 @@ export const resources = [
     category: 'Productivity',
     url: 'https://slidesai.io',
     description:
-      'Create Presentation Slides with AI in seconds Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With their tool, you can easily create professional, engaging slides from any text in no time. Works with Google Slides. Coming soon for Microsoft\n Powerpoint.',
+      'Create Presentation Slides with AI in seconds Say goodbye to tedious, manual slides creation. Let the AI write the outline and presentation content for you. With their tool, you can easily create professional, engaging slides from any text in no time. Works with Google Slides. Coming soon for Microsoft Powerpoint.',
   },
   {
     name: 'Noty.ai',
     category: 'Productivity',
     url: 'https://noty.ai',
     description:
-      'AI meeting assistant transforming Google Meet into actions, tasks and follow-ups. Features include: Real-time transcription and one-click highlighting. AI summaries and\n meeting intelligence. Automated Follow-up.',
+      'AI meeting assistant transforming Google Meet into actions, tasks and follow-ups. Features include: Real-time transcription and one-click highlighting. AI summaries and meeting intelligence. Automated Follow-up.',
   },
   {
     name: 'ChatGPT',
     category: 'Productivity',
     url: 'https://chat.openai.com',
     description:
-      'ChatGPT: Optimizing Language Models for Dialogue. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect\n premises, and reject inappropriate requests.',
+      'ChatGPT: Optimizing Language Models for Dialogue. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.',
   },
   {
     name: 'Supernormal',
     category: 'Productivity',
     url: 'https://supernormal.com',
     description:
-      'SuperNormal is a platform that enables teammates to send asynchronous video updates throughout the day. Quick video updates with AI-powered summaries help keep teams updated and connected without scheduling meetings or cross\n time zone syncs.',
+      'SuperNormal is a platform that enables teammates to send asynchronous video updates throughout the day. Quick video updates with AI-powered summaries help keep teams updated and connected without scheduling meetings or cross time zone syncs.',
   },
   {
     name: 'Adobe Sensei',
     category: 'Productivity',
     url: 'https://adobe.com',
     description:
-      'Creating and offering the ideal customer experience can be\n complicated tasks. Sensei uses AI and machine learning to make these tasks easier, helping you streamline the creative process, make informed decisions, and target marketing for\n better results.',
+      'Creating and offering the ideal customer experience can be complicated tasks. Sensei uses AI and machine learning to make these tasks easier, helping you streamline the creative process, make informed decisions, and target marketing for better results.',
   },
   {
     name: 'typly',
     category: 'Productivity',
     url: 'https://typly.app',
     description:
-      'Answer all your messages with a single click using our keyboard! Typly automatically generates sentences that match the context of the conversation. Allows you to answer\n questions or continue the thread with a single click.',
+      'Answer all your messages with a single click using our keyboard! Typly automatically generates sentences that match the context of the conversation. Allows you to answer questions or continue the thread with a single click.',
   },
   {
     name: 'Promptist',
@@ -2829,21 +2821,21 @@ export const resources = [
     name: 'Public Prompts',
     category: 'Prompts',
     url: 'https://publicprompts.art',
-    description: 'Collection of High Quality and Open Source Prompts for\n Image generation',
+    description: 'Collection of High Quality and Open Source Prompts for Image generation',
   },
   {
     name: 'Img2prompt',
     category: 'Prompts',
     url: 'https://replicate.com',
     description:
-      'Get an approximate text prompt, with style, matching an\n image. (Optimized for stable-diffusion (clip ViT-L/14))',
+      'Get an approximate text prompt, with style, matching an image. (Optimized for stable-diffusion (clip ViT-L/14))',
   },
   {
     name: 'PromptBase',
     category: 'Prompts',
     url: 'https://promptbase.com',
     description:
-      'Find top prompts, produce better results, save on API costs,\n sell your own prompts. DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.',
+      'Find top prompts, produce better results, save on API costs, sell your own prompts. DALL·E, GPT-3, Midjourney, Stable Diffusion Prompt Marketplace.',
   },
   {
     name: 'PromptBox',
@@ -2857,28 +2849,28 @@ export const resources = [
     category: 'Prompts',
     url: 'https://jrnylist.com',
     description:
-      'Midjourney Prompt Helper. - Browse dozens of prompts\n categorized as Art & Illustration or Assets & UIs You can\n submit your own prompt as well.',
+      'Midjourney Prompt Helper. - Browse dozens of prompts categorized as Art & Illustration or Assets & UIs You can submit your own prompt as well.',
   },
   {
     name: 'PromptLayer',
     category: 'Prompts',
     url: 'https://promptlayer.com',
     description:
-      'PromptLayer is the first platform that allows you to track, and manage your GPT prompt engineering. PromptLayer acts a middleware between your code and OpenAI’s python library. PromptLayer records all your OpenAI API requests, allowing you to search and explore request history in the PromptLayer\n dashboard.',
+      'PromptLayer is the first platform that allows you to track, and manage your GPT prompt engineering. PromptLayer acts a middleware between your code and OpenAI’s python library. PromptLayer records all your OpenAI API requests, allowing you to search and explore request history in the PromptLayer dashboard.',
   },
   {
     name: 'Eye for AI',
     category: 'Prompts',
     url: 'https://eyeforai.xyz',
     description:
-      'Save your favorite prompts as templates, and use them to\n quickly generate images in the future. Templates can work on\n uploaded images, or on text prompts.',
+      'Save your favorite prompts as templates, and use them to quickly generate images in the future. Templates can work on uploaded images, or on text prompts.',
   },
   {
     name: 'Dallelist',
     category: 'Prompts',
     url: 'https://dallelist.com',
     description:
-      'Dallelist allows you to generate prompts easily using images and styles as references. (keywords) They offer a chrome\n extension that integrates with DallE website too.',
+      'Dallelist allows you to generate prompts easily using images and styles as references. (keywords) They offer a chrome extension that integrates with DallE website too.',
   },
   {
     name: 'InteriorAI',
@@ -2892,24 +2884,24 @@ export const resources = [
     category: 'Real Estate',
     url: 'https://getfloorplan.com',
     description:
-      'Convert your 2D floor plan in to the modern and fully\n furnished 3D layout with 360 virtual tour with capacity up to\n thousands per day using AI.',
+      'Convert your 2D floor plan in to the modern and fully furnished 3D layout with 360 virtual tour with capacity up to thousands per day using AI.',
   },
   {
     name: 'Maket',
     category: 'Real Estate',
     url: 'https://maket.ai',
     description:
-      'Our generative design software enables architects, builders &\n developers to quickly generate thousands of architectural plans instantly.',
+      'Our generative design software enables architects, builders & developers to quickly generate thousands of architectural plans instantly.',
   },
   {
     name: 'CoolAIid',
     category: 'Real Estate',
     url: 'https://coolaiid.com',
     description:
-      "Interior design ideas using AI. Whether you're looking to\n decorate or just need a little inspiration, we'll generate\n unique ideas using AI.",
+      "Interior design ideas using AI. Whether you're looking to decorate or just need a little inspiration, we'll generate unique ideas using AI.",
   },
   {
-    name: 'AI Room\n Planner',
+    name: 'AI Room Planner',
     category: 'Real Estate',
     url: 'https://airoomplanner.com',
     description: 'Interior Design by AI. Get hundreds of interior design ideas for your room - free with no limit.',
@@ -2919,42 +2911,42 @@ export const resources = [
     category: 'Research',
     url: 'https://scholarcy.com',
     description:
-      'Save hundreds of hours by reading summaries of large\n articles powered by AI. Extracts the key facts, figures and\n references in seconds.',
+      'Save hundreds of hours by reading summaries of large articles powered by AI. Extracts the key facts, figures and references in seconds.',
   },
   {
     name: 'Scispace',
     category: 'Research',
     url: 'https://typeset.io',
     description:
-      'Your AI Copilot to decode any research paper. The quickest way to read and understand scientific literature. Highlight confusing text, math, and tables to get a simple explanation. Ask follow-up questions and get instant answers. A new way to search and find relevant papers without specifying\n keywords.',
+      'Your AI Copilot to decode any research paper. The quickest way to read and understand scientific literature. Highlight confusing text, math, and tables to get a simple explanation. Ask follow-up questions and get instant answers. A new way to search and find relevant papers without specifying keywords.',
   },
   {
     name: 'Galactica',
     category: 'Research',
     url: 'https://galactica.org',
     description:
-      "Galactica is an AI trained on humanity's scientific knowledge.\n You can use it as a new interface to access and manipulate\n what we know about the universe.",
+      "Galactica is an AI trained on humanity's scientific knowledge. You can use it as a new interface to access and manipulate what we know about the universe.",
   },
   {
     name: 'Elicit',
     category: 'Research',
     url: 'https://elicit.org',
     description:
-      'Elicit uses language models to help you automate research workflows, like parts of literature review. Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers. Elicit can also help with other research tasks like brainstorming, summarization\n and text classification.',
+      'Elicit uses language models to help you automate research workflows, like parts of literature review. Elicit can find relevant papers without perfect keyword match, summarize takeaways from the paper specific to your question, and extract key information from the papers. Elicit can also help with other research tasks like brainstorming, summarization and text classification.',
   },
   {
     name: 'Adept',
     category: 'Research',
     url: 'https://adept.ai',
     description:
-      'Adept is an ML research and product lab building general\n intelligence by enabling humans and computers to work\n together creatively.',
+      'Adept is an ML research and product lab building general intelligence by enabling humans and computers to work together creatively.',
   },
   {
     name: 'Podcast',
     category: 'Research',
     url: 'https://podcast.ai',
     description:
-      'The AI-generated podcast. There are 2 podcasts on it - Lex\n Fridman interviews Richard Feynman and Joe Rogan interviews Steve Jobs.',
+      'The AI-generated podcast. There are 2 podcasts on it - Lex Fridman interviews Richard Feynman and Joe Rogan interviews Steve Jobs.',
   },
   {
     name: 'Consensus',
@@ -2968,30 +2960,30 @@ export const resources = [
     category: 'Research',
     url: 'https://socratic.org',
     description:
-      "Get unstuck in your academic problems like Science, Math,\n Literature, Social Studies and more with help from Google's AI and also get visual explanations of important concepts in\n each subject.",
+      "Get unstuck in your academic problems like Science, Math, Literature, Social Studies and more with help from Google's AI and also get visual explanations of important concepts in each subject.",
   },
   {
     name: 'ML news',
     category: 'Resources',
     url: 'https://machine-learning.news',
-    description: 'Website that aggregates news related to AI and ML in\n Japanese.',
+    description: 'Website that aggregates news related to AI and ML in Japanese.',
   },
   {
     name: 'FlowGPT',
     category: 'Resources',
     url: 'https://flowgpt.com',
     description:
-      'FlowGPT: Share, discover, and learn about the most useful\n ChatGPT prompts that help you streamline your tasks and\n increase productivity.',
+      'FlowGPT: Share, discover, and learn about the most useful ChatGPT prompts that help you streamline your tasks and increase productivity.',
   },
   {
     name: 'The AI Times',
     category: 'Resources',
     url: 'https://aitimespage.com',
     description:
-      'Stay In The Know with The AI Times. Subscribe to get The AI\n Times issues sent straight to your inbox right off the digital press.',
+      'Stay In The Know with The AI Times. Subscribe to get The AI Times issues sent straight to your inbox right off the digital press.',
   },
   {
-    name: 'AI Art Apps\n Database',
+    name: 'AI Art Apps Database',
     category: 'Resources',
     url: 'https://aiartapps.com',
     description:
@@ -3002,27 +2994,27 @@ export const resources = [
     category: 'Sales',
     url: 'https://infranodus.com',
     description:
-      'Generate Ideas and Insight using AI and Network Thinking. InfraNodus combines text analysis, network visualization, and GPT-3 AI to help you study a discourse, enhance your reading, writing, and research workflows. Get a summary overview of any text from multiple import sources, reveal the main topics and the relations between them, identify the patterns and gaps, discover the right questions to advance\n your thinking and research.',
+      'Generate Ideas and Insight using AI and Network Thinking. InfraNodus combines text analysis, network visualization, and GPT-3 AI to help you study a discourse, enhance your reading, writing, and research workflows. Get a summary overview of any text from multiple import sources, reveal the main topics and the relations between them, identify the patterns and gaps, discover the right questions to advance your thinking and research.',
   },
   {
     name: 'Reply.io',
     category: 'Sales',
     url: 'https://reply.io',
     description:
-      'Generate human-like sales emails in seconds at scale with Reply’s AI Sales Email Assistant. Powered by the GPT-3 language prediction model, your cold and follow-up emails\n will always be hyper-relevant and personalized, boosting your\n open & reply rates!',
+      'Generate human-like sales emails in seconds at scale with Reply’s AI Sales Email Assistant. Powered by the GPT-3 language prediction model, your cold and follow-up emails will always be hyper-relevant and personalized, boosting your open & reply rates!',
   },
   {
     name: 'Regie',
     category: 'Sales',
     url: 'https://regie.ai',
-    description: 'Regie helps sales, marketing, and success teams write\n engaging content faster using AI',
+    description: 'Regie helps sales, marketing, and success teams write engaging content faster using AI',
   },
   {
     name: 'Cresta',
     category: 'Sales',
     url: 'https://cresta.com',
     description:
-      'Self-service, live coaching, and post call insights. AI that\n uncovers expertise so teams can make every customer\n conversation count.',
+      'Self-service, live coaching, and post call insights. AI that uncovers expertise so teams can make every customer conversation count.',
   },
   {
     name: 'Omneky',
@@ -3035,21 +3027,21 @@ export const resources = [
     category: 'Sales',
     url: 'https://outplayhq.com',
     description:
-      'Outplay is an all-in-one multichannel sales engagement\n platform that helps sales teams close more deals and\n significantly increase revenue.',
+      'Outplay is an all-in-one multichannel sales engagement platform that helps sales teams close more deals and significantly increase revenue.',
   },
   {
     name: 'Usetwain',
     category: 'Sales',
     url: 'https://usetwain.com',
     description:
-      'World-class selling skills at your fingertips. Use Twain for free\n to see what your sales pitch is missing.',
+      'World-class selling skills at your fingertips. Use Twain for free to see what your sales pitch is missing.',
   },
   {
     name: 'Industrial Data Labs',
     category: 'Sales',
     url: 'https://industrialdatalabs.com',
     description:
-      'Embedding A.I. in BOM workflows. Inside Sales Teams spend countless hours manually entering data from bill of material spreadsheets to quoting systems and ERPs. Our industry- trained A.I. automates this manual process allowing your\n sales team to spend more time selling.',
+      'Embedding A.I. in BOM workflows. Inside Sales Teams spend countless hours manually entering data from bill of material spreadsheets to quoting systems and ERPs. Our industry- trained A.I. automates this manual process allowing your sales team to spend more time selling.',
   },
   {
     name: 'MarbleFlows',
@@ -3062,10 +3054,10 @@ export const resources = [
     category: 'Sales',
     url: 'https://getitout.io',
     description:
-      'GETitOUT is an AI Persona & Text Generator. Marketing works better with personas. But creating them for every project and client? Not fun, at least until now. Meet\n GETitOUT’s Persona Generator: Extract personas from\n competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.',
+      'GETitOUT is an AI Persona & Text Generator. Marketing works better with personas. But creating them for every project and client? Not fun, at least until now. Meet GETitOUT’s Persona Generator: Extract personas from competitors. Generate professional texts. Then paste them into all your websites, emails, and marketing tools.',
   },
   {
-    name: 'Klaviyo SMS\n Assistant',
+    name: 'Klaviyo SMS Assistant',
     category: 'Sales',
     url: 'https://klaviyo.com',
     description: 'Write SMS campaigns in seconds with Klaviyo’s new AI- powered SMS Assistant',
@@ -3075,14 +3067,14 @@ export const resources = [
     category: 'Sales',
     url: 'https://smartwriter.ai',
     description:
-      'Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers. No experience needed. Find leads, create tailored personalised copy and\n make sales. AI Cold Emails',
+      'Use AI to create highly personalised cold emails or Linkedin messages that convert readers to customers. No experience needed. Find leads, create tailored personalised copy and make sales. AI Cold Emails',
   },
   {
     name: 'Lavender',
     category: 'Sales',
     url: 'https://lavender.ai',
     description:
-      'Lavender is a complete suite of tools to help you get more\n replies in less time. Write better emails, personalize faster,\n and coach your team with Email AI.',
+      'Lavender is a complete suite of tools to help you get more replies in less time. Write better emails, personalize faster, and coach your team with Email AI.',
   },
   {
     name: 'Andi',
@@ -3095,14 +3087,14 @@ export const resources = [
     name: 'One More AI',
     category: 'Search Engine',
     url: 'https://onemoreai.com',
-    description: 'AI-Generated Stock Images Find thousands of pictures\n generated by Artificial Intelligence.',
+    description: 'AI-Generated Stock Images Find thousands of pictures generated by Artificial Intelligence.',
   },
   {
     name: 'AnyPod',
     category: 'Search Engine',
     url: 'https://anypod.ai',
     description:
-      'AI search engines built for creators. Search through your\n favourite podcast like My First Million easily. You can also\n submit a form adding your podcast.',
+      'AI search engines built for creators. Search through your favourite podcast like My First Million easily. You can also submit a form adding your podcast.',
   },
   {
     name: 'Kailua Labs',
@@ -3116,55 +3108,55 @@ export const resources = [
     category: 'Search Engine',
     url: 'https://exploreai.vercel.app',
     description:
-      'Semantic search engine powered by AI. Search for answers\n directly inside thousands of YouTube videos, free-of-cost,\n easy-to-navigate and fast.',
+      'Semantic search engine powered by AI. Search for answers directly inside thousands of YouTube videos, free-of-cost, easy-to-navigate and fast.',
   },
   {
     name: 'Looria',
     category: 'Search Engine',
     url: 'https://looria.com',
     description:
-      'Looria finds the best products that fit your needs and budget. They gather reviews from the most trusted sources, filter out the fake ones, and summarize the findings so you can make\n more informed purchase decisions.',
+      'Looria finds the best products that fit your needs and budget. They gather reviews from the most trusted sources, filter out the fake ones, and summarize the findings so you can make more informed purchase decisions.',
   },
   {
     name: 'ChatGPT Chrome Extension',
     category: 'Search Engine',
     url: 'https://chrome.google.com',
     description:
-      'Display ChatGPT response alongside Google, Bing, DuckDuckGo search results. It gives you surprisingly detailed solutions to your queries - from writing a prom proposal to\n fixing your code.',
+      'Display ChatGPT response alongside Google, Bing, DuckDuckGo search results. It gives you surprisingly detailed solutions to your queries - from writing a prom proposal to fixing your code.',
   },
   {
     name: 'Everypixel',
     category: 'Search Engine',
     url: 'https://everypixel.com',
     description:
-      'A search engine powered by AI that indexes 50 paid and free stock image websites, and allows users to search through a massive database of stock photos in seconds. You can also search by image and variety of search filters giving you the ability to search by color, orientation and image type. You can also compare image prices from various websites and\n search by author.',
+      'A search engine powered by AI that indexes 50 paid and free stock image websites, and allows users to search through a massive database of stock photos in seconds. You can also search by image and variety of search filters giving you the ability to search by color, orientation and image type. You can also compare image prices from various websites and search by author.',
   },
   {
     name: 'Steno',
     category: 'Search Engine',
     url: 'https://steno.ai',
-    description: 'Your favorite podcasts, fully transcribed Discover, reference,\n and read along as you listen.',
+    description: 'Your favorite podcasts, fully transcribed Discover, reference, and read along as you listen.',
   },
   {
     name: 'Krea',
     category: 'Search Engine',
     url: 'https://krea.ai',
     description:
-      'Explore millions of AI generated images and create\n collections of prompts. Featuring Stable Diffusion generations.',
+      'Explore millions of AI generated images and create collections of prompts. Featuring Stable Diffusion generations.',
   },
   {
     name: 'Dreamsands',
     category: 'Search Engine',
     url: 'https://dreamsands.ai',
     description:
-      'Dreamsands is a creative marketplace where you can license,\n collect and share images of AI-generated art you find\n interesting.',
+      'Dreamsands is a creative marketplace where you can license, collect and share images of AI-generated art you find interesting.',
   },
   {
     name: 'Generated Photos',
     category: 'Search Engine',
     url: 'https://generated.photos',
     description:
-      'Enhance your creative works with photos generated\n completely by AI. Find model images through our sorted and tagged app, or integrate images via API.',
+      'Enhance your creative works with photos generated completely by AI. Find model images through our sorted and tagged app, or integrate images via API.',
   },
   {
     name: 'NeevaAI',
@@ -3178,14 +3170,14 @@ export const resources = [
     category: 'Search Engine',
     url: 'https://addcontext.xyz',
     description:
-      "Your favorite content. Transcribed and searchable. Context is an AI-powered search engine that can find any moment you're looking for within large collections of audio and video content. You can search content of creators like Mr Beast and\n MKBHD.",
+      "Your favorite content. Transcribed and searchable. Context is an AI-powered search engine that can find any moment you're looking for within large collections of audio and video content. You can search content of creators like Mr Beast and MKBHD.",
   },
   {
     name: 'Perplexity AI',
     category: 'Search Engine',
     url: 'https://perplexity.ai',
     description:
-      'Perplexity AI is an AI search engine. It is a demo inspired by\n OpenAI WebGPT, not a commercial product. They use large language models (OpenAI API) and search engines. Also answers Twitter graph queries by translating natural\n language to SQL code.',
+      'Perplexity AI is an AI search engine. It is a demo inspired by OpenAI WebGPT, not a commercial product. They use large language models (OpenAI API) and search engines. Also answers Twitter graph queries by translating natural language to SQL code.',
   },
   {
     name: 'Algolia',
@@ -3204,27 +3196,27 @@ export const resources = [
     name: 'Rosebud',
     category: 'Search Engine',
     url: 'https://rosebud.ai',
-    description: 'AI Generated Visuals We make it easy for you to get the exact\n visual you need.',
+    description: 'AI Generated Visuals We make it easy for you to get the exact visual you need.',
   },
   {
     name: 'Nyx',
     category: 'Search Engine',
     url: 'https://nyx.gallery',
     description:
-      'Images on this website have been generated with AI and are\n therefore “not real”. The food, animals, landscapes, etc. that you will see do not exist!',
+      'Images on this website have been generated with AI and are therefore “not real”. The food, animals, landscapes, etc. that you will see do not exist!',
   },
   {
     name: 'PromptHero',
     category: 'Search Engine',
     url: 'https://prompthero.com',
-    description: 'Search millions of art images by AI models like DALL-E, Stable\n Diffusion, Midjourney...',
+    description: 'Search millions of art images by AI models like DALL-E, Stable Diffusion, Midjourney...',
   },
   {
     name: 'Writesonic',
     category: 'SEO',
     url: 'https://writesonic.com',
     description:
-      'Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our\n paraphrasing tool lets you rephrase entire articles instantly.',
+      'Writesonic is an AI writer that creates SEO-friendly content for blogs, Facebook ads, Google ads, and Shopify for free. Our paraphrasing tool lets you rephrase entire articles instantly.',
   },
   {
     name: 'Mentioned',
@@ -3238,62 +3230,62 @@ export const resources = [
     category: 'SEO',
     url: 'https://blognlp.com',
     description:
-      "BlogNLP is a free AI blog writing tool that helps you break\n your writer's block to create original content in a fraction of a\n time.",
+      "BlogNLP is a free AI blog writing tool that helps you break your writer's block to create original content in a fraction of a time.",
   },
   {
     name: 'CTRify',
     category: 'SEO',
     url: 'https://ctrify.com',
     description:
-      'First AI-Powered SEO Action Platform Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. Boost your SERPs rankings, organic CTR, Dwell time and Pogo Sticking thanks to our organic traffic from millions of real Desktop and Mobile devices connected from residential IPs of top Mobile Carriers from all locations of the\n World.',
+      'First AI-Powered SEO Action Platform Create websites that rank on Google by just giving one keyword to our Artificial Intelligence. Boost your SERPs rankings, organic CTR, Dwell time and Pogo Sticking thanks to our organic traffic from millions of real Desktop and Mobile devices connected from residential IPs of top Mobile Carriers from all locations of the World.',
   },
   {
     name: 'Jenni',
     category: 'SEO',
     url: 'https://jenni.ai',
-    description: 'You Write, Jenni Completes Supercharge your writing with\n the most advanced AI writing assistant.',
+    description: 'You Write, Jenni Completes Supercharge your writing with the most advanced AI writing assistant.',
   },
   {
     name: 'Closers Copy',
     category: 'SEO',
     url: 'https://closerscopy.com',
     description:
-      'Boost Your Sales with SEO Optimized Blogs and Irresistible\n Marketing Copy. Leverage the secrets of the most powerful\n copy in the world ...and let your copywriting robot bring them to life!',
+      'Boost Your Sales with SEO Optimized Blogs and Irresistible Marketing Copy. Leverage the secrets of the most powerful copy in the world ...and let your copywriting robot bring them to life!',
   },
   {
     name: 'Kafkai',
     category: 'SEO',
     url: 'https://kafkai.com',
     description:
-      'Kafkai is a machine-learning algorithm that can write articles\n from scratch. Cutting-edge technology for marketers and\n SEOs.',
+      'Kafkai is a machine-learning algorithm that can write articles from scratch. Cutting-edge technology for marketers and SEOs.',
   },
   {
     name: 'Spinrewriter',
     category: 'SEO',
     url: 'https://spinrewriter.com',
     description:
-      'Need unique content? Watch how to rewrite a single article into 500 articles in 45 seconds. With ENL technology, Spin Rewriter is the perfect tool for SEO specialists that need\n unique, human-quality content to rank higher on Google.',
+      'Need unique content? Watch how to rewrite a single article into 500 articles in 45 seconds. With ENL technology, Spin Rewriter is the perfect tool for SEO specialists that need unique, human-quality content to rank higher on Google.',
   },
   {
     name: 'Writer',
     category: 'SEO',
     url: 'https://writer.com',
     description:
-      'Discover Writer, the AI writing platform for teams. Craft\n clear, consistent, and on-brand content everywhere. Try it\n free today.',
+      'Discover Writer, the AI writing platform for teams. Craft clear, consistent, and on-brand content everywhere. Try it free today.',
   },
   {
     name: 'LongShot',
     category: 'SEO',
     url: 'https://longShot.ai',
     description:
-      'Create blogs that humans and search engines love using Artificial intelligence. LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on\n Google.',
+      'Create blogs that humans and search engines love using Artificial intelligence. LongShot is an AI writing assistant that helps you and your team create helpful blogs that rank on Google.',
   },
   {
     name: 'Word Spinner',
     category: 'SEO',
     url: 'https://word-spinner.com',
     description:
-      'Instantly rewrite any article or text into SEO-friendly unique\n content. Word Spinner can make your writing shine like never before, making it a great option for any who wants to\n improve their writing skills.',
+      'Instantly rewrite any article or text into SEO-friendly unique content. Word Spinner can make your writing shine like never before, making it a great option for any who wants to improve their writing skills.',
   },
   {
     name: 'Neuronwriter',
@@ -3319,42 +3311,42 @@ export const resources = [
     name: 'Typli',
     category: 'SEO',
     url: 'https://typli.ai',
-    description: 'The most intuitive A.I Content tool which combines AI Writing\n and an SEO Assistant.',
+    description: 'The most intuitive A.I Content tool which combines AI Writing and an SEO Assistant.',
   },
   {
     name: 'Eilla AI',
     category: 'SEO',
     url: 'https://eilla.ai',
     description:
-      'Eilla.ai is an AI-powered assistant that generates high-quality content for your business, blogs, ads, emails and realistic\n images or art. Get started for free, no credit card required!',
+      'Eilla.ai is an AI-powered assistant that generates high-quality content for your business, blogs, ads, emails and realistic images or art. Get started for free, no credit card required!',
   },
   {
     name: 'Letterdrop',
     category: 'SEO',
     url: 'https://letterdrop.com',
     description:
-      'Create 32% more content, faster, with fewer headaches.\n Letterdrop streamlines and automates your content operations.',
+      'Create 32% more content, faster, with fewer headaches. Letterdrop streamlines and automates your content operations.',
   },
   {
     name: 'Writey AI',
     category: 'SEO',
     url: 'https://writey.ai',
     description:
-      'Changing the way content is created. Create content faster\n with artificial intelligence. Most advanced language A.I. First true free plagiarism A.I with original and researched content, check Writey A.I in action',
+      'Changing the way content is created. Create content faster with artificial intelligence. Most advanced language A.I. First true free plagiarism A.I with original and researched content, check Writey A.I in action',
   },
   {
     name: 'AI-Writer',
     category: 'SEO',
     url: 'https://ai-writer.com',
     description:
-      'AI-Writer is the most accurate content generation platform.\n Uses state-of-the-art AI writing models to generate articles\n from just a headline.',
+      'AI-Writer is the most accurate content generation platform. Uses state-of-the-art AI writing models to generate articles from just a headline.',
   },
   {
     name: 'Scalenut',
     category: 'SEO',
     url: 'https://scalenut.com',
     description:
-      'Produce content that serves your business goals in a simple\n and scalable way. Guided workflow to complete blog in just 5\n minutes!',
+      'Produce content that serves your business goals in a simple and scalable way. Guided workflow to complete blog in just 5 minutes!',
   },
   {
     name: 'Wordhero',
@@ -3367,27 +3359,27 @@ export const resources = [
     name: 'growthbar',
     category: 'SEO',
     url: 'https://growthbarseo.com',
-    description: 'Write perfect SEO-friendly content for blog posts, website\n pages, and articles… with AI.',
+    description: 'Write perfect SEO-friendly content for blog posts, website pages, and articles… with AI.',
   },
   {
     name: 'Katteb',
     category: 'SEO',
     url: 'https://katteb.com',
-    description: 'Katteb AI makes it fast & easy to create content for your blog\n and online store.',
+    description: 'Katteb AI makes it fast & easy to create content for your blog and online store.',
   },
   {
     name: 'Thundercontent',
     category: 'SEO',
     url: 'https://thundercontent.com',
     description:
-      "Generate Content with AI. Thundercontent uses artificial\n intelligence to help you write unique articles on any topic at the speed of light. Scale your content strategy. Overcome writer's block. You can also generate audio using\n Thundercontent.",
+      "Generate Content with AI. Thundercontent uses artificial intelligence to help you write unique articles on any topic at the speed of light. Scale your content strategy. Overcome writer's block. You can also generate audio using Thundercontent.",
   },
   {
     name: 'Moonbeam',
     category: 'SEO',
     url: 'https://gomoonbeam.com',
     description:
-      "Moonbeam's AI will give you everything you need to write\n killer long form content. Become 2x Better at Writing in 10\n Minutes.",
+      "Moonbeam's AI will give you everything you need to write killer long form content. Become 2x Better at Writing in 10 Minutes.",
   },
   {
     name: 'Copymatic',
@@ -3401,35 +3393,35 @@ export const resources = [
     category: 'SEO',
     url: 'https://articleforge.com',
     description:
-      'From product descriptions to whole blog posts, Article Forge\n delivers unique, SEO optimized, high-quality content about\n any topic with a single click.',
+      'From product descriptions to whole blog posts, Article Forge delivers unique, SEO optimized, high-quality content about any topic with a single click.',
   },
   {
     name: 'BrameWork',
     category: 'SEO',
     url: 'https://bramework.com',
     description:
-      'Write Blog Posts 5X Faster. Bramework is an easy-to-use AI\n writer that helps bloggers, freelancers, and agencies save\n hours per blog post.',
+      'Write Blog Posts 5X Faster. Bramework is an easy-to-use AI writer that helps bloggers, freelancers, and agencies save hours per blog post.',
   },
   {
     name: 'InstaSalesAI',
     category: 'Social Media Assistant',
     url: 'https://instasalesai.com',
     description:
-      'InstaSalesAI is a collection of AI tools for Instagram\n marketing. You can use it to generate carousel content or\n marketing hooks.',
+      'InstaSalesAI is a collection of AI tools for Instagram marketing. You can use it to generate carousel content or marketing hooks.',
   },
   {
     name: 'FeedHive',
     category: 'Social Media Assistant',
     url: 'https://feedhive.com',
     description:
-      "Create, schedule, publish and easily manage your social media content at scale with FeedHive's AI-powered platform. Drag and drop scheduling, automatic generating hashtags\n and most active timing and superb analytics.",
+      "Create, schedule, publish and easily manage your social media content at scale with FeedHive's AI-powered platform. Drag and drop scheduling, automatic generating hashtags and most active timing and superb analytics.",
   },
   {
     name: 'Predis',
     category: 'Social Media Assistant',
     url: 'https://predis.ai',
     description:
-      'Predis.ai is an AI-powered content generator that helps create stunning social media posts in seconds. It offers a variety of features such as idea generation, engagement prediction, content recommendation, hashtag\n recommendation, and creatives suggestion.',
+      'Predis.ai is an AI-powered content generator that helps create stunning social media posts in seconds. It offers a variety of features such as idea generation, engagement prediction, content recommendation, hashtag recommendation, and creatives suggestion.',
   },
   {
     name: 'Tweet Hunter',
@@ -3440,23 +3432,23 @@ export const resources = [
   },
   {
     name: 'Contenda',
-    category: 'Social Media\n Assistant',
+    category: 'Social Media Assistant',
     url: 'https://contenda.co',
-    description: 'A unified content repository that repurposes technical\n content better and faster than an agency',
+    description: 'A unified content repository that repurposes technical content better and faster than an agency',
   },
   {
     name: 'Editby',
     category: 'Social Media Assistant',
     url: 'https://editby.ai',
     description:
-      "Do you find yourself struggling to come up with interesting\n tweets? Start writing like famous Twitter accounts using AI, so you don't have to worry about writer's block anymore.",
+      "Do you find yourself struggling to come up with interesting tweets? Start writing like famous Twitter accounts using AI, so you don't have to worry about writer's block anymore.",
   },
   {
     name: 'Spatial',
     category: 'Social Media Assistant',
     url: 'https://spatial.ai',
     description:
-      'Predict and influence customer behavior with a real-time\n social media segmentation system. It provides segmentation of people based on their social, mobile and web activity and also of places describing the type and velocity of social\n activity in proximity to a location.',
+      'Predict and influence customer behavior with a real-time social media segmentation system. It provides segmentation of people based on their social, mobile and web activity and also of places describing the type and velocity of social activity in proximity to a location.',
   },
   {
     name: 'SocialBu',
@@ -3470,25 +3462,25 @@ export const resources = [
     category: 'Social Media Assistant',
     url: 'https://TweetEmote.com',
     description:
-      'AI powered tweet assistant that helps users write expressive and engaging tweets. Also create smart replies to any tweet\n you want by writing a prompt and picking an emotion.',
+      'AI powered tweet assistant that helps users write expressive and engaging tweets. Also create smart replies to any tweet you want by writing a prompt and picking an emotion.',
   },
   {
     name: 'Repl AI',
     category: 'Social Media Assistant',
     url: 'https://replai.so',
     description:
-      'Chrome extension to create meaningful Twitter replies with\n AI. Replai.so is the easiest way to connect with the community, look clever, funny, professional on social media, appear smarter and grow your audience with 10x less effort.\n You can find it on the chrome webstore.',
+      'Chrome extension to create meaningful Twitter replies with AI. Replai.so is the easiest way to connect with the community, look clever, funny, professional on social media, appear smarter and grow your audience with 10x less effort. You can find it on the chrome webstore.',
   },
   {
     name: 'CrawlQ.ai',
     category: 'Social Media Assistant',
     url: 'https://crawlq.ai',
     description:
-      'Create "Brand Love" with Your Audience. CrawlQ delivers\n high-emotional, high-empathy, high-ROI, audience-centric\n creative work with global reach.',
+      'Create "Brand Love" with Your Audience. CrawlQ delivers high-emotional, high-empathy, high-ROI, audience-centric creative work with global reach.',
   },
   {
     name: 'Graham AI',
-    category: 'Social Media\n Assistant',
+    category: 'Social Media Assistant',
     url: 'https://grahamai.co',
     description: 'Tweet like a genius tech influencer, generated by AI.',
   },
@@ -3503,7 +3495,7 @@ export const resources = [
     category: 'Spreadsheets',
     url: 'https://boloforms.com',
     description:
-      'Create complex Excel formulas using plain English with SheetGod. Our AI-powered tool also allows you to create macros, regular expressions, and basic tasks, as well as Google Appscript code snippets to automate your daily manual work. Try it now and experience the power of\n SheetGod.',
+      'Create complex Excel formulas using plain English with SheetGod. Our AI-powered tool also allows you to create macros, regular expressions, and basic tasks, as well as Google Appscript code snippets to automate your daily manual work. Try it now and experience the power of SheetGod.',
   },
   {
     name: 'Goodlookup',
@@ -3517,7 +3509,7 @@ export const resources = [
     category: 'Spreadsheets',
     url: 'https://excelformulabot.com',
     description:
-      'Transform your text instructions into Excel formulas in seconds with the help of AI. Stop wasting hours creating Excel formulas. Experience the full power of Excel & Google Sheets\n AI formula generators to solve problems in seconds.',
+      'Transform your text instructions into Excel formulas in seconds with the help of AI. Stop wasting hours creating Excel formulas. Experience the full power of Excel & Google Sheets AI formula generators to solve problems in seconds.',
   },
   {
     name: 'Sheet+',
@@ -3531,14 +3523,14 @@ export const resources = [
     category: 'Spreadsheets',
     url: 'https://sheetai.app',
     description:
-      'Available for Google Sheets and Excel (Coming Soon) Skip the\n learning and get straight to work. Use AI to transform your text instructions into a Google Sheet formula quickly. (Going\n live in 2-3 weeks)',
+      'Available for Google Sheets and Excel (Coming Soon) Skip the learning and get straight to work. Use AI to transform your text instructions into a Google Sheet formula quickly. (Going live in 2-3 weeks)',
   },
   {
     name: 'AIHelperBot',
     category: 'SQL',
     url: 'https://aihelperbot.com',
     description:
-      'Build SQL queries instantly with AI. Build SQL queries without prior SQL knowledge. Join 1000s of others and start boosting your SQL proficiency and productivity. Also supports NoSQL\n databases like MongoDB.',
+      'Build SQL queries instantly with AI. Build SQL queries without prior SQL knowledge. Join 1000s of others and start boosting your SQL proficiency and productivity. Also supports NoSQL databases like MongoDB.',
   },
   {
     name: 'AI Data Sidekick',
@@ -3552,7 +3544,7 @@ export const resources = [
     category: 'SQL',
     url: 'https://usechannel.com',
     description:
-      'Ask a question in English (natural language) and automatically\n generate the SQL, answers and visualisations you need. Collaborate with team mates to quickly create dashboards and then explore your data further with Channel’s suggested questions.',
+      'Ask a question in English (natural language) and automatically generate the SQL, answers and visualisations you need. Collaborate with team mates to quickly create dashboards and then explore your data further with Channel’s suggested questions.',
   },
   {
     name: 'Ai2sql',
@@ -3566,7 +3558,7 @@ export const resources = [
     category: 'SQL',
     url: 'https://avanty.app',
     description:
-      'Never waste precious data analyst time on writing boring SQL queries again. Avanty is an AI-powered data query + Business Intelligence tool that allows everybody to get insights from\n data quicker and at less cost.',
+      'Never waste precious data analyst time on writing boring SQL queries again. Avanty is an AI-powered data query + Business Intelligence tool that allows everybody to get insights from data quicker and at less cost.',
   },
   {
     name: 'Broadn',
@@ -3579,7 +3571,7 @@ export const resources = [
     category: 'Startup',
     url: 'https://paperade.co',
     description:
-      "Paperade is the first AI-powered tool that generates\n commercial use cases and company ideas from over 100 million academic papers and research studies. It's like having\n a PhD in startup ideas.",
+      "Paperade is the first AI-powered tool that generates commercial use cases and company ideas from over 100 million academic papers and research studies. It's like having a PhD in startup ideas.",
   },
   {
     name: 'Tome',
@@ -3600,7 +3592,7 @@ export const resources = [
     category: 'Startup',
     url: 'https://namelix.com',
     description:
-      'Namelix will generate a short, brandable business name using\n artificial intelligence. Also great for discovering new domain\n names :)',
+      'Namelix will generate a short, brandable business name using artificial intelligence. Also great for discovering new domain names :)',
   },
   {
     name: 'Finta',
@@ -3614,27 +3606,27 @@ export const resources = [
     category: 'Startup',
     url: 'https://ideabuddy.com',
     description:
-      'Bring your business idea to life. All-in-one business planning\n software that helps you turn your great idea into a successful business.',
+      'Bring your business idea to life. All-in-one business planning software that helps you turn your great idea into a successful business.',
   },
   {
     name: 'Validator AI',
     category: 'Startup',
     url: 'https://validatorai.com',
     description:
-      "AI business validator for any idea. Validate and receive\n constructive feedback on any startup idea, powered by AI. It first lists out potential struggles you may encounter when running the business and then gives it's overall feedback\n about your business idea.",
+      "AI business validator for any idea. Validate and receive constructive feedback on any startup idea, powered by AI. It first lists out potential struggles you may encounter when running the business and then gives it's overall feedback about your business idea.",
   },
   {
     name: 'Durable',
     category: 'Startup',
     url: 'https://durable.co',
     description:
-      'Get your business online in 30 seconds. The AI-powered\n platform for solo business owners. Generate a website,\n automate your marketing, and manage your finances.',
+      'Get your business online in 30 seconds. The AI-powered platform for solo business owners. Generate a website, automate your marketing, and manage your finances.',
   },
   {
     name: 'Pitchgrade',
     category: 'Startup',
     url: 'https://pitchgrade.com',
-    description: 'Get instant feedback on your pitch deck, so fundraising\n becomes the least of your concerns.',
+    description: 'Get instant feedback on your pitch deck, so fundraising becomes the least of your concerns.',
   },
   {
     name: 'Namewizard.ai',
@@ -3647,7 +3639,7 @@ export const resources = [
     name: 'Subtxt',
     category: 'Story Teller',
     url: 'https://subtxt.app',
-    description: "Subtxt is the only intelligent outliner that works with your\n writer's intuition, not against it.",
+    description: "Subtxt is the only intelligent outliner that works with your writer's intuition, not against it.",
   },
   {
     name: 'Fabled',
@@ -3661,7 +3653,7 @@ export const resources = [
     category: 'Story Teller',
     url: 'https://artflow.ai',
     description:
-      'Effortlessly turn ideas into Animated Stories & let the\n Creativity flow. Artflow.ai lets you create your own, unique Animated Stories with original characters using assets\n generated with AI.',
+      'Effortlessly turn ideas into Animated Stories & let the Creativity flow. Artflow.ai lets you create your own, unique Animated Stories with original characters using assets generated with AI.',
   },
   {
     name: 'Once Upon A Bot',
@@ -3675,28 +3667,28 @@ export const resources = [
     category: 'Story Teller',
     url: 'https://novelai.net',
     description:
-      'GPT-powered AI Storyteller. Driven by AI, construct unique\n stories, thrilling tales, seductive romances, or just fool\n around. Anything goes!!',
+      'GPT-powered AI Storyteller. Driven by AI, construct unique stories, thrilling tales, seductive romances, or just fool around. Anything goes!!',
   },
   {
     name: 'StoriesForKids',
     category: 'Story Teller',
     url: 'https://storiesforkids.ai',
     description:
-      'Read & Create Together. Turn real-life situations into fun\n stories & illustrations in seconds on your phone.',
+      'Read & Create Together. Turn real-life situations into fun stories & illustrations in seconds on your phone.',
   },
   {
     name: 'Neural Canvas',
     category: 'Story Teller',
     url: 'https://neuralcanvas.io',
     description:
-      'Neural Canvas is a digital illustration generator service able to\n generate unique illustrations for your comic, blogpost, e-\n book, story, collections, and more. Create your own AI- generated comic using it.',
+      'Neural Canvas is a digital illustration generator service able to generate unique illustrations for your comic, blogpost, e- book, story, collections, and more. Create your own AI- generated comic using it.',
   },
   {
     name: 'BedtimeStory AI',
     category: 'Story Teller',
     url: 'https://bedtimestory.ai',
     description:
-      'Create personalized, instant bedtime stories in seconds. Generate a story about your child, including some family members as characters, and add a genre, story style, moral, and much more – generated using artificial intelligence. Their open library has 5000+ stories. Explore all the stories created by the community. You can like stories, bookmark them into your collections, re-mix* them, share with friends, read to\n your kids.',
+      'Create personalized, instant bedtime stories in seconds. Generate a story about your child, including some family members as characters, and add a genre, story style, moral, and much more – generated using artificial intelligence. Their open library has 5000+ stories. Explore all the stories created by the community. You can like stories, bookmark them into your collections, re-mix* them, share with friends, read to your kids.',
   },
   {
     name: 'Scene One',
@@ -3710,27 +3702,27 @@ export const resources = [
     category: 'Story Teller',
     url: 'https://storywizard.ai',
     description:
-      "Create incredible children's stories by using AI to help you\n generate unique and beautiful children's stories with vivid\n images and enjoyable plots.",
+      "Create incredible children's stories by using AI to help you generate unique and beautiful children's stories with vivid images and enjoyable plots.",
   },
   {
     name: 'Story Path',
     category: 'Story Teller',
     url: 'https://storypath.app',
     description:
-      "Book Planning App Powered by AI Plan your story or cure your writer's block in minutes Stuck on where your plot will go next, or have a story idea you need to flesh out? From only a brief description, Story Path will generate branching options for your plot. Expand and explore your favourite\n paths and customize the details to your liking.",
+      "Book Planning App Powered by AI Plan your story or cure your writer's block in minutes Stuck on where your plot will go next, or have a story idea you need to flesh out? From only a brief description, Story Path will generate branching options for your plot. Expand and explore your favourite paths and customize the details to your liking.",
   },
   {
     name: 'What on earth?',
     category: 'Story Teller',
     url: 'https://whatonearth.xyz',
-    description: 'A fun way to learn something new. Generate stories with just\n an one-word prompt.',
+    description: 'A fun way to learn something new. Generate stories with just an one-word prompt.',
   },
   {
     name: 'Summate',
     category: 'Summarizer',
     url: 'https://summate.it',
     description:
-      'Experimental AI tool that summarizes web articles. The site\n uses Full-Text RSS for article extraction and OpenAI for article\n summarization.',
+      'Experimental AI tool that summarizes web articles. The site uses Full-Text RSS for article extraction and OpenAI for article summarization.',
   },
   {
     name: 'TLDR this',
@@ -3744,54 +3736,54 @@ export const resources = [
     category: 'Summarizer',
     url: 'https://upword.ai',
     description:
-      'Easily Summarize Your Content with Upword. Combine their\n powerful AI tools with your own notes to create faster, more efficient summaries that you can read or listen to.',
+      'Easily Summarize Your Content with Upword. Combine their powerful AI tools with your own notes to create faster, more efficient summaries that you can read or listen to.',
   },
   {
     name: 'WordfixerBot',
     category: 'Summarizer',
     url: 'https://wordfixerbot.com',
-    description: 'WordfixerBot is a paraphraser, grammar checker, text\n summarizer, and text comparison tool.',
+    description: 'WordfixerBot is a paraphraser, grammar checker, text summarizer, and text comparison tool.',
   },
   {
     name: 'Genei',
     category: 'Summarizer',
     url: 'https://genei.io',
-    description: 'Automatically summarise background reading and produce\n blogs, articles, and reports faster.',
+    description: 'Automatically summarise background reading and produce blogs, articles, and reports faster.',
   },
   {
     name: 'Otter AI',
     category: 'Summarizer',
     url: 'https://otter.ai',
     description:
-      'Capture and share insights from your meetings. Otter records\n meetings, take notes in real-time, and generates an automated summary to share with everyone and to help you\n remember everything.',
+      'Capture and share insights from your meetings. Otter records meetings, take notes in real-time, and generates an automated summary to share with everyone and to help you remember everything.',
   },
   {
     name: 'Bearly',
     category: 'Summarizer',
     url: 'https://bearly.ai',
     description:
-      'A very useful AI tool for researchers - It can be used to create\n a summary, an outline or reword articles.',
+      'A very useful AI tool for researchers - It can be used to create a summary, an outline or reword articles.',
   },
   {
     name: 'Summari',
     category: 'Summarizer',
     url: 'https://summari.com',
     description:
-      'Improve the reading experience on your site. Upgrade links\n into short, informative previews using our world-class AI\n summarization technology.',
+      'Improve the reading experience on your site. Upgrade links into short, informative previews using our world-class AI summarization technology.',
   },
   {
     name: 'Summarize Tech',
     category: 'Summarizer',
     url: 'https://summarize.tech',
     description:
-      'AI-powered video summaries. Get a summary of any long\n YouTube video, like a lecture, live event or a government\n meeting.',
+      'AI-powered video summaries. Get a summary of any long YouTube video, like a lecture, live event or a government meeting.',
   },
   {
     name: 'ExplainThis',
     category: 'Summarizer',
     url: 'https://explainthis.ai',
     description:
-      "A chrome extension that can explain concepts to you in plain\n language. The AI assistant provides a summary of the entire page with a single click. This is useful when you don't have\n much time or want a concise sum",
+      "A chrome extension that can explain concepts to you in plain language. The AI assistant provides a summary of the entire page with a single click. This is useful when you don't have much time or want a concise sum",
   },
   {
     name: 'GPT-Prompter',
@@ -3811,7 +3803,7 @@ export const resources = [
     category: 'Text To Speech',
     url: 'https://wellsaidlabs.com',
     description:
-      'Beautiful voices at your fingertips with text-to-speech that\n captivates. Reduce costs and streamline the voice production process.',
+      'Beautiful voices at your fingertips with text-to-speech that captivates. Reduce costs and streamline the voice production process.',
   },
   {
     name: 'Replicastudios',
@@ -3825,7 +3817,7 @@ export const resources = [
     category: 'Text To Speech',
     url: 'https://play.ad-auris.com',
     description:
-      'Listen to articles on the go! Create a playlist of articles and\n listen to them on Spotify, Apple Podcasts, and Google\n Podcasts.',
+      'Listen to articles on the go! Create a playlist of articles and listen to them on Spotify, Apple Podcasts, and Google Podcasts.',
   },
   {
     name: 'FakeYou',
@@ -3839,7 +3831,7 @@ export const resources = [
     category: 'Text To Speech',
     url: 'https://listnr.tech',
     description:
-      'AI Voice Generator with over 600+ voiceovers in 80+\n languages, go from Text to Voice in seconds, export your\n voices easily in MP3 or WAV format.',
+      'AI Voice Generator with over 600+ voiceovers in 80+ languages, go from Text to Voice in seconds, export your voices easily in MP3 or WAV format.',
   },
   {
     name: 'Resemble',
@@ -3851,14 +3843,14 @@ export const resources = [
     name: 'Audioread',
     category: 'Text To Speech',
     url: 'https://audioread.com',
-    description: 'Turn your reads into podcasts. Listen to any article, PDF,\n email, etc in your podcast app.',
+    description: 'Turn your reads into podcasts. Listen to any article, PDF, email, etc in your podcast app.',
   },
   {
     name: 'Whisper',
     category: 'Text To Speech',
     url: 'https://github.com',
     description:
-      'Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi- task model that can perform multilingual speech recognition\n as well as speech translation and language identification.',
+      'Whisper is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multi- task model that can perform multilingual speech recognition as well as speech translation and language identification.',
   },
   {
     name: 'Descript',
@@ -3871,41 +3863,41 @@ export const resources = [
     category: 'Text To Speech',
     url: 'https://symbl.ai',
     description:
-      'Integrate real-time speech-to-text and context understanding. Powered by advanced deep learning models. Enable live captioning, track user intents, generate\n summaries and more from unstructured conversation data.',
+      'Integrate real-time speech-to-text and context understanding. Powered by advanced deep learning models. Enable live captioning, track user intents, generate summaries and more from unstructured conversation data.',
   },
   {
     name: 'Murf AI',
     category: 'Text To Speech',
     url: 'https://murf.ai',
     description:
-      "Go from text to speech with a versatile AI voice generator AI- enabled, real people's voices Make studio-quality voiceovers in minutes. Use Murf’s lifelike AI voices for podcasts, videos,\n and all your professional presentations",
+      "Go from text to speech with a versatile AI voice generator AI- enabled, real people's voices Make studio-quality voiceovers in minutes. Use Murf’s lifelike AI voices for podcasts, videos, and all your professional presentations",
   },
   {
     name: 'Play.ht',
     category: 'Text To Speech',
     url: 'https://play.ht',
     description:
-      'AI-powered text to voice generator. Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural-\n sounding speech and download as MP3 and WAV audio files.',
+      'AI-powered text to voice generator. Generate realistic Text to Speech (TTS) audio using our online AI Voice Generator and the best synthetic voices. Instantly convert text in to natural- sounding speech and download as MP3 and WAV audio files.',
   },
   {
     name: 'Apple Books',
     category: 'Text To Speech',
     url: 'https://apple.com',
     description:
-      'Audiobooks narrated by a text-to-speech AI are now available\n via Apple’s Books. Initially only available for romance and\n fiction books, where they list two available digital voices: Madison and Jackson.',
+      'Audiobooks narrated by a text-to-speech AI are now available via Apple’s Books. Initially only available for romance and fiction books, where they list two available digital voices: Madison and Jackson.',
   },
   {
     name: 'Article.Audio',
     category: 'Text To Speech',
     url: 'https://article.audio',
-    description: 'Too lazy to read an article? no problem, listen to it! Convert\n Articles To Audio',
+    description: 'Too lazy to read an article? no problem, listen to it! Convert Articles To Audio',
   },
   {
     name: 'Convai',
     category: 'Text To Speech',
     url: 'https://convai.com',
     description:
-      'Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text to Speech. Design your games and speech enabled applications. Design\n your conversation based Characters and Speech based games.',
+      'Easy to use, Conversational AI APIs for Speech Recognition, Language Understanding and generation, and Text to Speech. Design your games and speech enabled applications. Design your conversation based Characters and Speech based games.',
   },
   {
     name: 'Speechify',
@@ -3919,7 +3911,7 @@ export const resources = [
     category: 'Text To Speech',
     url: 'https://levenlabs.io',
     description:
-      'Future of Voice. The first platform for generating long-format speech in any voice and in any language. We use AI to bring the most natural and compelling voices to creators and\n publishers seeking the ultimate storytelling quality.',
+      'Future of Voice. The first platform for generating long-format speech in any voice and in any language. We use AI to bring the most natural and compelling voices to creators and publishers seeking the ultimate storytelling quality.',
   },
   {
     name: 'Coqui',
@@ -3937,90 +3929,90 @@ export const resources = [
     name: 'fireflies.ai',
     category: 'Transcriber',
     url: 'https://fireflies.ai',
-    description: 'AI assistant for your meetings Record, transcribe, and search\n across your voice conversations.',
+    description: 'AI assistant for your meetings Record, transcribe, and search across your voice conversations.',
   },
   {
     name: 'Whisper Memos',
     category: 'Transcriber',
     url: 'https://whispermemos.com',
     description:
-      'Whisper Memos is an app that records your voice and sends\n you an email with the transcription a few minutes later. Use it to record quick thoughts, reminders and daily journal\n entries.',
+      'Whisper Memos is an app that records your voice and sends you an email with the transcription a few minutes later. Use it to record quick thoughts, reminders and daily journal entries.',
   },
   {
     name: 'Supertranslate',
     category: 'Transcriber',
     url: 'https://supertranslate.ai',
     description:
-      'Add accurate English subtitles to any language video in one click. You can upload videos in 100+ languages and Supertranslate automatically generates English subtitles.\n Supertranslate is powered by OpenAI’s Whisper, which is the most accurate speech-to-text system in the world. It is robust\n to background noise, language mixing, and accents.',
+      'Add accurate English subtitles to any language video in one click. You can upload videos in 100+ languages and Supertranslate automatically generates English subtitles. Supertranslate is powered by OpenAI’s Whisper, which is the most accurate speech-to-text system in the world. It is robust to background noise, language mixing, and accents.',
   },
   {
     name: 'Type Studio',
     category: 'Video Editing',
     url: 'https://typestudio.co',
     description:
-      'Type Studio is a text-based video editor that takes your video\n and transcribes it into text automatically. They also have\n quick tools for video editing, subtitles, podcast, repurposing, and recording.',
+      'Type Studio is a text-based video editor that takes your video and transcribes it into text automatically. They also have quick tools for video editing, subtitles, podcast, repurposing, and recording.',
   },
   {
     name: 'Contentfries',
     category: 'Video Editing',
     url: 'https://contentfries.com',
     description:
-      'Get Dozens Of Content Pieces with ContentFries. Create contextual content for weeks or months ahead, faster than ever before. They also have a subtitle creator software - auto-\n subtitles for 120+ languages and dialects.',
+      'Get Dozens Of Content Pieces with ContentFries. Create contextual content for weeks or months ahead, faster than ever before. They also have a subtitle creator software - auto- subtitles for 120+ languages and dialects.',
   },
   {
     name: 'Topaz Video AI',
     category: 'Video Editing',
     url: 'https://topazlabs.com',
     description:
-      'Unlimited access to the world’s leading production-grade\n neural networks for video upscaling, deinterlacing, motion\n interpolation, and shake stabilization - all optimized for your local workstation.',
+      'Unlimited access to the world’s leading production-grade neural networks for video upscaling, deinterlacing, motion interpolation, and shake stabilization - all optimized for your local workstation.',
   },
   {
     name: 'Shuffll',
     category: 'Video Editing',
     url: 'https://shuffll.com',
     description:
-      'Shuffll is a cutting-edge video production platform that uses\n AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would\n take using traditional methods.',
+      'Shuffll is a cutting-edge video production platform that uses AI technology to streamline the creation process. Our platform allows businesses to easily create high-quality, personalized video content in a fraction of the time it would take using traditional methods.',
   },
   {
     name: 'Gling',
     category: 'Video Editing',
     url: 'https://gling.ai',
     description:
-      'Gling is an AI tool made for video content creators. Their AI\n will cut silences and bad takes for you so you can focus on your YouTube videos.',
+      'Gling is an AI tool made for video content creators. Their AI will cut silences and bad takes for you so you can focus on your YouTube videos.',
   },
   {
     name: 'Pictory',
     category: 'Video Editing',
     url: 'https://pictory.ai',
     description:
-      'Pictory is a video marketing tool that automatically creates\n short, highly sharable branded videos from long form\n content. Turn your scripts and blog posts into engaging videos on auto-pilot.',
+      'Pictory is a video marketing tool that automatically creates short, highly sharable branded videos from long form content. Turn your scripts and blog posts into engaging videos on auto-pilot.',
   },
   {
     name: 'Runwayml',
     category: 'Video Editing',
     url: 'https://runwayml.com',
-    description: 'Discover advanced video editing capabilities to take your\n creations to the next level.',
+    description: 'Discover advanced video editing capabilities to take your creations to the next level.',
   },
   {
     name: 'Unscreen.com',
     category: 'Video Editing',
     url: 'https://unscreen.com',
     description:
-      'Remove Video Background, 100% Automatically and Free.\n With Unscreen you can record your footage anywhere, then\n simply get rid of the background.',
+      'Remove Video Background, 100% Automatically and Free. With Unscreen you can record your footage anywhere, then simply get rid of the background.',
   },
   {
     name: 'Colourlab',
     category: 'Video Editing',
     url: 'https://colourlab.ai',
     description:
-      'Hollywood meets AI. Colourlab AI makes color grading fast,\n easy and simple by automating color-matching and balancing thanks to new and groundbreaking Artificial Intelligence-\n powered tools.',
+      'Hollywood meets AI. Colourlab AI makes color grading fast, easy and simple by automating color-matching and balancing thanks to new and groundbreaking Artificial Intelligence- powered tools.',
   },
   {
     name: 'Papercup',
     category: 'Video Editing',
     url: 'https://papercup.com',
     description:
-      'Discover faster, more affordable automated dubbing and go global with your existing video content. Use AI to dub your content in English, Spanish, Portuguese and Italian. They are\n used by companies like BBC, Sky News and Insider.',
+      'Discover faster, more affordable automated dubbing and go global with your existing video content. Use AI to dub your content in English, Spanish, Portuguese and Italian. They are used by companies like BBC, Sky News and Insider.',
   },
   {
     name: 'Dubverse',
@@ -4034,14 +4026,14 @@ export const resources = [
     category: 'Video Editing',
     url: 'https://vidyo.ai',
     description:
-      'Make short videos from long ones instantly. Use powerful AI\n to create short clips from your existing videos ✨ Save 90%\n time and effort.',
+      'Make short videos from long ones instantly. Use powerful AI to create short clips from your existing videos ✨ Save 90% time and effort.',
   },
   {
     name: 'Munch',
     category: 'Video Editing',
     url: 'https://getmunch.com',
     description:
-      'Automagically Turn long-form vids into data-driven short clips for social media. Munch generates exposure and engagement by harvesting top interest from TikTok, IG, YT, and FB users\n and applying it to your AI-generated clips.',
+      'Automagically Turn long-form vids into data-driven short clips for social media. Munch generates exposure and engagement by harvesting top interest from TikTok, IG, YT, and FB users and applying it to your AI-generated clips.',
   },
   {
     name: 'FILM',
@@ -4054,28 +4046,28 @@ export const resources = [
     name: 'Astria',
     category: 'Video Generator',
     url: 'https://astria.ai',
-    description: 'Tailor-made AI image generation. Start creating your unique\n images.',
+    description: 'Tailor-made AI image generation. Start creating your unique images.',
   },
   {
     name: 'Waymark',
     category: 'Video Generator',
     url: 'https://waymark.com',
     description:
-      'Waymark’s AI video creator makes it easy to create spec\n creative for any prospect. Now, you can walk into every\n meeting with fully customized sample commercials.',
+      'Waymark’s AI video creator makes it easy to create spec creative for any prospect. Now, you can walk into every meeting with fully customized sample commercials.',
   },
   {
     name: 'Fliki',
     category: 'Video Generator',
     url: 'https://fliki.ai',
     description:
-      'Create videos from scripts or blog posts using realistic voices\n in 2 minutes! Transform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library. Trusted by 30k+ content creators from companies like Google, Meta,\n Bytedance and Upwork.',
+      'Create videos from scripts or blog posts using realistic voices in 2 minutes! Transform blog articles into videos. Lifelike Text to Speech Voices. Rich stock media library. Trusted by 30k+ content creators from companies like Google, Meta, Bytedance and Upwork.',
   },
   {
     name: 'Synthesia',
     category: 'Video Generator',
     url: 'https://synthesia.io',
     description:
-      'Create AI videos by simply typing in text. Easy to use, cheap\n and scalable. Make engaging videos with human presenters\n — directly from your browser. Free demo.',
+      'Create AI videos by simply typing in text. Easy to use, cheap and scalable. Make engaging videos with human presenters — directly from your browser. Free demo.',
   },
   {
     name: 'Steve AI',
@@ -4089,7 +4081,7 @@ export const resources = [
     category: 'Video Generator',
     url: 'https://invideo.io',
     description:
-      'Unlock the power of video. With InVideo, everyone can create great-looking pro videos that engage better, deliver more leads and save time. Our library of 5000+ templates, transitions, and effects is here to help you create videos\n easily, quickly, and efficiently.No download is required.',
+      'Unlock the power of video. With InVideo, everyone can create great-looking pro videos that engage better, deliver more leads and save time. Our library of 5000+ templates, transitions, and effects is here to help you create videos easily, quickly, and efficiently.No download is required.',
   },
   {
     name: 'Opus',
@@ -4116,21 +4108,21 @@ export const resources = [
     category: 'Video Generator',
     url: 'https://xpressioncamera.com',
     description:
-      'Xpression Camera is an award-winning virtual camera app that allows users to instantly transform into anyone or anything with a face with a single photo without any processing time. xpression camera enables users to redefine their onscreen persona in real-time while chatting on apps like Zoom, live streaming on Twitch, or creating a YouTube\n video.',
+      'Xpression Camera is an award-winning virtual camera app that allows users to instantly transform into anyone or anything with a face with a single photo without any processing time. xpression camera enables users to redefine their onscreen persona in real-time while chatting on apps like Zoom, live streaming on Twitch, or creating a YouTube video.',
   },
   {
     name: 'Movio',
     category: 'Video Generator',
     url: 'https://movio.la',
     description:
-      'Why pay a spokesperson when you can use an AI video editor\n to create one? MOVIO is a top-shelf synthetic media that can\n turn your text to video.',
+      'Why pay a spokesperson when you can use an AI video editor to create one? MOVIO is a top-shelf synthetic media that can turn your text to video.',
   },
   {
     name: 'Pyttipanna',
     category: 'Video Generator',
     url: 'https://pyttipanna.xyz',
     description:
-      'Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation. Pytti is a framework for creating and rendering\n videos using Machine Learning models.',
+      'Pyttipanna is an interface for Pytti 5. It allows you to structure, narrate and experiment with prompts for video creation. Pytti is a framework for creating and rendering videos using Machine Learning models.',
   },
   {
     name: 'Peech',
@@ -4140,7 +4132,7 @@ export const resources = [
       'Turn Your Content Team Into Unstoppable Creators. Automatically transcribe, edit, repurpose, and brand your video content - all in one place and produce video content at scale.',
   },
   {
-    name: 'Wonder\n Dynamics',
+    name: 'Wonder Dynamics',
     category: 'Video Generator',
     url: 'https://wonderdynamics.com',
     description: 'At Wonder Dynamics, we combine AI technology with first- class storytelling.',
@@ -4157,41 +4149,41 @@ export const resources = [
     category: 'Video Generator',
     url: 'https://livereacting.com',
     description:
-      'Elevate your live shows with our AI host. Save time and\n money while providing an interactive and engaging experience for your audience.',
+      'Elevate your live shows with our AI host. Save time and money while providing an interactive and engaging experience for your audience.',
   },
   {
     name: 'Audiolabs',
     category: 'Video Generator',
     url: 'https://audiolabs.io',
     description:
-      'Platform to turn your podcast into short-form videos ideal for TikTok, YouTube Shorts and Reels. Reach new podcast listeners and drive business outcomes 🎙️Publishing video clips on short-form platforms acts as a “hook” for listeners to\n discover your inventory and tune in to the full episode or\n other marketing goals',
+      'Platform to turn your podcast into short-form videos ideal for TikTok, YouTube Shorts and Reels. Reach new podcast listeners and drive business outcomes 🎙️Publishing video clips on short-form platforms acts as a “hook” for listeners to discover your inventory and tune in to the full episode or other marketing goals',
   },
   {
     name: 'Hourone',
     category: 'Video Generator',
     url: 'https://hourone.ai',
     description:
-      "Welcome to Hour One - the world's fastest growing AI video\n maker. We turn text to video to make learning &\n development more fun & effective. Try now!",
+      "Welcome to Hour One - the world's fastest growing AI video maker. We turn text to video to make learning & development more fun & effective. Try now!",
   },
   {
     name: 'VidIQ',
     category: 'Video Planner',
     url: 'https://vidiq.com',
-    description: 'Boost your YouTube views with AI. Get free insights and\n guidance to keep your channel growing.',
+    description: 'Boost your YouTube views with AI. Get free insights and guidance to keep your channel growing.',
   },
   {
     name: 'Raw Shorts',
     category: 'Text to Animated Video',
     url: 'https://www.rawshorts.com/',
     description:
-      'This platform utilizes AI technology to turn your text into\n visually stunning and informative animated videos in just\n minutes',
+      'This platform utilizes AI technology to turn your text into visually stunning and informative animated videos in just minutes',
   },
   {
     name: 'Glia Cloud',
     category: 'Video Generator',
     url: 'https://www.gliacloud.com/en/',
     description:
-      'It takes raw text content and matches it with media assets to\n create informative videos to post and share; Generate videos from news content, social posts, live sport events and\n statistical data',
+      'It takes raw text content and matches it with media assets to create informative videos to post and share; Generate videos from news content, social posts, live sport events and statistical data',
   },
   {
     name: 'Muse Ai',
@@ -4204,14 +4196,14 @@ export const resources = [
     name: 'Wideo',
     category: 'Video Editing',
     url: 'https://wideo.co/',
-    description: 'Online video creation platform that enables users to create,\n edit, and share online videos',
+    description: 'Online video creation platform that enables users to create, edit, and share online videos',
   },
   {
     name: 'Toonly',
     category: 'Animated Video Generator',
-    url: 'https://voomly.myclickfunnels.co m/toonly-special-one-time-price-\n fb',
+    url: 'https://voomly.myclickfunnels.co m/toonly-special-one-time-price- fb',
     description:
-      'AI-generated video tool that uses animation to convey your\n message. Instead of a human-like avatar, Toonly creates\n engaging animated videos',
+      'AI-generated video tool that uses animation to convey your message. Instead of a human-like avatar, Toonly creates engaging animated videos',
   },
   {
     name: 'Synthesy Io',
@@ -4224,41 +4216,41 @@ export const resources = [
     category: 'Video Generator',
     url: 'https://livereacting.com',
     description:
-      'Elevate your live shows with our AI host. Save time and\n money while providing an interactive and engaging experience for your audience.',
+      'Elevate your live shows with our AI host. Save time and money while providing an interactive and engaging experience for your audience.',
   },
   {
     name: 'Audiolabs',
     category: 'Video Generator',
     url: 'https://audiolabs.io',
     description:
-      'Platform to turn your podcast into short-form videos ideal for TikTok, YouTube Shorts and Reels. Reach new podcast listeners and drive business outcomes 🎙️Publishing video clips on short-form platforms acts as a “hook” for listeners to\n discover your inventory and tune in to the full episode or\n other marketing goals',
+      'Platform to turn your podcast into short-form videos ideal for TikTok, YouTube Shorts and Reels. Reach new podcast listeners and drive business outcomes 🎙️Publishing video clips on short-form platforms acts as a “hook” for listeners to discover your inventory and tune in to the full episode or other marketing goals',
   },
   {
     name: 'Hourone',
     category: 'Video Generator',
     url: 'https://hourone.ai',
     description:
-      "Welcome to Hour One - the world's fastest growing AI video\n maker. We turn text to video to make learning &\n development more fun & effective. Try now!",
+      "Welcome to Hour One - the world's fastest growing AI video maker. We turn text to video to make learning & development more fun & effective. Try now!",
   },
   {
     name: 'VidIQ',
     category: 'Video Planner',
     url: 'https://vidiq.com',
-    description: 'Boost your YouTube views with AI. Get free insights and\n guidance to keep your channel growing.',
+    description: 'Boost your YouTube views with AI. Get free insights and guidance to keep your channel growing.',
   },
   {
     name: 'Raw Shorts',
     category: 'Text to Animated Video',
     url: 'https://www.rawshorts.com/',
     description:
-      'This platform utilizes AI technology to turn your text into\n visually stunning and informative animated videos in just\n minutes',
+      'This platform utilizes AI technology to turn your text into visually stunning and informative animated videos in just minutes',
   },
   {
     name: 'Glia Cloud',
     category: 'Video Generator',
     url: 'https://www.gliacloud.com/en/',
     description:
-      'It takes raw text content and matches it with media assets to\n create informative videos to post and share; Generate videos from news content, social posts, live sport events and\n statistical data',
+      'It takes raw text content and matches it with media assets to create informative videos to post and share; Generate videos from news content, social posts, live sport events and statistical data',
   },
   {
     name: 'Muse Ai',
@@ -4271,14 +4263,14 @@ export const resources = [
     name: 'Wideo',
     category: 'Video Editing',
     url: 'https://wideo.co/',
-    description: 'Online video creation platform that enables users to create,\n edit, and share online videos',
+    description: 'Online video creation platform that enables users to create, edit, and share online videos',
   },
   {
     name: 'Toonly',
     category: 'Animated Video Generator',
-    url: 'https://voomly.myclickfunnels.co m/toonly-special-one-time-price-\n fb',
+    url: 'https://voomly.myclickfunnels.co m/toonly-special-one-time-price- fb',
     description:
-      'AI-generated video tool that uses animation to convey your\n message. Instead of a human-like avatar, Toonly creates\n engaging animated videos',
+      'AI-generated video tool that uses animation to convey your message. Instead of a human-like avatar, Toonly creates engaging animated videos',
   },
   {
     name: 'Synthesy Io',
