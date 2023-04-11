@@ -2,40 +2,32 @@ import { db } from '../lib/db'
 import { categories } from './categories'
 import { resources } from './resources'
 
-const insertCategories = async () => {
-  for (const category of categories) {
-    await db.category.create({
-      data: {
-        name: category,
-      },
-    })
-  }
-}
-
-const insertResources = async () => {
-  for (const resource of resources) {
-    console.log(`[DEBUG] inserting resource: (name: ${resource.name}, category: ${resource.category})`)
-    const _category = await db.category.findUnique({
-      where: {
-        name: resource.category,
-      },
-    })
-    console.log(`[DEBUG] found categoryId: ${_category?.id}`)
-    await db.resource.create({
-      data: {
-        name: resource.name,
-        description: resource.description,
-        url: resource.url,
-        category: resource.category,
-        categoryId: _category?.id,
-      },
-    })
-  }
-}
-
 const main = async () => {
-  await insertCategories()
-  await insertResources()
+  // Seed categories
+  const categoryMap = new Map<string, number>()
+  for (const categoryName of categories) {
+    const createdCategory = await db.category.create({
+      data: {
+        name: categoryName,
+      },
+    })
+    categoryMap.set(createdCategory.name, createdCategory.id)
+  }
+
+  // Seed resources
+  for (const resource of resources) {
+    const categoryId = categoryMap.get(resource.category)
+    if (categoryId) {
+      await db.resource.create({
+        data: {
+          name: resource.name,
+          description: resource.description,
+          categoryId: categoryId,
+          url: resource.url,
+        },
+      })
+    }
+  }
 }
 
 main()

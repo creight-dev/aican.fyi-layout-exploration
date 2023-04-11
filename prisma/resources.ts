@@ -1,4 +1,11 @@
-export const resources = [
+export interface ResourceData {
+  name: string
+  description: string
+  category: string
+  url: string
+}
+
+export const resources: ResourceData[] = [
   {
     name: 'Elai',
     category: 'Voiceover + avatar',

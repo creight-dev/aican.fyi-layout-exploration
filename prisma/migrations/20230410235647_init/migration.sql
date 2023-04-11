@@ -16,7 +16,6 @@ CREATE TABLE "Resource" (
     "name" TEXT NOT NULL,
     "description" TEXT NOT NULL,
     "url" TEXT NOT NULL,
-    "category" TEXT NOT NULL,
     "logo" TEXT,
     "categoryId" INTEGER NOT NULL,
 
